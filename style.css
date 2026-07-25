@@ -1,0 +1,102 @@
+body {
+  font-family: system-ui, -apple-system, sans-serif;
+  background-color: #eef2f5;
+  color: #2c3e50;
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 15px;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: linear-gradient(135deg, #0284c7, #0369a1);
+  color: white;
+  padding: 16px 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(2, 132, 199, 0.2);
+}
+
+header h1 {
+  font-size: 20px;
+  margin: 0;
+}
+
+#score {
+  font-weight: bold;
+  background: rgba(255, 255, 255, 0.2);
+  padding: 6px 12px;
+  border-radius: 20px;
+}
+
+.card {
+  background: white;
+  padding: 22px;
+  margin-top: 20px;
+  border-radius: 14px;
+  box-shadow: 0 3px 10px rgba(0,0,0,0.05);
+}
+
+#questionText {
+  font-size: 18px;
+  line-height: 1.5;
+  color: #1e293b;
+  margin-top: 0;
+}
+
+.option-btn {
+  display: block;
+  width: 100%;
+  padding: 14px;
+  margin: 10px 0;
+  border: 1px solid #cbd5e1;
+  background: #f8fafc;
+  border-radius: 8px;
+  text-align: left;
+  font-size: 15px;
+  color: #334155;
+  cursor: pointer;
+}
+
+.option-btn.correct {
+  background-color: #d1e7dd;
+  border-color: #0f5132;
+  color: #0f5132;
+  font-weight: bold;
+}
+
+.option-btn.wrong {
+  background-color: #f8d7da;
+  border-color: #842029;
+  color: #842029;
+}
+
+#explanation {
+  margin-top: 18px;
+  padding: 14px;
+  background: #f0fdf4;
+  border-left: 4px solid #16a34a;
+  border-radius: 6px;
+  font-size: 14px;
+  line-height: 1.5;
+  color: #14532d;
+}
+
+#nextBtn {
+  margin-top: 18px;
+  width: 100%;
+  padding: 12px;
+  background: #0284c7;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.hidden {
+  display: none;
+}
+
