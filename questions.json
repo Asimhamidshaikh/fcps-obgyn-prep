@@ -1,0 +1,36 @@
+[
+  {
+    "question": "A 28-week pregnant patient presents with sudden, painless vaginal bleeding. Ultrasound confirms placenta previa. What is the most appropriate initial management in a hemodynamically stable patient?",
+    "options": [
+      "Immediate emergency Caesarean section",
+      "Expectant management with hospital admission and fetal monitoring",
+      "Digital vaginal examination to assess cervical dilation",
+      "Induction of labor with oxytocin"
+    ],
+    "correct": 1,
+    "explanation": "In a hemodynamically stable patient with placenta previa prior to 37 weeks, conservative (expectant) management is indicated to allow fetal maturity. Digital vaginal examination is strictly contraindicated as it can provoke life-threatening hemorrhage."
+  },
+  {
+    "question": "Which tumor marker is most characteristically elevated in dysgerminoma of the ovary?",
+    "options": [
+      "CA-125",
+      "Alpha-fetoprotein (AFP)",
+      "Lactate Dehydrogenase (LDH)",
+      "Inhibin B"
+    ],
+    "correct": 2,
+    "explanation": "Lactate Dehydrogenase (LDH) is the primary tumor marker for ovarian dysgerminoma. Alpha-fetoprotein (AFP) is elevated in yolk sac (endodermal sinus) tumors, while Inhibin B is used for granulosa cell tumors."
+  },
+  {
+    "question": "A 32-year-old G2P1 at 38 weeks gestation presents in active labor. Cardiotocography (CTG) shows late decelerations. What is the immediate first step in management?",
+    "options": [
+      "Turn the patient to the left lateral position and administer oxygen",
+      "Perform immediate instrumental delivery",
+      "Administer IV oxytocin bolus",
+      "Prepare for emergency stat operative intervention without resuscitation"
+    ],
+    "correct": 0,
+    "explanation": "Late decelerations indicate uteroplacental insufficiency. The initial step is intrauterine resuscitation: repositioning the mother to the left lateral position (to relieve inferior vena cava compression), stopping oxytocin if running, and administering oxygen/IV fluids."
+  }
+]
+
