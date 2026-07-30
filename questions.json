@@ -1,160 +1,314 @@
 [
   {
-    "question": "A 28-week pregnant patient presents with sudden, painless vaginal bleeding. Ultrasound confirms placenta previa. What is the most appropriate initial management in a hemodynamically stable patient?",
+    "question": "A 25-year-old G1P0 at 30 weeks gestation presents after a high-speed motor vehicle collision. She is hemodynamically stable with no vaginal bleeding or abdominal pain. What is the most appropriate next step in management?",
     "options": [
-      "Immediate emergency Caesarean section",
-      "Expectant management with hospital admission and fetal monitoring",
-      "Digital vaginal examination to assess cervical dilation",
-      "Induction of labor with oxytocin"
+      "Discharge home with warning signs",
+      "Continuous electronic fetal monitoring for at least 4-6 hours",
+      "Immediate STAT emergency Cesarean section",
+      "Kleihauer-Betke test and immediate discharge"
     ],
     "correct": 1,
-    "explanation": "In a hemodynamically stable patient with placenta previa prior to 37 weeks, conservative (expectant) management is indicated to allow fetal maturity. Digital vaginal examination is strictly contraindicated as it can provoke life-threatening hemorrhage."
+    "explanation": "Trauma in pregnancy carries a high risk of concealed placental abruption. Even in asymptomatic and stable patients, continuous electronic fetal monitoring for a minimum of 4-6 hours is required to rule out uterine irritability and occult abruption."
   },
   {
-    "question": "Which tumor marker is most characteristically elevated in dysgerminoma of the ovary?",
+    "question": "Which structure develops from the mesonephric (Wolfian) duct remnants in females and can present as a lateral vaginal wall cyst?",
+    "options": [
+      "Nuck cyst",
+      "Bartholin cyst",
+      "Gartner duct cyst",
+      "Nabothian cyst"
+    ],
+    "correct": 2,
+    "explanation": "Gartner duct cysts arise from remnants of the mesonephric (Wolffian) duct and are typically located on the anterolateral wall of the upper vagina."
+  },
+  {
+    "question": "A 29-year-old woman at 14 weeks gestation presents for routine prenatal screening. Her urine culture grows >10^5 CFU/mL of Escherichia coli, but she has no urinary symptoms. What is the most appropriate management?",
+    "options": [
+      "No treatment required as she is asymptomatic",
+      "Repeat urine culture in 4 weeks",
+      "Treat with a course of pregnancy-safe oral antibiotics",
+      "Initiate daily prophylactic low-dose nitrofurantoin until delivery"
+    ],
+    "correct": 2,
+    "explanation": "Asymptomatic bacteriuria in pregnancy must always be treated due to a high risk of progression to acute pyelonephritis, preterm labor, and low birth weight."
+  },
+  {
+    "question": "Which nerve provides sensory innervation to the anterior third of the vulva and mons pubis?",
+    "options": [
+      "Pudendal nerve",
+      "Ilioinguinal nerve",
+      "Genitofemoral nerve",
+      "Posterior cutaneous nerve of the thigh"
+    ],
+    "correct": 1,
+    "explanation": "The ilioinguinal nerve (L1) provides sensory innervation to the mons pubis and anterior labia majora. The pudendal nerve innervates the posterior two-thirds of the vulva and perineum."
+  },
+  {
+    "question": "What is the primary vascular supply to the corpus luteum following ovulation?",
+    "options": [
+      "Uterine artery branches",
+      "Ovarian artery via the infundibulopelvic ligament",
+      "Internal iliac artery",
+      "Middle rectal artery"
+    ],
+    "correct": 1,
+    "explanation": "The blood supply to the ovary and corpus luteum travels within the infundibulopelvic (suspensory ligament of the ovary) via the ovarian artery (branch of the abdominal aorta)."
+  },
+  {
+    "question": "A 31-year-old G2P1 at 36 weeks gestation presents with sudden severe headache, visual scotomas, and epigastric pain. BP is 170/115 mmHg. Laboratory results show AST 350 U/L, Platelets 45,000/mcL, and microangiopathic hemolytic anemia. What is the primary diagnosis?",
+    "options": [
+      "Acute Fatty Liver of Pregnancy",
+      "HELLP Syndrome",
+      "Thrombotic Thrombocytopenic Purpura (TTP)",
+      "Obstetric Cholestasis"
+    ],
+    "correct": 1,
+    "explanation": "HELLP syndrome is characterized by Hemolysis, Elevated Liver enzymes, and Low Platelets (<100,000/mcL). It is a severe variant of preeclampsia requiring stabilization and prompt delivery."
+  },
+  {
+    "question": "During a Total Abdominal Hysterectomy, at what anatomical landmark is the ureter at the greatest risk of iatrogenic injury?",
+    "options": [
+      "Where it crosses the pelvic brim near the infundibulopelvic ligament",
+      "Where it passes under the uterine artery ('water under the bridge')",
+      "Where it enters the bladder wall at the trigone",
+      "As it courses medial to the uterosacral ligament"
+    ],
+    "correct": 1,
+    "explanation": "The ureter passes directly inferior to the uterine artery ('water under the bridge') near the cervicouterine junction, making it extremely vulnerable during ligation of the uterine vessels."
+  },
+  {
+    "question": "Which cardiac condition carries the highest risk of maternal mortality during pregnancy and labor?",
+    "options": [
+      "Mitral Valve Prolapse",
+      "Mild Aortic Stenosis",
+      "Pulmonary Arterial Hypertension (Eisenmenger syndrome)",
+      "Corrected Tetralogy of Fallot"
+    ],
+    "correct": 2,
+    "explanation": "Pulmonary arterial hypertension (including Eisenmenger syndrome) carries a maternal mortality rate of 30-50% due to the inability of the right heart to handle the physiological increase in cardiac output."
+  },
+  {
+    "question": "A 22-year-old nulligravida presents with severe secondary dysmenorrhea and heavy bleeding. Pelvic ultrasound reveals a 5cm unilocular ovarian mass with low-level internal echoes ('ground-glass' appearance). What is the most likely diagnosis?",
+    "options": [
+      "Dermoid cyst (Mature Teratoma)",
+      "Endometrioma",
+      "Serous Cystadenoma",
+      "Corpus Luteal Cyst"
+    ],
+    "correct": 1,
+    "explanation": "A 'ground-glass' homogeneous internal echoing pattern on transvaginal ultrasound is classic for an ovarian endometrioma ('chocolate cyst')."
+  },
+  {
+    "question": "What is the recommended target blood glucose level for a patient with Gestational Diabetes Mellitus (GDM) measured 1 hour postprandial?",
+    "options": [
+      "< 140 mg/dL (7.8 mmol/L)",
+      "< 120 mg/dL (6.7 mmol/L)",
+      "< 95 mg/dL (5.3 mmol/L)",
+      "< 160 mg/dL (8.9 mmol/L)"
+    ],
+    "correct": 0,
+    "explanation": "Standard GDM glycemic targets are: Fasting < 95 mg/dL, 1-hour postprandial < 140 mg/dL, and 2-hour postprandial < 120 mg/dL."
+  },
+  {
+    "question": "A 28-year-old G1P0 at 39 weeks gestation undergoes spontaneous rupture of membranes. Amniotic fluid is clear. Digital exam reveals a fully effaced cervix 4 cm dilated, but a soft loop of tissue is felt in front of the presenting part. CTG shows sudden severe bradycardia. What is the immediate intervention?",
+    "options": [
+      "Administer IV oxytocin to speed up labor",
+      "Elevate the fetal presenting part manually and prepare for immediate Cesarean delivery",
+      "Place the patient in reverse Trendelenburg position",
+      "Perform instrumental vacuum delivery immediately"
+    ],
+    "correct": 1,
+    "explanation": "Overt umbilical cord prolapse requires immediate manual elevation of the presenting part off the cord to relieve vessel compression while expediting emergency STAT Cesarean section."
+  },
+  {
+    "question": "Which enzyme converts testosterone into estradiol in the granulosa cells of the ovary under the influence of FSH?",
+    "options": [
+      "17-alpha Hydroxylase",
+      "Aromatase (CYP19A1)",
+      "5-alpha Reductase",
+      "3-beta Hydroxysteroid Dehydrogenase"
+    ],
+    "correct": 1,
+    "explanation": "According to the two-cell, two-gonadotropin theory, theca cells produce androgens (androstenone/testosterone) under LH stimulation, which are then converted into estrogens (estrone/estradiol) by Aromatase in granulosa cells under FSH stimulation."
+  },
+  {
+    "question": "A 34-year-old woman presents with secondary amenorrhea for 8 months following a curettage procedure for postpartum hemorrhage. Serum FSH, LH, and Estradiol levels are within normal limits. Progesterone withdrawal test produces no bleeding. What is the most likely diagnosis?",
+    "options": [
+      "Sheehan Syndrome",
+      "Premature Ovarian Insufficiency",
+      "Asherman Syndrome",
+      "Polycystic Ovary Syndrome"
+    ],
+    "correct": 2,
+    "explanation": "Asherman syndrome (intrauterine adhesions) occurs secondary to vigorous curettage destroying the basal layer of the endometrium. Hormones are normal, but target tissue is absent, leading to a negative progesterone withdrawal test."
+  },
+  {
+    "question": "What is the key histopathological feature distinguishing Partial Hydatidiform Mole from Complete Hydatidiform Mole?",
+    "options": [
+      "Presence of fetal/embryonic tissue and triploid karyotype (69,XXY)",
+      "Diffuse hydropic swelling of all chorionic villi",
+      "Complete absence of maternal chromosomes",
+      "Elevated serum beta-hCG > 100,000 mIU/mL"
+    ],
+    "correct": 0,
+    "explanation": "Partial moles contain fetal/embryonic tissue, focal villous swelling, and have a triploid karyotype (usually 69,XXY from dispermic fertilization). Complete moles have no fetal tissue and are diploid (46,XX)."
+  },
+  {
+    "question": "A 40-year-old woman undergoes a total hysterectomy. Which pelvic ligament contains the uterine artery and veins?",
+    "options": [
+      "Round ligament",
+      "Ovarian ligament",
+      "Cardinal ligament (Transverse Cervical / Mackenrodt's)",
+      "Broad ligament"
+    ],
+    "correct": 2,
+    "explanation": "The cardinal (transverse cervical/Mackenrodt's) ligament located at the base of the broad ligament transmits the uterine artery and veins."
+  },
+  {
+    "question": "What is the first line recommended anti-hypertensive medication for long-term control of chronic hypertension in a pregnant patient?",
+    "options": [
+      "Lisinopril",
+      "Labetalol",
+      "Valsartan",
+      "Atenolol"
+    ],
+    "correct": 1,
+    "explanation": "Labetalol, Methyldopa, and Extended-release Nifedipine are first-line antihypertensives in pregnancy. ACE inhibitors (like Lisinopril) and ARBs (like Valsartan) are strictly fetotoxic."
+  },
+  {
+    "question": "A 17-year-old girl presents with primary amenorrhea, normal height, normal secondary sexual characteristics (breast development and pubic hair), and cyclic monthly pelvic pain. On pelvic exam, a bulging bluish membrane is seen at the introitus. What is the diagnosis?",
+    "options": [
+      "Transverse Vaginal Septum",
+      "Imperforate Hymen",
+      "Müllerian Agenesis",
+      "Androgen Insensitivity Syndrome"
+    ],
+    "correct": 1,
+    "explanation": "An imperforate hymen blocks menstrual flow, presenting at puberty with hematocolpos (retained blood in vagina), pelvic pain, and a classic tense, bulging bluish hymenal membrane."
+  },
+  {
+    "question": "Which microscopic feature is pathognomonic for a Granulosa Cell Tumor of the ovary?",
+    "options": [
+      "Psammoma bodies",
+      "Reinke crystals",
+      "Call-Exner bodies",
+      "Schiller-Duval bodies"
+    ],
+    "correct": 2,
+    "explanation": "Call-Exner bodies (small fluid-filled spaces surrounded by granulating tumor cells) and 'coffee-bean' nuclei are pathognomonic microscopic findings of Granulosa Cell Tumors."
+  },
+  {
+    "question": "A 27-year-old G2P1 at 32 weeks gestation undergoes routine ultrasound, which shows an amniotic fluid index (AFI) of 28 cm. Which fetal anomaly is most strongly associated with polyhydramnios?",
+    "options": [
+      "Renal Agenesis (Potter syndrome)",
+      "Esophageal Atresia",
+      "Posterior Urethral Valves",
+      "Polycystic Kidney Disease"
+    ],
+    "correct": 1,
+    "explanation": "Polyhydramnios (AFI > 24-25 cm) is caused by conditions that prevent fetal swallowing of amniotic fluid, such as esophageal or duodenal atresia, or central nervous system defects like anencephaly."
+  },
+  {
+    "question": "What is the primary mechanism of action of Tranexamic Acid when used to treat heavy menstrual bleeding?",
+    "options": [
+      "Inhibition of endometrial prostaglandin synthesis",
+      "Reversible blockade of fibrinolysis by inhibiting plasminogen activation",
+      "Direct vasoconstriction of uterine spiral arteries",
+      "Suppression of the hypothalamic-pituitary-ovarian axis"
+    ],
+    "correct": 1,
+    "explanation": "Tranexamic acid is an antifibrinolytic agent that competitively blocks plasminogen activation, reducing breakdown of fibrin clots in the endometrium."
+  },
+  {
+    "question": "A 33-year-old woman G3P2 at 38 weeks gestation presents in active labor. After delivery of the fetus, the placenta does not separate after 30 minutes despite uterine massage and controlled cord traction. Manual extraction is attempted, but no cleavage plane between the placenta and myometrium can be identified. What is the most likely diagnosis?",
+    "options": [
+      "Placental Abruption",
+      "Placenta Accreta",
+      "Placenta Previa",
+      "Succenturiate Lobe"
+    ],
+    "correct": 1,
+    "explanation": "Placenta accreta occurs when chorionic villi attach directly to the myometrium due to an absent or defective decidua basalis, preventing normal separation after delivery."
+  },
+  {
+    "question": "Which hormone level is the most sensitive indicator of reduced ovarian reserve in a woman undergoing fertility workup?",
+    "options": [
+      "Elevated Day 3 Follicle-Stimulating Hormone (FSH) and Low Anti-Müllerian Hormone (AMH)",
+      "Elevated Serum Progesterone",
+      "Low Luteinizing Hormone (LH)",
+      "High Estradiol on Day 21"
+    ],
+    "correct": 0,
+    "explanation": "Low Anti-Müllerian Hormone (AMH) and elevated baseline Day 3 FSH are the strongest indicators of diminished ovarian reserve."
+  },
+  {
+    "question": "A 23-year-old woman presents with a foul-smelling, thin, grayish-white vaginal discharge. Microscopic examination of a wet mount reveals stippled epithelial cells with obscured cell borders ('clue cells'). What is the recommended treatment?",
+    "options": [
+      "Single dose oral Fluconazole",
+      "Oral Metronidazole for 7 days",
+      "Intramuscular Ceftriaxone plus Azithromycin",
+      "Topical Hydrocortisone cream"
+    ],
+    "correct": 1,
+    "explanation": "Bacterial Vaginosis (caused by Gardnerella vaginalis overgrowth) presents with clue cells and positive whiff test. First-line therapy is oral Metronidazole 500 mg twice daily for 7 days."
+  },
+  {
+    "question": "What is the bishop score threshold that indicates a 'favorable' cervix likely to result in successful induction of labor?",
+    "options": [
+      "Bishop score ≥ 8",
+      "Bishop score ≥ 3",
+      "Bishop score between 4 and 6",
+      "Bishop score = 0"
+    ],
+    "correct": 0,
+    "explanation": "A Bishop score of 8 or higher indicates a favorable, ripe cervix with a high probability of successful labor induction."
+  },
+  {
+    "question": "Which tumor marker is pathognomonic for an Endodermal Sinus (Yolk Sac) tumor of the ovary?",
     "options": [
       "CA-125",
       "Alpha-fetoprotein (AFP)",
-      "Lactate Dehydrogenase (LDH)",
-      "Inhibin B"
+      "Beta-hCG",
+      "Carcinoembryonic Antigen (CEA)"
     ],
-    "correct": 2,
-    "explanation": "Lactate Dehydrogenase (LDH) is the primary tumor marker for ovarian dysgerminoma. Alpha-fetoprotein (AFP) is elevated in yolk sac (endodermal sinus) tumors, while Inhibin B is used for granulosa cell tumors."
+    "correct": 1,
+    "explanation": "Yolk sac (endodermal sinus) tumors characteristically produce high levels of Alpha-Fetoprotein (AFP) and present histologically with Schiller-Duval bodies."
   },
   {
-    "question": "A 32-year-old G2P1 at 38 weeks gestation presents in active labor. Cardiotocography (CTG) shows late decelerations. What is the immediate first step in management?",
+    "question": "A 26-year-old G1P0 at 38 weeks gestation presents in active labor. On pelvic examination, the fetal sacrum is felt in the left anterior quadrant of the maternal pelvis. What is the presentation and position?",
     "options": [
-      "Turn the patient to the left lateral position and administer oxygen",
-      "Perform immediate instrumental delivery",
-      "Administer IV oxytocin bolus",
-      "Prepare for emergency stat operative intervention without resuscitation"
+      "Frank breech, Left Sacrum Anterior (LSA)",
+      "Complete breech, Right Sacrum Posterior (RSP)",
+      "Vertex presentation, Left Occiput Anterior (LOA)",
+      "Shoulder presentation, Left Acromion Anterior (LAA)"
     ],
     "correct": 0,
-    "explanation": "Late decelerations indicate uteroplacental insufficiency. The initial step is intrauterine resuscitation: repositioning the mother to the left lateral position (to relieve inferior vena cava compression), stopping oxytocin if running, and administering oxygen/IV fluids."
+    "explanation": "In breech presentations, the sacrum is the denominator. Feeling the sacrum in the left anterior quadrant corresponds to Left Sacrum Anterior (LSA)."
   },
   {
-    "question": "A 24-year-old nulliparous woman presents with severe dysmenorrhea, dyspareunia, and chronic pelvic pain. On pelvic examination, tender nodularity is palpated in the uterosacral ligaments. What is the gold standard diagnostic procedure?",
+    "question": "Which complication is most specifically associated with long-term, unmonitored use of Tamoxifen in postmenopausal women with breast cancer?",
     "options": [
-      "Pelvic Ultrasound",
-      "Diagnostic Laparoscopy with biopsy",
-      "Serum CA-125 testing",
-      "Magnetic Resonance Imaging (MRI)"
+      "Cervical intraepithelial neoplasia (CIN)",
+      "Endometrial hyperplasia and Endometrial Carcinoma",
+      "Ovarian mucinous cystadenocarcinoma",
+      "Vaginal clear cell adenocarcinoma"
     ],
     "correct": 1,
-    "explanation": "Diagnostic laparoscopy with direct visualization and histological biopsy of lesions remains the gold standard for definitive diagnosis of endometriosis."
+    "explanation": "Tamoxifen acts as an estrogen receptor antagonist in breast tissue, but exhibits agonist (estrogenic) activity on the endometrium, increasing the risk of endometrial hyperplasia and adenocarcinoma."
   },
   {
-    "question": "Which microorganism is the most common cause of acute pelvic inflammatory disease (PID) leading to tubal factor infertility?",
+    "question": "A 30-year-old woman at 8 weeks gestation presents with vaginal bleeding and cramping. Pelvic exam reveals an open cervical os with tissue visible at the cervix. Ultrasound shows a gestational sac in the lower uterine segment. What is the classification of this abortion?",
     "options": [
-      "Chlamydia trachomatis",
-      "Escherichia coli",
-      "Group B Streptococcus",
-      "Trichomonas vaginalis"
-    ],
-    "correct": 0,
-    "explanation": "Chlamydia trachomatis (along with Neisseria gonorrhoeae) is the primary pathogen implicated in acute PID, leading to silent salpingitis, tubal scarring, and subsequent tubal factor infertility or ectopic pregnancy."
-  },
-  {
-    "question": "A 30-year-old G1P0 at 34 weeks gestation presents with a blood pressure of 160/110 mmHg on two occasions 4 hours apart, severe headache, and hyperreflexia. Urinalysis shows 3+ protein. What is the drug of choice for seizure prophylaxis in this patient?",
-    "options": [
-      "Phenytoin",
-      "Magnesium Sulfate",
-      "Diazepam",
-      "Labetalol"
-    ],
-    "correct": 1,
-    "explanation": "Magnesium sulfate is the drug of choice for the prevention and treatment of eclamptic seizures in patients with severe preeclampsia. Labetalol is used for blood pressure control, not seizure prophylaxis."
-  },
-  {
-    "question": "What is the primary mechanism of action of the levonorgestrel-releasing intrauterine system (LNG-IUS / Mirena)?",
-    "options": [
-      "Inhibition of ovulation by suppressing FSH",
-      "Thickening of cervical mucus and endometrial atrophy",
-      "Induction of local foreign body reaction toxic to sperm",
-      "Disruption of tubal motility"
-    ],
-    "correct": 1,
-    "explanation": "The primary mechanism of the LNG-IUS is local release of progestin causing marked thickening of cervical mucus (preventing sperm penetration) and endometrial atrophy. Anovulation occurs in only a minority of cycles."
-  },
-  {
-    "question": "A 19-year-old woman presents with primary amenorrhea, normal breast development, but absent pubic/axillary hair. Pelvic ultrasound reveals a short blind-ending vagina and absent uterus. Karyotype analysis reveals 46,XY. What is the most likely diagnosis?",
-    "options": [
-      "Müllerian Agenesis (Mayer-Rokitansky-Küster-Hauser syndrome)",
-      "Androgen Insensitivity Syndrome (AIS)",
-      "Turner Syndrome",
-      "5-Alpha Reductase Deficiency"
-    ],
-    "correct": 1,
-    "explanation": "Complete Androgen Insensitivity Syndrome (AIS) presents with 46,XY karyotype, female external phenotype, normal breast development (due to peripheral aromatization of testosterone), absent/sparse pubic and axillary hair, and a blind-ending vagina with absent uterus."
-  },
-  {
-    "question": "A 26-year-old woman presents with a 6-week history of amenorrhea, right lower quadrant pain, and slight vaginal spotting. Serum beta-hCG is 2,500 mIU/mL. Transvaginal ultrasound shows an empty uterine cavity and an adnexal mass with a yolk sac. The patient is hemodynamically stable with no pain. What is the most appropriate medical management?",
-    "options": [
-      "Single-dose intramuscular Methotrexate",
-      "Immediate Exploratory Laparotomy",
-      "Oral Mifepristone and Misoprostol",
-      "Expectant management with serial beta-hCG"
-    ],
-    "correct": 0,
-    "explanation": "In a hemodynamically stable patient with an unruptured ectopic pregnancy, no fetal cardiac activity, serum beta-hCG < 5,000 mIU/mL, and an adnexal mass < 3.5 cm, medical management with intramuscular Methotrexate is indicated."
-  },
-  {
-    "question": "Which hormone is primarily responsible for triggering ovulation during the normal menstrual cycle?",
-    "options": [
-      "Progesterone",
-      "Follicle-Stimulating Hormone (FSH)",
-      "Luteinizing Hormone (LH)",
-      "Human Chorionic Gonadotropin (hCG)"
+      "Threatened abortion",
+      "Inevitable abortion",
+      "Incomplete abortion",
+      "Missed abortion"
     ],
     "correct": 2,
-    "explanation": "A sharp rise in estrogen from the dominant follicle triggers a positive feedback surge of Luteinizing Hormone (LH) from the anterior pituitary, which induces rupture of the follicle and ovulation within 24 to 36 hours."
+    "explanation": "An open cervical os with partial expulsion of products of conception defines an incomplete abortion. If the os is open but no tissue has passed yet, it is an inevitable abortion."
   },
   {
-    "question": "A 35-year-old G3P2 at 39 weeks gestation experiences sudden intense uterine pain during active labor, followed by cessation of contractions and regression of the fetal presenting part. Fetal bradycardia is noted on CTG. What is the most likely diagnosis?",
-    "options": [
-      "Placental Abruption",
-      "Uterine Rupture",
-      "Vasa Previa",
-      "Uterine Inversion"
-    ],
-    "correct": 1,
-    "explanation": "Uterine rupture is characterized by sudden abdominal pain, loss of uterine contraction tone, regression of the presenting part, and fetal distress (bradycardia). It is an obstetric emergency requiring immediate laparotomy."
-  },
-  {
-    "question": "Which phase of meiosis is an oocyte arrested in from fetal life until ovulation?",
-    "options": [
-      "Leptotene of Prophase I",
-      "Diplotene of Prophase I",
-      "Metaphase II",
-      "Anaphase I"
-    ],
-    "correct": 1,
-    "explanation": "Primary oocytes remain arrested in the diplotene stage (dictyate stage) of Prophase I from fetal development until the pre-ovulatory LH surge resumes meiosis."
-  },
-  {
-    "question": "A 45-year-old woman presents with heavy menstrual bleeding (menorrhagia). Pelvic ultrasound reveals a uniformly enlarged, globular, tender uterus with asymmetrical thickening of the myometrium. What is the most likely diagnosis?",
-    "options": [
-      "Endometrial Hyperplasia",
-      "Uterine Leiomyoma (Fibroid)",
-      "Adenomyosis",
-      "Endometrial Carcinoma"
-    ],
-    "correct": 2,
-    "explanation": "Adenomyosis is characterized by ectopic endometrial glands within the myometrium, presenting with dysmenorrhea, menorrhagia, and a uniformly enlarged, tender, globular uterus."
-  },
-  {
-    "question": "What is the recommended timing for administering prophylactic Anti-D immunoglobulin to an unsensitized Rh-negative pregnant woman?",
-    "options": [
-      "At 12 weeks gestation only",
-      "At 28 weeks gestation and within 72 hours of delivery",
-      "Immediately after positive pregnancy test",
-      "At 36 weeks gestation and 2 weeks post-delivery"
-    ],
-    "correct": 1,
-    "explanation": "Standard prophylaxis for unsensitized Rh-negative mothers involves routine administration of Anti-D immunoglobulin at 28 weeks gestation and within 72 hours post-delivery of an Rh-positive infant."
-  },
-  {
-    "question": "Which nerve is most vulnerable to injury during a prolonged lithotomy position with lateral compression against the stirrups?",
+    "question": "Which nerve is at highest risk of compression injury leading to foot drop (loss of dorsiflexion) when a patient is kept in the exaggerated lithotomy position for an extended duration during surgery?",
     "options": [
       "Femoral nerve",
       "Obturator nerve",
@@ -162,172 +316,791 @@
       "Sciatic nerve"
     ],
     "correct": 2,
-    "explanation": "The common peroneal nerve wraps around the head of the fibula and is easily compressed against stirrups during lithotomy positioning, resulting in foot drop."
+    "explanation": "The common peroneal nerve wraps around the fibular head. Compression of this region against lithotomy stirrups can cause nerve palsy resulting in foot drop and loss of sensation over the dorsum of the foot."
   },
   {
-    "question": "A 22-year-old G1P0 at 10 weeks gestation presents with severe intractable nausea and vomiting, weight loss of 6%, and ketonuria. What is the initial line of intravenous fluid resuscitation?",
+    "question": "A 24-year-old nulligravida presents with primary amenorrhea, normal tall stature, well-developed breasts, but sparse pubic and axillary hair. Pelvic ultrasound reveals a short, blind-ending vagina and absence of uterus and ovaries. Karyotype is 46,XY. What is the diagnosis?",
     "options": [
-      "5% Dextrose in Water",
-      "Normal Saline (0.9% NaCl) with Thiamine supplementation",
-      "Ringer's Lactate without vitamins",
-      "Hypertonic 3% Saline"
+      "Müllerian Agenesis (Mayer-Rokitansky-Küster-Hauser syndrome)",
+      "Complete Androgen Insensitivity Syndrome (CAIS)",
+      "5-alpha Reductase Deficiency",
+      "Turner Syndrome (45,X)"
     ],
     "correct": 1,
-    "explanation": "Normal Saline (0.9%) is the fluid of choice for hyperemesis gravidarum. Thiamine MUST be administered before dextrose-containing fluids to prevent Wernicke's encephalopathy."
+    "explanation": "Complete Androgen Insensitivity Syndrome (46,XY) presents with female external phenotype, normal breast development (via aromatization of testosterone), minimal body hair, and absent internal female reproductive organs due to functional Anti-Müllerian Hormone."
   },
   {
-    "question": "What is the classic histological finding in a complete hydatidiform mole?",
+    "question": "What is the primary anatomical support structure preventing apical uterine prolapse?",
     "options": [
-      "Fetal tissue present with focal chorionic villi edema",
-      "Hydropic chorionic villi, diffuse trophoblastic hyperplasia, and absent fetal tissue",
-      "Malignant cytotrophoblast proliferation without villi",
-      "Avascular villi with normal stromal tissue"
+      "Round ligaments",
+      "Uterosacral and Cardinal ligament complex",
+      "Ischiocavernosus muscle",
+      "Broad ligaments"
     ],
     "correct": 1,
-    "explanation": "Complete moles exhibit diffuse hydropic swelling of chorionic villi, circumferential trophoblastic proliferation, and complete absence of embryonic/fetal structures (karyotype 46,XX androgenetic)."
+    "explanation": "The uterosacral-cardinal ligament complex forms Level I support according to the Lancey classification, holding the cervix and upper vagina anchored to the pelvic walls."
   },
   {
-    "question": "A patient experiences massive postpartum hemorrhage following a prolonged labor. After delivering the placenta, the uterus remains soft and boggy despite continuous bimanual massage. What is the first-line uterotonic medication?",
+    "question": "A 35-year-old G4P3 at 34 weeks gestation with a history of two prior Cesarean deliveries presents with painless, bright red vaginal bleeding. What is the mandatory initial diagnostic investigation?",
     "options": [
-      "Oxytocin",
+      "Digital pelvic examination",
+      "Transabdominal / Transvaginal Ultrasound",
+      "Speculum examination with pap smear",
+      "Amniocentesis"
+    ],
+    "correct": 1,
+    "explanation": "Painless third-trimester bleeding strongly suggests Placenta Previa. Digital pelvic exam is strictly contraindicated until ultrasound confirms placental position to prevent massive hemorrhage."
+  },
+  {
+    "question": "Which phase of human oogenesis is an oocyte suspended in from fetal life until the preovulatory LH surge?",
+    "options": [
+      "Leptotene stage of Meiosis I",
+      "Dictyotene (Diplotene) stage of Prophase I",
+      "Metaphase II of Meiosis II",
+      "Anaphase I of Meiosis I"
+    ],
+    "correct": 1,
+    "explanation": "Primary oocytes remain arrested in the dictyotene (diplotene) stage of prophase I from fetal development until ovulation, when the LH surge triggers completion of Meiosis I."
+  },
+  {
+    "question": "A 29-year-old G1P0 at 10 weeks gestation presents with persistent severe nausea, hyperemesis, and minor vaginal spotting. On exam, uterine size corresponds to 16 weeks. Serum beta-hCG is 250,000 mIU/mL. Ultrasound shows a 'snowstorm' pattern with no fetal pole. What is the initial treatment of choice?",
+    "options": [
+      "Systemic Methotrexate injection",
+      "Suction Curettage",
+      "Hysterectomy",
+      "Expectant management with weekly monitoring"
+    ],
+    "correct": 1,
+    "explanation": "Complete hydatidiform mole requires prompt removal via suction curettage to clear trophoblastic tissue and reduce the risk of persistent gestational trophoblastic neoplasia."
+  },
+  {
+    "question": "Which ultrasound marker measured between 11+0 and 13+6 weeks gestation is used to screen for Trisomy 21 (Down Syndrome)?",
+    "options": [
+      "Biparietal Diameter (BPD)",
+      "Nuchal Translucency (NT)",
+      "Abdominal Circumference (AC)",
+      "Femur Length (FL)"
+    ],
+    "correct": 1,
+    "explanation": "Increased fetal Nuchal Translucency (NT) thickness measured in the first trimester is a classic soft ultrasound marker for Trisomy 21 and other chromosomal abnormalities."
+  },
+  {
+    "question": "A 38-year-old woman G5P4 at 40 weeks gestation experiences rapid labor. Following delivery of a 4.2 kg infant, she develops severe postpartum hemorrhage. Uterine palpation reveals a soft, boggy, relaxed uterus above the umbilicus. What is the first-line medication?",
+    "options": [
       "Methylergonovine",
-      "Carboprost (PGF2-alpha)",
-      "Misoprostol"
+      "Oxytocin (IV infusion)",
+      "Misoprostol",
+      "Carboprost (PGF2-alpha)"
+    ],
+    "correct": 1,
+    "explanation": "Uterine atony is the most common cause of PPH. Concentrated IV Oxytocin infusion combined with bimanual uterine massage is the primary first-line medical intervention."
+  },
+  {
+    "question": "Which tumor marker is characteristically monitored following the evacuation of a molar pregnancy to evaluate for transformation into Choriocarcinoma?",
+    "options": [
+      "Serum CA-125",
+      "Quantitative Serum beta-hCG",
+      "Carcinoembryonic Antigen (CEA)",
+      "Inhibin B"
+    ],
+    "correct": 1,
+    "explanation": "Serial quantitative serum beta-hCG levels must be monitored weekly post-evacuation until undetectable to rule out Gestational Trophoblastic Neoplasia (Choriocarcinoma)."
+  },
+  {
+    "question": "A 31-year-old woman G2P1 at 28 weeks gestation is evaluated after an Rh-negative blood type screen. Her antibody screen (Indirect Coombs Test) is negative. What is the correct timing and dose of Anti-D Immune Globulin prophylaxis?",
+    "options": [
+      "No prophylaxis needed since she is antibody negative",
+      "Administer 300 mcg Anti-D at 28 weeks gestation and within 72 hours of delivery if infant is Rh-positive",
+      "Administer Anti-D only immediately after delivery regardless of fetal blood group",
+      "Administer single dose at 12 weeks gestation"
+    ],
+    "correct": 1,
+    "explanation": "Standard Rh prophylaxis for non-sensitized Rh-negative mothers involves giving 300 mcg of Anti-D immunoglobulin at 28 weeks gestation, followed by a second dose within 72 hours post-partum if the newborn is Rh-positive."
+  },
+  {
+    "question": "Which strain of Human Papillomavirus (HPV) is most frequently isolated in cases of Invasive Cervical Squamous Cell Carcinoma worldwide?",
+    "options": [
+      "HPV Types 6 and 11",
+      "HPV Types 16 and 18",
+      "HPV Types 31 and 33",
+      "HPV Types 45 and 52"
+    ],
+    "correct": 1,
+    "explanation": "High-risk HPV types 16 and 18 account for approximately 70% of all cervical cancer cases globally, with HPV 16 being the single most oncogenic subtype."
+  },
+  {
+    "question": "A 27-year-old G1P0 at 35 weeks gestation presents with persistent generalized pruritus, predominantly on the palms of her hands and soles of her feet, worsening at night. There is no skin rash. Laboratory testing shows elevated serum total bile acids (45 micromol/L). What is the drug of choice?",
+    "options": [
+      "Ursodeoxycholic Acid (UDCA)",
+      "Chlorpheniramine",
+      "Prednisone",
+      "Dexamethasone"
     ],
     "correct": 0,
-    "explanation": "Oxytocin (IV infusion or IM) is the universal first-line pharmacological agent for uterine atony causing postpartum hemorrhage."
+    "explanation": "Ursodeoxycholic acid (UDCA) improves bile flow, reduces serum bile acid concentrations, and relieves maternal pruritus in Intrahepatic Cholestasis of Pregnancy (ICP)."
   },
   {
-    "question": "Which tumor of the ovary is known for containing thyroid tissue and potentially presenting with symptoms of hyperthyroidism?",
+    "question": "During a vaginal delivery, after delivery of the fetal head, gentle downward traction fails to deliver the anterior shoulder. The anterior shoulder is impacted behind the maternal pubic symphysis. What is the initial physical maneuver to attempt?",
     "options": [
-      "Brenner Tumor",
-      "Struma Ovarii",
-      "Fibroma",
-      "Krukenberg Tumor"
+      "Zavanelli maneuver",
+      "McRoberts maneuver combined with suprapubic pressure",
+      "Fundal pressure",
+      "Internal podalic version"
     ],
     "correct": 1,
-    "explanation": "Struma ovarii is a specialized monodermal teratoma composed predominantly (>50%) of mature thyroid tissue, which can secrete thyroid hormones."
+    "explanation": "The McRoberts maneuver (hyperflexion of maternal hips onto abdomen) combined with suprapubic pressure is the first-line intervention for Shoulder Dystocia. Fundal pressure is strictly contraindicated."
   },
   {
-    "question": "In the management of shoulder dystocia, what maneuver involves hyperflexion of the mother's thighs against her abdomen?",
+    "question": "A 45-year-old woman presents with heavy, prolonged menstrual periods and worsening pelvic pain. Pelvic MRI reveals a uniformly enlarged, globular uterus with a thickened junctional zone (>12 mm) on T2-weighted images. What is the diagnosis?",
     "options": [
-      "Rubin II Maneuver",
-      "McRoberts Maneuver",
-      "Zavanelli Maneuver",
-      "Woods Screw Maneuver"
+      "Uterine Leiomyoma (Fibroids)",
+      "Adenomyosis",
+      "Endometrial Hyperplasia",
+      "Pelvic Inflammatory Disease"
     ],
     "correct": 1,
-    "explanation": "The McRoberts maneuver involves sharp hyperflexion and abduction of the maternal hips towards the abdomen, flattening the sacral curve and rotating the symphysis pubis."
+    "explanation": "Adenomyosis occurs when endometrial glands and stroma invade the myometrium, causing a symmetrically enlarged ('globular') uterus and junctional zone expansion >12 mm on MRI."
   },
   {
-    "question": "A 52-year-old postmenopausal woman presents with painless vaginal bleeding. Endometrial biopsy confirms endometrial adenocarcinoma. What is the primary definitive treatment for early-stage disease?",
+    "question": "Which maternal condition is absolute contraindication to the use of Ergot alkaloids (Methylergonovine / Ergometrine) during postpartum hemorrhage management?",
     "options": [
-      "Radiation Therapy alone",
-      "Total Hysterectomy with Bilateral Salpingo-Oophorectomy",
-      "High-dose Progestin therapy",
-      "Systemic Chemotherapy"
+      "Bronchial Asthma",
+      "Hypertension / Preeclampsia",
+      "Type 1 Diabetes Mellitus",
+      "Hypothyroidism"
     ],
     "correct": 1,
-    "explanation": "Surgical staging involving Total Abdominal Hysterectomy with Bilateral Salpingo-Oophorectomy (TAH-BSO) is the primary gold-standard treatment for endometrial cancer."
+    "explanation": "Ergot derivatives induce systemic vasoconstriction and are strictly contraindicated in women with hypertension, preeclampsia, or ischemic heart disease."
   },
   {
-    "question": "Which fetal heart rate pattern on CTG is considered normal and reassuring of fetal well-being?",
+    "question": "A 26-year-old G2P1 at 30 weeks gestation presents with labor contractions. Cervical exam shows 3 cm dilation and 80% effacement. To reduce the risk of Neonatal Respiratory Distress Syndrome (RDS), which medication should be administered immediately?",
     "options": [
-      "Baseline rate 110-160 bpm with moderate variability and accelerations",
-      "Sinusoidal wave pattern",
-      "Persistent baseline variability < 5 bpm",
-      "Repetitive variable decelerations with lost baseline variability"
+      "Tocolytic Indomethacin only",
+      "Intravenous Magnesium Sulfate only",
+      "Antenatal Corticosteroids (e.g., Betamethasone or Dexamethasone)",
+      "Ampicillin IV"
+    ],
+    "correct": 2,
+    "explanation": "Antenatal betamethasone or dexamethasone promotes fetal lung maturation by stimulating surfactant production in premature infants between 24 and 34 weeks gestation."
+  },
+  {
+    "question": "Which histologic feature is characteristic of Brenner Tumor of the ovary?",
+    "options": [
+      "Nests of transitional epithelial cells ('coffee-bean' nuclei) within dense fibrous stroma",
+      "Pseudomucin-filled goblet cells",
+      "Clear cells with abundant glycogen",
+      "Malignant syncytiotrophoblastic cells"
     ],
     "correct": 0,
-    "explanation": "A normal (reassuring) CTG features a baseline rate of 110-160 bpm, moderate baseline variability (6-25 bpm), and presence of accelerations with no pathological decelerations."
+    "explanation": "Brenner tumors are epithelial ovarian tumors characterized by nests of transitional-type cells (resembling urothelium) with nuclear grooves ('coffee-bean' appearance)."
   },
   {
-    "question": "What is the most common cause of primary postpartum hemorrhage (PPH within 24 hours)?",
+    "question": "A 23-year-old woman presents with a 3-day history of lower abdominal pain, purulent cervical discharge, and deep dyspareunia. Cervical motion tenderness ('chandelier sign') is positive on bimanual exam. What is the most common polymicrobial etiology?",
     "options": [
-      "Genital tract trauma",
-      "Uterine Atony",
-      "Retained placental tissue",
-      "Coagulopathy"
+      "Neisseria gonorrhoeae and Chlamydia trachomatis",
+      "Treponema pallidum and Trichomonas vaginalis",
+      "Escherichia coli and Klebsiella pneumoniae",
+      "Group B Streptococcus and Mycoplasma"
+    ],
+    "correct": 0,
+    "explanation": "Pelvic Inflammatory Disease (PID) is predominantly an ascending polymicrobial infection caused by *Neisseria gonorrhoeae* and *Chlamydia trachomatis*."
+  },
+  {
+    "question": "What is the key physiological action of Human Chorionic Gonadotropin (hCG) during early pregnancy?",
+    "options": [
+      "Maintains the corpus luteum to preserve progesterone production until placental takeover",
+      "Stimulates fetal thyroid gland maturation",
+      "Directly induces maternal insulin resistance",
+      "Suppresses fetal adrenal gland corticosteroid synthesis"
+    ],
+    "correct": 0,
+    "explanation": "hCG acts on LH receptors of the corpus luteum, maintaining its structural integrity and progesterone secretion through the first 8-10 weeks of gestation until syncytiotrophoblastic progesterone synthesis is established."
+  },
+  {
+    "question": "A 30-year-old woman presents for evaluation of primary infertility. Hysterosalpingography (HSG) shows bilateral fallopian tube occlusion at the fimbrial ends. What is the most definitive management step to achieve pregnancy?",
+    "options": [
+      "Ovulation induction with Clomiphene Citrate",
+      "Intrauterine Insemination (IUI)",
+      "In Vitro Fertilization (IVF)",
+      "Laparoscopic tubal flushing with saline"
+    ],
+    "correct": 2,
+    "explanation": "Bilateral tubal obstruction bypasses natural sperm-egg transport. In Vitro Fertilization (IVF) is the definitive treatment choice for tubal factor infertility."
+  },
+  {
+    "question": "Which fetal cardiac structure allows oxygenated blood from the inferior vena cava to bypass the uninflated fetal lungs by shunting directly from the right atrium to the left atrium?",
+    "options": [
+      "Ductus Venosus",
+      "Foramen Ovale",
+      "Ductus Arteriosus",
+      "Umbilical Vein"
     ],
     "correct": 1,
-    "explanation": "Uterine atony accounts for approximately 70-80% of all cases of primary postpartum hemorrhage."
+    "explanation": "The Foramen Ovale is an anatomical shunt in the interatrial septum that allows oxygenated blood from the IVC to flow directly from the right atrium to the left atrium."
   },
   {
-    "question": "Which organism is responsible for causing painless genital chancres followed by secondary cutaneous lesions and systemic involvement?",
+    "question": "A 52-year-old postmenopausal woman presents with postmenopausal bleeding. Transvaginal ultrasound shows an endometrial thickness of 11 mm. What is the next most appropriate diagnostic step?",
     "options": [
-      "Haemophilus ducreyi",
-      "Treponema pallidum",
-      "Herpes Simplex Virus 2",
-      "Chlamydia trachomatis L1-L3"
+      "Reassure and repeat ultrasound in 6 months",
+      "Endometrial Biopsy (Pipelle sampling) or D&C",
+      "Perform immediate total hysterectomy",
+      "Start oral cyclical progestins for 3 months"
     ],
     "correct": 1,
-    "explanation": "Treponema pallidum causes Syphilis. Primary syphilis presents with a classic painless chancre, followed by secondary syphilis rash and latent stages."
+    "explanation": "Postmenopausal bleeding with an endometrial thickness > 4-5 mm requires tissue sampling via endometrial biopsy or D&C to rule out endometrial carcinoma."
   },
-  {
-    "question": "A 30-year-old woman at 32 weeks gestation presents with dark red vaginal bleeding, hypertonic painful uterine contractions, and fetal distress. What is the most likely diagnosis?",
+   {
+    "question": "A 28-year-old G2P1 at 32 weeks gestation presents with acute right upper quadrant pain, nausea, and persistent fever. Physical exam reveals right costovertebral angle tenderness. Urinalysis shows pyuria and WBC casts. What is the most likely diagnosis?",
     "options": [
-      "Placenta Previa",
-      "Placental Abruption (Abruptio Placentae)",
-      "Uterine Rupture",
-      "Cervical Ectropion"
+      "Acute Cholecystitis",
+      "Acute Pyelonephritis",
+      "Acute Appendicitis",
+      "Urolithiasis"
     ],
     "correct": 1,
-    "explanation": "Placental abruption typically presents with painful, dark red vaginal bleeding, uterine hypertonia/tenderness, and signs of fetal distress."
+    "explanation": "Acute pyelonephritis in pregnancy typically presents with fever, flank/RUQ pain, costovertebral angle tenderness, and pyuria with WBC casts. It requires prompt IV antibiotic therapy."
   },
   {
-    "question": "Which hormone produced by the syncytiotrophoblast maintains the corpus luteum during the first 8-10 weeks of pregnancy?",
+    "question": "Which muscle forms the primary component of the pelvic diaphragm (pelvic floor)?",
     "options": [
-      "Human Placental Lactogen (hPL)",
-      "Human Chorionic Gonadotropin (hCG)",
-      "Progesterone",
-      "Estriol"
+      "Piriformis muscle",
+      "Obturator internus muscle",
+      "Levator ani muscle",
+      "Gluteus maximus muscle"
+    ],
+    "correct": 2,
+    "explanation": "The pelvic diaphragm is predominantly composed of the levator ani muscle complex (puborectalis, pubococcygeus, and iliococcygeus) along with the coccygeus muscle."
+  },
+  {
+    "question": "A 19-year-old woman presents with severe dysmenorrhea, menorrhagia, and pelvic pain. Laparoscopy demonstrates 'powder-burn' peritoneal lesions and adhesions in the pouch of Douglas. What is the pathogenetic mechanism explaining this condition?",
+    "options": [
+      "Lymphatic metastasis of endometrial stromal cells",
+      "Retrograde menstruation with seeding of endometrial tissue into the peritoneal cavity",
+      "Müllerian metaplasia of coelomic epithelium",
+      "Direct hematogenous dissemination of endomyometrial tissue"
     ],
     "correct": 1,
-    "explanation": "hCG is secreted by the syncytiotrophoblast to sustain the corpus luteum, ensuring continuous progesterone production until the placenta takes over (luteal-placental shift)."
+    "explanation": "Sampson's theory of retrograde menstruation is the most widely accepted mechanism for Endometriosis, where viable endometrial cells flow backward through fallopian tubes into the peritoneal cavity."
   },
   {
-    "question": "What is the definitive surgical management for an ectopic pregnancy in an unstable patient with severe hemoperitoneum?",
+    "question": "What is the primary hormonal surge responsible for inducing final oocyte maturation and ovulation during the normal menstrual cycle?",
     "options": [
-      "Salpingostomy via Laparoscopy",
-      "Salpingectomy via Laparotomy",
-      "Methotrexate administration",
-      "Expectant observation"
+      "Follicle-Stimulating Hormone (FSH) peak",
+      "Luteinizing Hormone (LH) surge",
+      "Progesterone surge",
+      "Human Chorionic Gonadotropin (hCG) peak"
     ],
     "correct": 1,
-    "explanation": "In an hemodynamically unstable patient with ruptured ectopic pregnancy, emergent laparotomy with salpingectomy is mandatory to control severe intra-abdominal hemorrhage."
+    "explanation": "A high, sustained level of estradiol triggers a positive feedback loop on the anterior pituitary, resulting in a massive LH surge that causes follicular rupture and ovulation within 24–36 hours."
   },
   {
-    "question": "Which condition is characterized by bilateral metastatic signet-ring cell carcinoma of the ovaries, most commonly originating from the stomach?",
+    "question": "A 33-year-old G1P0 at 39 weeks gestation undergoes labor induction. CTG reveals recurrent late decelerations with absent baseline variability. What is the immediate definitive obstetric intervention?",
     "options": [
-      "Brenner Tumor",
-      "Krukenberg Tumor",
+      "Increase Oxytocin infusion rate",
+      "Emergency STAT Cesarean Section",
+      "Perform instrumental vacuum delivery at station -1",
+      "Continue monitoring for another 2 hours"
+    ],
+    "correct": 1,
+    "explanation": "Recurrent late decelerations with loss of baseline variability indicate severe fetal hypoxia and uteroplacental insufficiency, mandating immediate emergency delivery via Cesarean section."
+  },
+  {
+    "question": "Which screening test is recommended for all pregnant women between 35 and 37 weeks gestation to prevent neonatal sepsis?",
+    "options": [
+      "Vaginorectal swab for Group B Streptococcus (GBS)",
+      "Urine culture for Chlamydia trachomatis",
+      "Serum screening for Toxoplasmosis",
+      "Cervical cytology for HPV"
+    ],
+    "correct": 0,
+    "explanation": "Universal screening for Group B Streptococcus (GBS) via a lower vaginal and rectal swab at 35–37 weeks determines the need for intrapartum IV antibiotic prophylaxis."
+  },
+  {
+    "question": "A 48-year-old woman presents with hot flashes, night sweats, mood lability, and irregular menstrual cycles. Serum FSH level is 42 mIU/mL. What is the underlying endocrine mechanism?",
+    "options": [
+      "Elevated inhibin production by granulosa cells",
+      "Depletion of ovarian follicles resulting in decreased estrogen and loss of negative feedback on FSH",
+      "Hyperprolactinemia suppressing gonadotropin release",
+      "Primary pituitary adenoma secreting excess gonadotropins"
+    ],
+    "correct": 1,
+    "explanation": "Menopause/perimenopause is marked by age-related depletion of functional ovarian follicles, leading to decreased estrogen/inhibin production and a secondary compensatory elevation in pituitary FSH."
+  },
+  {
+    "question": "What is the first-line surgical option for a young patient with a symptomatic, benign uterine fibroid (leiomyoma) who strongly desires future fertility?",
+    "options": [
+      "Total Abdominal Hysterectomy",
+      "Myomectomy",
+      "Uterine Artery Embolization (UAE)",
+      "Endometrial Ablation"
+    ],
+    "correct": 1,
+    "explanation": "Myomectomy removes leiomyomas while preserving the uterus and reproductive capability, making it the surgical procedure of choice for women desiring future pregnancy."
+  },
+  {
+    "question": "A 21-year-old woman presents with sudden onset left lower quadrant pain and nausea. Transvaginal ultrasound demonstrates an enlarged, edematous left ovary with diminished arterial and venous flow on Doppler. What is the diagnosis?",
+    "options": [
+      "Ruptured Corpus Luteum Cyst",
+      "Ovarian Torsion",
+      "Acute Salpingitis",
+      "Ectopic Pregnancy"
+    ],
+    "correct": 1,
+    "explanation": "Ovarian torsion occurs when the ovary twists on its vascular pedicle, compromising venous and arterial blood supply, leading to acute pelvic pain and reduced/absent flow on Doppler."
+  },
+  {
+    "question": "Which physiological cardiovascular alteration occurs normally during a healthy pregnancy?",
+    "options": [
+      "Decreased total blood volume",
+      "Increased systemic vascular resistance (SVR)",
+      "Increased cardiac output by 30-50%",
+      "Decreased heart rate"
+    ],
+    "correct": 2,
+    "explanation": "Normal maternal adaptions include a 30-50% increase in cardiac output, increased stroke volume and heart rate, plasma volume expansion, and a net decrease in systemic vascular resistance."
+  },
+  {
+    "question": "A 27-year-old G2P1 at 20 weeks gestation is diagnosed with intra-uterine fetal death. Which coagulation parameter must be closely monitored due to the risk of Disseminated Intravascular Coagulation (DIC) if delivery is delayed?",
+    "options": [
+      "Serum Fibrinogen level",
+      "Prothrombin Time (PT) only",
+      "Platelet count only",
+      "Serum Ferritin"
+    ],
+    "correct": 0,
+    "explanation": "Prolonged retention of a dead fetus (>3-4 weeks) releases thromboplastin-like substances into maternal circulation, consuming clotting factors and dropping serum fibrinogen levels below 150 mg/dL, triggering DIC."
+  },
+  {
+    "question": "Which ovarian mass is a benign germ cell tumor containing mature tissue from all three germ layers (ectoderm, mesoderm, endoderm)?",
+    "options": [
       "Dysgerminoma",
+      "Mature Cystic Teratoma (Dermoid Cyst)",
+      "Serous Cystadenoma",
       "Granulosa Cell Tumor"
     ],
     "correct": 1,
-    "explanation": "A Krukenberg tumor is a metastatic ovarian malignancy featuring mucin-secreting signet-ring cells, typically arising from a primary gastric adenocarcinoma."
+    "explanation": "Mature cystic teratomas (dermoid cysts) are benign germ cell tumors derived from ectoderm (hair, skin, teeth), mesoderm (fat, cartilage), and endoderm (glandular tissue)."
   },
   {
-    "question": "What is the primary diagnostic test used to screen for cervical intraepithelial neoplasia (CIN) and cervical cancer?",
+    "question": "A 30-year-old G1P0 at 37 weeks gestation presents with blood pressure of 150/95 mmHg on two occasions 4 hours apart and 2+ proteinuria. She has no headache, visual changes, or right upper quadrant pain. What is the diagnosis?",
     "options": [
-      "Colposcopy",
-      "Cervical Cytology (Pap Smear) / HPV co-testing",
-      "Pelvic Ultrasound",
-      "Endometrial Biopsy"
+      "Gestational Hypertension",
+      "Preeclampsia without severe features",
+      "Preeclampsia with severe features",
+      "Chronic Hypertension"
     ],
     "correct": 1,
-    "explanation": "Cervical cytology (Pap smear) along with high-risk HPV DNA co-testing is the primary screening tool for identifying cervical pre-invasive lesions and dysplasia."
+    "explanation": "Preeclampsia without severe features is defined as new-onset hypertension (SBP ≥140 or DBP ≥90) after 20 weeks gestation accompanied by proteinuria (≥0.3 g/24h or ≥1+ dipstick), without end-organ damage."
   },
   {
-    "question": "A 27-year-old G1P0 at 39 weeks gestation has been in active second stage of labor for 3 hours. The fetal head is at station +3, occiput anterior. CTG shows severe variable decelerations. What is the appropriate intervention?",
+    "question": "What is the recommended prophylactic antibiotic regimen for a patient undergoing elective Cesarean Section?",
     "options": [
-      "Immediate Instrumental Delivery (Vacuum or Forceps)",
-      "Cesarean section with vertical incision",
-      "Position change and re-evaluate in 2 hours",
-      "Tocolytic administration"
+      "Single dose IV Cefazolin within 60 minutes prior to surgical incision",
+      "Oral Amoxicillin for 5 days postoperatively",
+      "IV Vancomycin plus Gentamicin after cord clamping",
+      "No antibiotics needed if strict aseptic technique is maintained"
     ],
     "correct": 0,
-    "explanation": "When the fetal head is low in the pelvis (station +3) and prompt delivery is needed for fetal distress during the second stage, operative vaginal delivery (vacuum or forceps) is indicated."
+    "explanation": "A single preoperative prophylactic dose of a first-generation cephalosporin (e.g., IV Cefazolin) administered prior to skin incision significantly reduces post-Cesarean surgical site infections."
+  },
+  {
+    "question": "A 22-year-old woman presents with hirsutism, acne, irregular oligomenorrheic cycles, and obesity. Ultrasound reveals bilateral enlarged ovaries with multiple peripherally arranged follicles ('string of pearls'). What is the primary endocrine disturbance?",
+    "options": [
+      "Hyperprolactinemia",
+      "Insulin resistance leading to hyperinsulinemia and ovarian hyperandrogenism",
+      "Primary adrenal insufficiency",
+      "Increased progesterone secretion"
+    ],
+    "correct": 1,
+    "explanation": "Polycystic Ovary Syndrome (PCOS) is fundamentally driven by insulin resistance, which stimulates ovarian androgen production by theca cells and alters LH/FSH balance."
+  },
+  {
+    "question": "Which maternal infection during the first trimester of pregnancy carries the highest risk of causing congenital cataracts, sensorineural deafness, and patent ductus arteriosus in the newborn?",
+    "options": [
+      "Cytomegalovirus (CMV)",
+      "Rubella Virus",
+      "Toxoplasma gondii",
+      "Herpes Simplex Virus (HSV)"
+    ],
+    "correct": 1,
+    "explanation": "Congenital Rubella Syndrome presents with the classic triad of sensorineural hearing loss, ocular defects (cataracts), and cardiac malformations (patent ductus arteriosus)."
+  },
+  {
+    "question": "A 36-year-old woman presents with postcoital bleeding. Speculum examination demonstrates an exophytic, friable lesion on the posterior lip of the cervix. What is the immediate next step in evaluation?",
+    "options": [
+      "Repeat Pap smear in 6 months",
+      "Direct punch biopsy of the cervical lesion",
+      "Pelvic MRI",
+      "Empiric oral antibiotics for cervicitis"
+    ],
+    "correct": 1,
+    "explanation": "Any visible, gross, or suspicious cervical lesion must undergo direct punch biopsy regardless of prior cytology results to establish a definitive histological diagnosis."
+  },
+  {
+    "question": "Which medication is used for cervical ripening prior to labor induction in a patient with an unfavorable cervix and NO history of prior uterine surgery?",
+    "options": [
+      "Misoprostol (Prostaglandin E1 analogue)",
+      "High-dose Oxytocin",
+      "Methotrexate",
+      "Terbutaline"
+    ],
+    "correct": 0,
+    "explanation": "Prostaglandin analogues like Misoprostol (PGE1) or Dinoprostone (PGE2) soften and efface an unripened cervix before oxytocin administration. Misoprostol is contraindicated in women with prior C-sections."
+  },
+  {
+    "question": "What is the primary definitive treatment for gestational trophoblastic disease presenting as a Complete Hydatidiform Mole in a woman who desires future childbearing?",
+    "options": [
+      "Combination systemic chemotherapy",
+      "Suction Curettage with routine follow-up monitoring",
+      "Total Abdominal Hysterectomy",
+      "Methotrexate single-dose protocol"
+    ],
+    "correct": 1,
+    "explanation": "Suction curettage is the standard treatment to evacuate a complete hydatidiform mole while preserving fertility, followed by serial beta-hCG monitoring."
+  },
+  {
+    "question": "A 26-year-old G1P0 at 28 weeks gestation presents in active labor. What is the target gestational age window during which Intravenous Magnesium Sulfate is administered specifically for fetal neuroprotection?",
+    "options": [
+      "Between 24 and 32 weeks gestation",
+      "Between 34 and 37 weeks gestation",
+      "After 37 weeks gestation",
+      "At any gestational age up to 40 weeks"
+    ],
+    "correct": 0,
+    "explanation": "Intravenous Magnesium Sulfate administered prior to imminent preterm birth (<32 weeks gestation) significantly reduces the risk and severity of cerebral palsy in premature infants."
+  },
+  {
+    "question": "Which vessel supplies arterial blood directly to the uterine fundus and anastomoses with the uterine artery?",
+    "options": [
+      "Internal pudendal artery",
+      "Ovarian artery",
+      "Inferior epigastric artery",
+      "Obturator artery"
+    ],
+    "correct": 1,
+    "explanation": "The ovarian artery arises directly from the abdominal aorta and courses through the infundibulopelvic ligament, supplying the ovary and sending an anastomotic branch to the uterine fundus."
+  },
+  {
+    "question": "A 31-year-old G3P2 at 39 weeks gestation undergoes a normal spontaneous vaginal delivery. After delivery of the placenta, firm traction on the umbilical cord during incomplete placental separation leads to a mass protruding through the vagina and severe maternal collapse. What is the primary diagnosis?",
+    "options": [
+      "Acute Uterine Inversion",
+      "Uterine Rupture",
+      "Cervical Laceration",
+      "Placenta Accreta"
+    ],
+    "correct": 0,
+    "explanation": "Acute uterine inversion occurs when fundal traction on an unseparated placenta turns the uterus inside out, presenting with a vaginal mass, hemorrhage, and neurogenic shock."
+  },
+  {
+    "question": "Which malignant ovarian tumor is composed of primitive germ cells, occurs predominantly in young females, and is histologically analogous to seminoma in males?",
+    "options": [
+      "Yolk Sac Tumor",
+      "Dysgerminoma",
+      "Choriocarcinoma",
+      "Embryonal Carcinoma"
+    ],
+    "correct": 1,
+    "explanation": "Dysgerminoma is the most common malignant germ cell tumor of the ovary, occurring mostly in adolescents/young adults, and is identical histologically to testicular seminoma."
+  },
+  {
+    "question": "A 29-year-old woman G1P0 at 34 weeks gestation presents after a screening oral glucose tolerance test (OGTT) confirms Gestational Diabetes. What is the initial line of management?",
+    "options": [
+      "Immediate subcutaneous Insulin therapy",
+      "Dietary modification and exercise protocol",
+      "Oral Metformin therapy",
+      "Elective Cesarean delivery at 36 weeks"
+    ],
+    "correct": 1,
+    "explanation": "First-line management for Gestational Diabetes Mellitus is medical nutrition therapy and moderate exercise. Insulin or oral hypoglycemics are added only if target glucose levels are not met."
+  },
+  {
+    "question": "Which structure forms the lateral boundary of the femoral ring, an anatomical site where femoral hernias occur more commonly in females?",
+    "options": [
+      "Lacunar ligament",
+      "Femoral vein",
+      "Inguinal ligament",
+      "Pectineal ligament"
+    ],
+    "correct": 1,
+    "explanation": "The femoral ring is bounded anteriorly by the inguinal ligament, medially by the lacunar ligament, posteriorly by the pectineal ligament, and laterally by the femoral vein."
+  },
+    {
+    "question": "A 25-year-old G1P0 at 36 weeks gestation presents with severe persistent generalized headache, blurred vision, and epigastric tenderness. Blood pressure is 170/110 mmHg. What is the drug of choice to prevent maternal eclamptic seizures?",
+    "options": [
+      "Phenytoin",
+      "Magnesium Sulfate",
+      "Diazepam",
+      "Labetalol"
+    ],
+    "correct": 1,
+    "explanation": "Intravenous Magnesium Sulfate is the first-line anticonvulsant of choice for seizure prophylaxis in preeclampsia with severe features and for managing eclamptic fits."
+  },
+  {
+    "question": "Which muscle is incised during a standard mediolateral episiotomy?",
+    "options": [
+      "Ischiocavernosus muscle",
+      "Bulbospongiosus (Bulbocavernosus) muscle",
+      "External anal sphincter",
+      "Levator ani muscle"
+    ],
+    "correct": 1,
+    "explanation": "A mediolateral episiotomy cuts through the vaginal mucosa, perineal skin, transverse perineal muscle, and the bulbospongiosus muscle, while intentionally sparing the external anal sphincter."
+  },
+  {
+    "question": "A 32-year-old woman presents with secondary amenorrhea of 8 months duration following an emergency suction curettage for severe postpartum hemorrhage. HORMONE levels (FSH, LH, Estradiol) are within normal limits. Estrogen-progestin challenge fails to produce withdrawal bleeding. What is the most likely diagnosis?",
+    "options": [
+      "Sheehan Syndrome",
+      "Asherman Syndrome (Intrauterine Adhesions)",
+      "Polycystic Ovary Syndrome",
+      "Premature Ovarian Insufficiency"
+    ],
+    "correct": 1,
+    "explanation": "Asherman syndrome occurs due to destruction and scarring (synechiae) of the basal layer of the endometrium following vigorous curettage. Normal hormonal levels paired with a negative progestin/estrogen withdrawal bleeding test confirm end-organ unresponsiveness."
+  },
+  {
+    "question": "What is the physiological trigger responsible for initiating the onset of maternal milk synthesis (lactogenesis stage II) immediately following childbirth?",
+    "options": [
+      "Sharp rise in serum Oxytocin levels",
+      "Abrupt drop in maternal Progesterone levels following placental delivery",
+      "Sustained elevation of Human Placental Lactogen (hPL)",
+      "Surge in luteinizing hormone (LH)"
+    ],
+    "correct": 1,
+    "explanation": "While prolactin remains elevated throughout pregnancy, high levels of placental progesterone inhibit lactogenesis. Delivery of the placenta causes a precipitate drop in progesterone, unblocking prolactin receptors and triggering copious milk production."
+  },
+  {
+    "question": "A 22-year-old nulligravida presents with cyclical dysmenorrhea, deep dyspareunia, and painful defecation (dyschezia) during menstruation. Pelvic exam reveals uterosacral nodularity. What is the definitive gold-standard diagnostic procedure?",
+    "options": [
+      "Transvaginal Pelvic Ultrasound",
+      "Diagnostic Laparoscopy with histopathological biopsy",
+      "Serum CA-125 measurement",
+      "Pelvic Computed Tomography (CT)"
+    ],
+    "correct": 1,
+    "explanation": "Diagnostic laparoscopy with direct visualization and histological evaluation of excised lesions remains the definitive gold standard for diagnosing Endometriosis."
+  },
+  {
+    "question": "Which pelvic type according to the Caldwell-Moloy classification is characterized by a heart-shaped pelvic inlet, prominent ischial spines, narrowed subpubic arch, and is associated with persistent occiput posterior presentation?",
+    "options": [
+      "Gynecoid pelvis",
+      "Android pelvis",
+      "Anthropoid pelvis",
+      "Platypelloid pelvis"
+    ],
+    "correct": 1,
+    "explanation": "The android pelvis resembles the typical male pelvis with a heart-shaped brim, narrow anterior segment, and convergent side walls, predisposing to deep transverse arrest and persistent occiput posterior positions."
+  },
+  {
+    "question": "A 34-year-old G3P2 at 38 weeks gestation develops severe continuous abdominal pain and dark vaginal bleeding. On palpation, the uterus is hypertonic and tender ('woody-hard'). CTG demonstrates fetal bradycardia. What is the diagnosis?",
+    "options": [
+      "Placenta Previa",
+      "Abruptio Placentae",
+      "Uterine Rupture",
+      "Vasa Previa"
+    ],
+    "correct": 1,
+    "explanation": "Placental abruption (premature separation of placenta) classically presents with painful vaginal bleeding, uterine hypertonia/tenderness, and fetal distress due to acute retroplacental hemorrhage."
+  },
+  {
+    "question": "Which congenital uterine anomaly results from complete failure of fusion of the paired Müllerian (paramesonephric) ducts during embryonic development?",
+    "options": [
+      "Septate Uterus",
+      "Uterus Didelphys",
+      "Bicornuate Uterus",
+      "Unicornuate Uterus"
+    ],
+    "correct": 1,
+    "explanation": "Uterus didelphys results from total non-fusion of both Müllerian ducts, producing two distinct uterine cavities, two cervices, and often a longitudinal vaginal septum."
+  },
+  {
+    "question": "A 27-year-old G1P0 at 16 weeks gestation undergoes second-trimester triple/quadruple maternal serum screening. Results reveal an abnormally elevated level of maternal serum Alpha-Fetoprotein (MSAFP). What condition is most strongly associated with this finding?",
+    "options": [
+      "Trisomy 21 (Down Syndrome)",
+      "Neural Tube Defects (e.g., Anencephaly, Spina Bifida)",
+      "Trisomy 18 (Edwards Syndrome)",
+      "Hydatidiform Mole"
+    ],
+    "correct": 1,
+    "explanation": "Elevated MSAFP (>2.5 MOM) is characteristically associated with open neural tube defects (spina bifida, anencephaly), ventral wall defects (omphalocele, gastroschisis), or multiple gestations."
+  },
+  {
+    "question": "Which histological subtype of Vulvar Intraepithelial Neoplasia (VIN) is unassociated with high-risk HPV infection and typically arises on a background of Lichen Sclerosus in elderly women?",
+    "options": [
+      "Usual-type VIN (Warty/Basaloid)",
+      "Differentiated VIN (dVIN)",
+      "Clear cell adenocarcinoma",
+      "Paget disease of the vulva"
+    ],
+    "correct": 1,
+    "explanation": "Differentiated VIN (dVIN) is HPV-negative, develops primarily in postmenopausal women with longstanding Lichen Sclerosus, and carries a higher risk of rapid progression to invasive squamous cell carcinoma."
+  },
+  {
+    "question": "A 30-year-old G2P1 at 39 weeks gestation undergoes spontaneous vaginal delivery. Following delivery of the newborn, what is the single most effective intervention within the active management of the third stage of labor (AMTSL) to prevent postpartum hemorrhage?",
+    "options": [
+      "Immediate administration of a prophylactic uterotonic agent (e.g., Oxytocin)",
+      "Early umbilical cord clamping",
+      "Routine manual exploration of the uterine cavity",
+      "Uterine packing with gauze"
+    ],
+    "correct": 0,
+    "explanation": "Administration of a uterotonic agent (specifically Oxytocin 10 IU IM/IV) immediately following birth of the infant is the most critical component of AMTSL to ensure prompt uterine contraction and prevent PPH."
+  },
+  {
+    "question": "Which cell structure in the ovary is the primary source of circulating Estrogens during the follicular phase of the menstrual cycle, operating under the 'Two-cell, Two-gonadotropin' hypothesis?",
+    "options": [
+      "Theca interna cells converting cholesterol to androgens via FSH stimulation",
+      "Granulosa cells aromatizing theca-derived androgens into estrogens under LH influence",
+      "Granulosa cells aromatizing theca-derived androgens into estrogens under FSH influence",
+      "Luteal cells producing estrone directly without gonadotropin stimulation"
+    ],
+    "correct": 2,
+    "explanation": "According to the two-cell hypothesis, LH stimulates theca cells to synthesize androgens (androstenedione), which diffuse into granulosa cells where FSH stimulates the aromatase enzyme to convert them into estrogens (estradiol)."
+  },
+  {
+    "question": "A 23-year-old woman presents with severe vulvar pruritus and profuse frothy, yellowish-green vaginal discharge with a foul odor. Physical exam reveals punctate red hemorrhages on the cervix ('strawberry cervix'). What is the recommended treatment?",
+    "options": [
+      "Oral Fluconazole single dose",
+      "Oral Metronidazole for both the patient and her sexual partner",
+      "Topical Clindamycin cream",
+      "Intramuscular Ceftriaxone single dose"
+    ],
+    "correct": 1,
+    "explanation": "Trichomoniasis (caused by *Trichomonas vaginalis*) presents with frothy green discharge and strawberry cervix. Concurrent oral Metronidazole treatment for both the patient and sex partner is mandatory to prevent reinfection."
+  },
+  {
+    "question": "What is the primary mechanism of action of the Copper T380A Intrauterine Device (IUD) for contraception?",
+    "options": [
+      "Suppression of ovulation via systemic gonadotropin inhibition",
+      "Induction of a sterile local inflammatory response that is toxic to sperm and ova",
+      "Thickening of cervical mucus to block sperm passage",
+      "Direct lysis of the corpus luteum"
+    ],
+    "correct": 1,
+    "explanation": "Copper ions released from the IUD induce a local inflammatory foreign-body reaction within the endometrium and fallopian tubes, creating a cytotoxic environment that impairs sperm motility, viability, and fertilization."
+  },
+  {
+    "question": "A 29-year-old G1P0 at 38 weeks gestation is in second-stage labor. The fetal head is deeply engaged, station is +3, position is Direct Occiput Anterior, but maternal exhaustion prevents further pushing. Which condition is a prerequisite before applying low obstetric forceps?",
+    "options": [
+      "Intact amniotic membranes",
+      "Complete cervical dilation (10 cm)",
+      "Unengaged fetal head",
+      "Breech presentation"
+    ],
+    "correct": 1,
+    "explanation": "Prerequisites for operative vaginal delivery (forceps or vacuum) include full cervical dilation (10 cm), ruptured membranes, engaged head, precise knowledge of position, empty bladder, and adequate pelvis."
+  },
+  {
+    "question": "Which tumor marker is characteristically elevated in non-gestational or gestational ovarian Choriocarcinoma?",
+    "options": [
+      "CA-125",
+      "Human Chorionic Gonadotropin (beta-hCG)",
+      "Alpha-Fetoprotein (AFP)",
+      "Inhibin A"
+    ],
+    "correct": 1,
+    "explanation": "Choriocarcinomas consist of malignant syncytiotrophoblasts and cytotrophoblasts, secreting massive quantities of beta-hCG into maternal serum."
+  },
+  {
+    "question": "A 31-year-old G1P0 at 12 weeks gestation presents for her first prenatal visit. Blood pressure is 150/95 mmHg. Urinalysis shows no protein. She has no prior history of high blood pressure. At 24 weeks, her BP remains 148/92 mmHg without proteinuria. What is the diagnosis?",
+    "options": [
+      "Gestational Hypertension",
+      "Chronic Hypertension",
+      "Preeclampsia",
+      "Transient hypertension of pregnancy"
+    ],
+    "correct": 1,
+    "explanation": "Hypertension present before pregnancy or identified before 20 weeks gestation is classified as Chronic Hypertension."
+  },
+  {
+    "question": "Which enzyme deficiency is the most common cause of Congenital Adrenal Hyperplasia (CAH), leading to virilization/ambiguous genitalia in newborn 46,XX females due to excess androgen production?",
+    "options": [
+      "17-alpha Hydroxylase deficiency",
+      "21-Hydroxylase deficiency",
+      "11-beta Hydroxylase deficiency",
+      "Aromatase deficiency"
+    ],
+    "correct": 1,
+    "explanation": "21-hydroxylase deficiency accounts for over 90% of CAH cases. Impaired cortisol synthesis leads to uninhibited ACTH secretion, diverting steroid precursors into the adrenal androgen pathway."
+  },
+  {
+    "question": "A 40-year-old woman G4P4 presents with heavy menstrual bleeding. Bimanual exam reveals an irregularly enlarged, firm, non-tender uterus. Pelvic ultrasound shows multiple well-circumscribed, hypoechoic uterine masses with acoustic shadowing. What is the diagnosis?",
+    "options": [
+      "Endometrial Polyp",
+      "Uterine Leiomyoma (Fibroid)",
+      "Uterine Sarcoma",
+      "Adenomyosis"
+    ],
+    "correct": 1,
+    "explanation": "Uterine leiomyomas (fibroids) are benign smooth muscle tumors that present ultrasonographically as well-circumscribed, hypoechoic concentric masses with acoustic shadowing."
+  },
+  {
+    "question": "What is the definitive medical treatment for a hemodynamically stable patient with an unruptured tubal ectopic pregnancy, an ectopic mass size < 3.5 cm, and no fetal cardiac activity?",
+    "options": [
+      "Systemic Methotrexate",
+      "Intravenous Ampicillin",
+      "Oral Mifepristone only",
+      "Subcutaneous Heparin"
+    ],
+    "correct": 0,
+    "explanation": "Single-dose or multi-dose parenteral Methotrexate (a folic acid antagonist) is the standard medical treatment for unruptured ectopic pregnancy in stable patients meeting strict criteria."
+  },
+  {
+    "question": "Which nerve provides sensory innervation to the anterior third of the vulva and mons pubis?",
+    "options": [
+      "Pudendal nerve",
+      "Ilioinguinal nerve",
+      "Posterior cutaneous nerve of thigh",
+      "Genitofemoral nerve (femoral branch)"
+    ],
+    "correct": 1,
+    "explanation": "The ilioinguinal nerve supplies sensation to the skin over the mons pubis and anterior labia majora, whereas the pudendal nerve supplies the posterior two-thirds of the perineum."
+  },
+  {
+    "question": "A 26-year-old G2P1 at 30 weeks gestation presents with sudden painless, profuse bright red vaginal bleeding. Fetal heart tracing is reassuring. What management path is indicated if maternal and fetal statuses remain stable?",
+    "options": [
+      "Immediate emergency C-section",
+      "Expectant conservative management in hospital with bed rest and observation",
+      "Induction of labor with intravenous Oxytocin",
+      "Immediate digital cervical examination to check dilation"
+    ],
+    "correct": 1,
+    "explanation": "In stable Placenta Previa prior to 37 weeks gestation, conservative expectant management (hospitalization, monitoring, steroids for lung maturity) is indicated to gain fetal maturity."
+  },
+  {
+    "question": "Which malignant stromal tumor of the ovary typically occurs in postmenopausal women, secretes estrogen, and pathologically exhibits Call-Exner bodies (small fluid-filled spaces surrounding central nuclei)?",
+    "options": [
+      "Sertoli-Leydig Cell Tumor",
+      "Granulosa Cell Tumor",
+      "Fibroma",
+      "Brenner Tumor"
+    ],
+    "correct": 1,
+    "explanation": "Granulosa cell tumors are sex cord-stromal tumors that secrete estrogen (causing postmenopausal bleeding/endometrial hyperplasia) and characteristically feature Call-Exner bodies on histology."
+  },
+  {
+    "question": "What is the recommended first-line pharmacological treatment for anovulatory infertility in women diagnosed with Polycystic Ovary Syndrome (PCOS)?",
+    "options": [
+      "Clomiphene Citrate or Letrozole",
+      "Human Chorionic Gonadotropin (hCG) alone",
+      "Combined Oral Contraceptive Pills",
+      "Spironolactone"
+    ],
+    "correct": 0,
+    "explanation": "Letrozole (an aromatase inhibitor) or Clomiphene Citrate (a SERM) are first-line agents for ovulation induction in women with PCOS seeking pregnancy."
+  },
+  {
+    "question": "A 33-year-old G2P1 at 41 weeks gestation is evaluated for prolonged pregnancy. Ultrasound reveals an Amniotic Fluid Index (AFI) of 3 cm. What is the clinical interpretation and recommended management?",
+    "options": [
+      "Polyhydramnios; discharge home with routine follow-up",
+      "Oligohydramnios; plan for prompt labor induction or delivery",
+      "Normal amniotic fluid volume; re-evaluate in 2 weeks",
+      "Severe fetal hydrops; perform immediate intrauterine transfusion"
+    ],
+    "correct": 1,
+    "explanation": "An AFI < 5 cm defines Oligohydramnios. In a post-term or term pregnancy (≥41 weeks), oligohydramnios indicates placental insufficiency and mandates labor induction."
   }
 ]
+
+  
+    
 
