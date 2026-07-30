@@ -1,1106 +1,1107 @@
 [
   {
-    "question": "A 25-year-old G1P0 at 30 weeks gestation presents after a high-speed motor vehicle collision. She is hemodynamically stable with no vaginal bleeding or abdominal pain. What is the most appropriate next step in management?",
+    "question": "A 28-year-old G1P0 at 12 weeks gestation presents for her first prenatal visit. Which physiological cardiovascular change is considered normal during a healthy pregnancy?",
     "options": [
-      "Discharge home with warning signs",
-      "Continuous electronic fetal monitoring for at least 4-6 hours",
-      "Immediate STAT emergency Cesarean section",
-      "Kleihauer-Betke test and immediate discharge"
+      "Increase in Systemic Vascular Resistance (SVR) by 20%",
+      "Increase in total Cardiac Output (CO) by 30% to 50%",
+      "Decrease in total blood volume by 10%",
+      "Decrease in resting maternal heart rate by 10-15 bpm"
     ],
     "correct": 1,
-    "explanation": "Trauma in pregnancy carries a high risk of concealed placental abruption. Even in asymptomatic and stable patients, continuous electronic fetal monitoring for a minimum of 4-6 hours is required to rule out uterine irritability and occult abruption."
+    "explanation": "During normal pregnancy, cardiac output increases by 30–50% (driven by increased stroke volume and resting heart rate), systemic vascular resistance (SVR) decreases, and total blood volume expands by 40–50%."
   },
   {
-    "question": "Which structure develops from the mesonephric (Wolfian) duct remnants in females and can present as a lateral vaginal wall cyst?",
+    "question": "Which valvular heart condition carries the highest risk of maternal mortality (up to 30-50%) during pregnancy and delivery?",
     "options": [
-      "Nuck cyst",
-      "Bartholin cyst",
-      "Gartner duct cyst",
-      "Nabothian cyst"
+      "Mild Mitral Regurgitation",
+      "Severe Mitral Stenosis with Pulmonary Hypertension",
+      "Asymptomatic Aortic Regurgitation",
+      "Mitral Valve Prolapse without regurgitation"
+    ],
+    "correct": 1,
+    "explanation": "Severe Mitral Stenosis—especially when complicated by pulmonary arterial hypertension—is poorly tolerated in pregnancy due to physiological hypervolemia and tachycardia, carrying a maternal mortality rate of up to 30–50%."
+  },
+  {
+    "question": "A 30-year-old G2P1 at 8 weeks gestation with a history of mechanical aortic valve replacement requires anticoagulation. Which regimen balances maternal thrombotic protection with minimizing fetal teratogenicity during the first trimester?",
+    "options": [
+      "High-dose Warfarin (10 mg daily) throughout the first trimester",
+      "Dabigatran orally twice daily",
+      "Therapeutic Dose Low-Molecular-Weight Heparin (LMWH) with anti-Xa monitoring",
+      "Aspirin 81 mg daily alone"
     ],
     "correct": 2,
-    "explanation": "Gartner duct cysts arise from remnants of the mesonephric (Wolffian) duct and are typically located on the anterolateral wall of the upper vagina."
+    "explanation": "Warfarin crosses the placenta and causes Warfarin Embryopathy (nasal hypoplasia, stippled epiphyses) between 6–12 weeks. Switching to therapeutic LMWH (or UFH) with strict anti-Xa monitoring during the first trimester mitigates teratogenic risk."
   },
   {
-    "question": "A 29-year-old woman at 14 weeks gestation presents for routine prenatal screening. Her urine culture grows >10^5 CFU/mL of Escherichia coli, but she has no urinary symptoms. What is the most appropriate management?",
+    "question": "A 32-year-old G1P0 at 34 weeks gestation with known Mitral Stenosis presents with acute shortness of breath, orthopnea, and bilateral lung crackles. Heart rate is 125 bpm (atrial fibrillation). What is the initial medical management to reduce pulmonary congestion?",
     "options": [
-      "No treatment required as she is asymptomatic",
-      "Repeat urine culture in 4 weeks",
-      "Treat with a course of pregnancy-safe oral antibiotics",
-      "Initiate daily prophylactic low-dose nitrofurantoin until delivery"
-    ],
-    "correct": 2,
-    "explanation": "Asymptomatic bacteriuria in pregnancy must always be treated due to a high risk of progression to acute pyelonephritis, preterm labor, and low birth weight."
-  },
-  {
-    "question": "Which nerve provides sensory innervation to the anterior third of the vulva and mons pubis?",
-    "options": [
-      "Pudendal nerve",
-      "Ilioinguinal nerve",
-      "Genitofemoral nerve",
-      "Posterior cutaneous nerve of the thigh"
+      "Intravenous fluid bolus 1000 mL normal saline",
+      "Rate control with Beta-blockers (e.g., Metoprolol) and IV Furosemide",
+      "Immediate administration of Terbutaline",
+      "Emergency C-section under spinal anesthesia without medical stabilization"
     ],
     "correct": 1,
-    "explanation": "The ilioinguinal nerve (L1) provides sensory innervation to the mons pubis and anterior labia majora. The pudendal nerve innervates the posterior two-thirds of the vulva and perineum."
+    "explanation": "Tachycardia shortens diastolic filling time across a stenotic mitral valve, sharply increasing left atrial pressure and causing pulmonary edema. Rate control with beta-blockers and diuresis with furosemide reduce filling pressures."
   },
   {
-    "question": "What is the primary vascular supply to the corpus luteum following ovulation?",
+    "question": "Which congenital heart lesion in a pregnant woman is associated with Eisenmenger Syndrome and carries an extreme risk of maternal death during delivery or early postpartum?",
     "options": [
-      "Uterine artery branches",
-      "Ovarian artery via the infundibulopelvic ligament",
-      "Internal iliac artery",
-      "Middle rectal artery"
+      "Uncorrected Ventricular Septal Defect with severe left-to-right shunt",
+      "Uncorrected severe pulmonary/systemic left-to-right shunt converted to a right-to-left shunt with cyanosis",
+      "Small asymptomatic Atrial Septal Defect (ASD)",
+      "Repaired Coarctation of the Aorta without residual stenosis"
     ],
     "correct": 1,
-    "explanation": "The blood supply to the ovary and corpus luteum travels within the infundibulopelvic (suspensory ligament of the ovary) via the ovarian artery (branch of the abdominal aorta)."
+    "explanation": "Eisenmenger Syndrome occurs when chronic left-to-right shunts cause irreversible pulmonary hypertension, reversing the shunt to right-to-left with cyanosis. Maternal mortality exceeds 30-50%, making pregnancy strictly contraindicated."
   },
   {
-    "question": "A 31-year-old G2P1 at 36 weeks gestation presents with sudden severe headache, visual scotomas, and epigastric pain. BP is 170/115 mmHg. Laboratory results show AST 350 U/L, Platelets 45,000/mcL, and microangiopathic hemolytic anemia. What is the primary diagnosis?",
+    "question": "A 29-year-old woman G1P0 at 36 weeks gestation presents with new-onset orthopnea, dyspnea at rest, pedal edema, and an ejection fraction (EF) of 32% on echocardiogram. She has no prior history of cardiac disease. What is the diagnosis?",
     "options": [
-      "Acute Fatty Liver of Pregnancy",
-      "HELLP Syndrome",
-      "Thrombotic Thrombocytopenic Purpura (TTP)",
-      "Obstetric Cholestasis"
+      "Physiological dyspnea of pregnancy",
+      "Peripartum Cardiomyopathy (PPCM)",
+      "Hypertrophic Cardiomyopathy",
+      "Acute Viral Myocarditis"
     ],
     "correct": 1,
-    "explanation": "HELLP syndrome is characterized by Hemolysis, Elevated Liver enzymes, and Low Platelets (<100,000/mcL). It is a severe variant of preeclampsia requiring stabilization and prompt delivery."
+    "explanation": "Peripartum Cardiomyopathy (PPCM) is an idiopathic heart failure secondary to systolic dysfunction (EF < 45%) developing toward the end of pregnancy or in the months following delivery, without other demonstrable causes."
   },
   {
-    "question": "During a Total Abdominal Hysterectomy, at what anatomical landmark is the ureter at the greatest risk of iatrogenic injury?",
+    "question": "Which antihypertensive medication is strictly contraindicated during pregnancy due to risks of fetal renal dysgenesis, oligohydramnios, and neonatal renal failure?",
     "options": [
-      "Where it crosses the pelvic brim near the infundibulopelvic ligament",
-      "Where it passes under the uterine artery ('water under the bridge')",
-      "Where it enters the bladder wall at the trigone",
-      "As it courses medial to the uterosacral ligament"
-    ],
-    "correct": 1,
-    "explanation": "The ureter passes directly inferior to the uterine artery ('water under the bridge') near the cervicouterine junction, making it extremely vulnerable during ligation of the uterine vessels."
-  },
-  {
-    "question": "Which cardiac condition carries the highest risk of maternal mortality during pregnancy and labor?",
-    "options": [
-      "Mitral Valve Prolapse",
-      "Mild Aortic Stenosis",
-      "Pulmonary Arterial Hypertension (Eisenmenger syndrome)",
-      "Corrected Tetralogy of Fallot"
-    ],
-    "correct": 2,
-    "explanation": "Pulmonary arterial hypertension (including Eisenmenger syndrome) carries a maternal mortality rate of 30-50% due to the inability of the right heart to handle the physiological increase in cardiac output."
-  },
-  {
-    "question": "A 22-year-old nulligravida presents with severe secondary dysmenorrhea and heavy bleeding. Pelvic ultrasound reveals a 5cm unilocular ovarian mass with low-level internal echoes ('ground-glass' appearance). What is the most likely diagnosis?",
-    "options": [
-      "Dermoid cyst (Mature Teratoma)",
-      "Endometrioma",
-      "Serous Cystadenoma",
-      "Corpus Luteal Cyst"
-    ],
-    "correct": 1,
-    "explanation": "A 'ground-glass' homogeneous internal echoing pattern on transvaginal ultrasound is classic for an ovarian endometrioma ('chocolate cyst')."
-  },
-  {
-    "question": "What is the recommended target blood glucose level for a patient with Gestational Diabetes Mellitus (GDM) measured 1 hour postprandial?",
-    "options": [
-      "< 140 mg/dL (7.8 mmol/L)",
-      "< 120 mg/dL (6.7 mmol/L)",
-      "< 95 mg/dL (5.3 mmol/L)",
-      "< 160 mg/dL (8.9 mmol/L)"
-    ],
-    "correct": 0,
-    "explanation": "Standard GDM glycemic targets are: Fasting < 95 mg/dL, 1-hour postprandial < 140 mg/dL, and 2-hour postprandial < 120 mg/dL."
-  },
-  {
-    "question": "A 28-year-old G1P0 at 39 weeks gestation undergoes spontaneous rupture of membranes. Amniotic fluid is clear. Digital exam reveals a fully effaced cervix 4 cm dilated, but a soft loop of tissue is felt in front of the presenting part. CTG shows sudden severe bradycardia. What is the immediate intervention?",
-    "options": [
-      "Administer IV oxytocin to speed up labor",
-      "Elevate the fetal presenting part manually and prepare for immediate Cesarean delivery",
-      "Place the patient in reverse Trendelenburg position",
-      "Perform instrumental vacuum delivery immediately"
-    ],
-    "correct": 1,
-    "explanation": "Overt umbilical cord prolapse requires immediate manual elevation of the presenting part off the cord to relieve vessel compression while expediting emergency STAT Cesarean section."
-  },
-  {
-    "question": "Which enzyme converts testosterone into estradiol in the granulosa cells of the ovary under the influence of FSH?",
-    "options": [
-      "17-alpha Hydroxylase",
-      "Aromatase (CYP19A1)",
-      "5-alpha Reductase",
-      "3-beta Hydroxysteroid Dehydrogenase"
-    ],
-    "correct": 1,
-    "explanation": "According to the two-cell, two-gonadotropin theory, theca cells produce androgens (androstenone/testosterone) under LH stimulation, which are then converted into estrogens (estrone/estradiol) by Aromatase in granulosa cells under FSH stimulation."
-  },
-  {
-    "question": "A 34-year-old woman presents with secondary amenorrhea for 8 months following a curettage procedure for postpartum hemorrhage. Serum FSH, LH, and Estradiol levels are within normal limits. Progesterone withdrawal test produces no bleeding. What is the most likely diagnosis?",
-    "options": [
-      "Sheehan Syndrome",
-      "Premature Ovarian Insufficiency",
-      "Asherman Syndrome",
-      "Polycystic Ovary Syndrome"
-    ],
-    "correct": 2,
-    "explanation": "Asherman syndrome (intrauterine adhesions) occurs secondary to vigorous curettage destroying the basal layer of the endometrium. Hormones are normal, but target tissue is absent, leading to a negative progesterone withdrawal test."
-  },
-  {
-    "question": "What is the key histopathological feature distinguishing Partial Hydatidiform Mole from Complete Hydatidiform Mole?",
-    "options": [
-      "Presence of fetal/embryonic tissue and triploid karyotype (69,XXY)",
-      "Diffuse hydropic swelling of all chorionic villi",
-      "Complete absence of maternal chromosomes",
-      "Elevated serum beta-hCG > 100,000 mIU/mL"
-    ],
-    "correct": 0,
-    "explanation": "Partial moles contain fetal/embryonic tissue, focal villous swelling, and have a triploid karyotype (usually 69,XXY from dispermic fertilization). Complete moles have no fetal tissue and are diploid (46,XX)."
-  },
-  {
-    "question": "A 40-year-old woman undergoes a total hysterectomy. Which pelvic ligament contains the uterine artery and veins?",
-    "options": [
-      "Round ligament",
-      "Ovarian ligament",
-      "Cardinal ligament (Transverse Cervical / Mackenrodt's)",
-      "Broad ligament"
-    ],
-    "correct": 2,
-    "explanation": "The cardinal (transverse cervical/Mackenrodt's) ligament located at the base of the broad ligament transmits the uterine artery and veins."
-  },
-  {
-    "question": "What is the first line recommended anti-hypertensive medication for long-term control of chronic hypertension in a pregnant patient?",
-    "options": [
-      "Lisinopril",
       "Labetalol",
-      "Valsartan",
-      "Atenolol"
+      "Enalapril (ACE Inhibitor)",
+      "Methyldopa",
+      "Nifedipine"
     ],
     "correct": 1,
-    "explanation": "Labetalol, Methyldopa, and Extended-release Nifedipine are first-line antihypertensives in pregnancy. ACE inhibitors (like Lisinopril) and ARBs (like Valsartan) are strictly fetotoxic."
+    "explanation": "ACE inhibitors (like Enalapril) and Angiotensin Receptor Blockers (ARBs) cause fetal renal agenesis/dysgenesis, severe oligohydramnios, skull hypoplasia, and intrauterine growth restriction (IUGR)."
   },
   {
-    "question": "A 17-year-old girl presents with primary amenorrhea, normal height, normal secondary sexual characteristics (breast development and pubic hair), and cyclic monthly pelvic pain. On pelvic exam, a bulging bluish membrane is seen at the introitus. What is the diagnosis?",
+    "question": "A 34-year-old G2P1 at 10 weeks gestation with Graves' disease requires antithyroid drug (ATD) therapy. Which medication is the preferred first-line agent during the FIRST trimester of pregnancy?",
     "options": [
-      "Transverse Vaginal Septum",
-      "Imperforate Hymen",
-      "Müllerian Agenesis",
-      "Androgen Insensitivity Syndrome"
+      "Methimazole (MMI)",
+      "Propylthiouracil (PTU)",
+      "Radioactive Iodine (I131)",
+      "Levothyroxine"
     ],
     "correct": 1,
-    "explanation": "An imperforate hymen blocks menstrual flow, presenting at puberty with hematocolpos (retained blood in vagina), pelvic pain, and a classic tense, bulging bluish hymenal membrane."
+    "explanation": "Propylthiouracil (PTU) is preferred in the first trimester because Methimazole is associated with embryopathy (aplasia cutis, choanal/esophageal atresia). MMI is typically switched back after 12 weeks to avoid PTU-induced hepatotoxicity."
   },
   {
-    "question": "Which microscopic feature is pathognomonic for a Granulosa Cell Tumor of the ovary?",
+    "question": "Why is serum Total T4 and Total T3 elevated in normal pregnancy despite the patient remaining clinically euthyroid?",
     "options": [
-      "Psammoma bodies",
-      "Reinke crystals",
-      "Call-Exner bodies",
-      "Schiller-Duval bodies"
+      "Estrogen stimulates liver synthesis of Thyroid-Binding Globulin (TBG)",
+      "Progesterone directly stimulates thyroid follicular cell secretion",
+      "Placental lactogen inhibits renal excretion of thyroid hormone",
+      "hCG destroys circulating thyroid binding proteins"
+    ],
+    "correct": 0,
+    "explanation": "High estrogen levels during pregnancy increase hepatic synthesis and sialylation of Thyroid-Binding Globulin (TBG), raising total T4/T3 levels, while free T4 (FT4) and free T3 (FT3) remain within normal physiological ranges."
+  },
+  {
+    "question": "A 26-year-old G1P0 at 10 weeks gestation presents with severe hyperemesis gravidarum, weight loss, and mild palpitations. Labs show TSH < 0.01 mIU/L and FT4 upper limit of normal. TSH receptor antibodies (TRAb) are negative. What is the underlying mechanism?",
+    "options": [
+      "Graves' Disease",
+      "Gestational Transient Thyrotoxicosis (GTT) driven by hCG cross-reactivity with TSH receptors",
+      "Toxic Multinodular Goiter",
+      "Subacute Granulomatous Thyroiditis"
+    ],
+    "correct": 1,
+    "explanation": "Gestational Transient Thyrotoxicosis (GTT) occurs in early pregnancy because high levels of human Chorionic Gonadotropin (hCG) share an alpha-subunit with TSH and weak agonist activity at the TSH receptor. It typically resolves by 14-18 weeks without antithyroid drug treatment."
+  },
+  {
+    "question": "A 31-year-old G1P0 at 14 weeks gestation has a confirmed diagnosis of overt Hypothyroidism (TSH 8.5 mIU/L, low FT4). What is the potential adverse outcome on fetal development if untreated early in gestation?",
+    "options": [
+      "Macrosomia and fetal hyperglycemia",
+      "Impaired neurodevelopment and lowered intelligence quotient (IQ)",
+      "Congenital heart defects like tetralogy of Fallot",
+      "Fetal hyperthyroidism and craniosynostosis"
+    ],
+    "correct": 1,
+    "explanation": "The fetus depends entirely on maternal thyroid hormone transfer prior to 12-14 weeks gestation. Untreated maternal hypothyroidism increases risks of miscarriage, preeclampsia, placental abruption, and long-term neurocognitive/IQ impairment."
+  },
+  {
+    "question": "What is the targeted blood pressure cutoff for initiating acute intravenous drug therapy (e.g., IV Labetalol or IV Hydralazine) in a pregnant patient with severe acute hypertension?",
+    "options": [
+      "Systolic BP ≥ 130 mmHg or Diastolic BP ≥ 85 mmHg",
+      "Systolic BP ≥ 160 mmHg and/or Diastolic BP ≥ 110 mmHg",
+      "Systolic BP ≥ 140 mmHg or Diastolic BP ≥ 90 mmHg",
+      "Systolic BP ≥ 180 mmHg or Diastolic BP ≥ 130 mmHg"
+    ],
+    "correct": 1,
+    "explanation": "Severe acute hypertension in pregnancy is defined as Systolic BP ≥ 160 mmHg and/or Diastolic BP ≥ 110 mmHg sustained for 15 minutes or more, requiring urgent IV antihypertensive therapy to prevent maternal stroke."
+  },
+  {
+    "question": "A 28-year-old G1P0 at 32 weeks gestation with severe preeclampsia is receiving continuous Intravenous Magnesium Sulfate. Which cardiac/neurological physical exam finding indicates early toxicity?",
+    "options": [
+      "Loss of deep tendon reflexes (patellar reflex)",
+      "Hyperreflexia and clonus",
+      "Tachycardia > 140 bpm",
+      "Acute hypertension spike"
+    ],
+    "correct": 0,
+    "explanation": "The earliest sign of Magnesium Sulfate toxicity is the loss of deep tendon reflexes (patellar reflex), occurring at serum levels of 7–10 mEq/L. Respiratory depression and cardiac arrest occur at much higher concentrations."
+  },
+  {
+    "question": "A 33-year-old G3P2 with a history of Graves' disease treated with radioiodine ablation prior to pregnancy is currently euthyroid on levothyroxine. Why is fetal thyroid monitoring via ultrasound still indicated?",
+    "options": [
+      "Maternal TSH receptor antibodies (TRAb/TSI) can cross the placenta and cause fetal hyperthyroidism",
+      "Levothyroxine causes fetal goiter and hypothyroidism",
+      "Radioiodine ablation permanent radiation affects the placenta",
+      "High TSH levels directly stimulate fetal thyroid development"
+    ],
+    "correct": 0,
+    "explanation": "Maternal IgG TSH receptor antibodies (TRAb) freely cross the placenta. Even if the mother is rendered euthyroid or hypothyroid by past surgery/ablation, circulating antibodies can stimulate the fetal thyroid, causing fetal goiter/thyrotoxicosis."
+  },
+  {
+    "question": "Which diagnostic test is contraindicated for evaluating a solid thyroid nodule discovered during pregnancy?",
+    "options": [
+      "High-resolution Thyroid Ultrasound",
+      "Fine-Needle Aspiration (FNA) Biopsy",
+      "Radioactive Iodine (I131) Scan",
+      "Serum TSH level"
     ],
     "correct": 2,
-    "explanation": "Call-Exner bodies (small fluid-filled spaces surrounded by granulating tumor cells) and 'coffee-bean' nuclei are pathognomonic microscopic findings of Granulosa Cell Tumors."
+    "explanation": "Radioactive iodine (I131 or I123) scanning is strictly contraindicated during pregnancy because radioactive isotopes cross the placenta and destroy the fetal thyroid gland after 10–12 weeks gestation."
   },
   {
-    "question": "A 27-year-old G2P1 at 32 weeks gestation undergoes routine ultrasound, which shows an amniotic fluid index (AFI) of 28 cm. Which fetal anomaly is most strongly associated with polyhydramnios?",
+    "question": "A 30-year-old woman 3 months postpartum presents with anxiety, palpitations, and heat intolerance followed 2 months later by fatigue and weight gain. Thyroid ultrasound shows reduced vascularity and radioisotope uptake is low. What is the diagnosis?",
     "options": [
-      "Renal Agenesis (Potter syndrome)",
-      "Esophageal Atresia",
-      "Posterior Urethral Valves",
-      "Polycystic Kidney Disease"
-    ],
-    "correct": 1,
-    "explanation": "Polyhydramnios (AFI > 24-25 cm) is caused by conditions that prevent fetal swallowing of amniotic fluid, such as esophageal or duodenal atresia, or central nervous system defects like anencephaly."
-  },
-  {
-    "question": "What is the primary mechanism of action of Tranexamic Acid when used to treat heavy menstrual bleeding?",
-    "options": [
-      "Inhibition of endometrial prostaglandin synthesis",
-      "Reversible blockade of fibrinolysis by inhibiting plasminogen activation",
-      "Direct vasoconstriction of uterine spiral arteries",
-      "Suppression of the hypothalamic-pituitary-ovarian axis"
-    ],
-    "correct": 1,
-    "explanation": "Tranexamic acid is an antifibrinolytic agent that competitively blocks plasminogen activation, reducing breakdown of fibrin clots in the endometrium."
-  },
-  {
-    "question": "A 33-year-old woman G3P2 at 38 weeks gestation presents in active labor. After delivery of the fetus, the placenta does not separate after 30 minutes despite uterine massage and controlled cord traction. Manual extraction is attempted, but no cleavage plane between the placenta and myometrium can be identified. What is the most likely diagnosis?",
-    "options": [
-      "Placental Abruption",
-      "Placenta Accreta",
-      "Placenta Previa",
-      "Succenturiate Lobe"
-    ],
-    "correct": 1,
-    "explanation": "Placenta accreta occurs when chorionic villi attach directly to the myometrium due to an absent or defective decidua basalis, preventing normal separation after delivery."
-  },
-  {
-    "question": "Which hormone level is the most sensitive indicator of reduced ovarian reserve in a woman undergoing fertility workup?",
-    "options": [
-      "Elevated Day 3 Follicle-Stimulating Hormone (FSH) and Low Anti-Müllerian Hormone (AMH)",
-      "Elevated Serum Progesterone",
-      "Low Luteinizing Hormone (LH)",
-      "High Estradiol on Day 21"
+      "Postpartum Thyroiditis",
+      "Graves' Disease recurrence",
+      "Postpartum Pituitary Necrosis (Sheehan Syndrome)",
+      "Subacute Suppurative Thyroiditis"
     ],
     "correct": 0,
-    "explanation": "Low Anti-Müllerian Hormone (AMH) and elevated baseline Day 3 FSH are the strongest indicators of diminished ovarian reserve."
+    "explanation": "Postpartum Thyroiditis is an autoimmune destructive thyroiditis featuring a classic biphasic course: transient thyrotoxicosis (due to release of stored hormone) followed by transient hypothyroidism, before resolving."
   },
   {
-    "question": "A 23-year-old woman presents with a foul-smelling, thin, grayish-white vaginal discharge. Microscopic examination of a wet mount reveals stippled epithelial cells with obscured cell borders ('clue cells'). What is the recommended treatment?",
+    "question": "What is the drug of choice for acute emergency management of Thyroid Storm in a pregnant patient to block peripheral conversion of T4 to active T3?",
     "options": [
-      "Single dose oral Fluconazole",
-      "Oral Metronidazole for 7 days",
-      "Intramuscular Ceftriaxone plus Azithromycin",
-      "Topical Hydrocortisone cream"
-    ],
-    "correct": 1,
-    "explanation": "Bacterial Vaginosis (caused by Gardnerella vaginalis overgrowth) presents with clue cells and positive whiff test. First-line therapy is oral Metronidazole 500 mg twice daily for 7 days."
-  },
-  {
-    "question": "What is the bishop score threshold that indicates a 'favorable' cervix likely to result in successful induction of labor?",
-    "options": [
-      "Bishop score ≥ 8",
-      "Bishop score ≥ 3",
-      "Bishop score between 4 and 6",
-      "Bishop score = 0"
+      "High-dose Propylthiouracil (PTU), Propranolol, Hydrocortisone, and Iodine solution",
+      "Levothyroxine IV push",
+      "Methimazole alone oral dose",
+      "Aspirin high dose and IV fluid bolus"
     ],
     "correct": 0,
-    "explanation": "A Bishop score of 8 or higher indicates a favorable, ripe cervix with a high probability of successful labor induction."
+    "explanation": "Thyroid storm requires a multi-pronged approach: PTU (blocks synthesis and peripheral T4->T3 conversion), Propranolol (sympathetic blockade), Hydrocortisone (blocks conversion and treats relative adrenal crisis), and Iodine (blocks hormone release via Wolff-Chaikoff effect)."
   },
   {
-    "question": "Which tumor marker is pathognomonic for an Endodermal Sinus (Yolk Sac) tumor of the ovary?",
+    "question": "A 27-year-old G2P1 at 28 weeks gestation presents with persistent tachycardia, low-grade fever, weight loss, and exophthalmos. Serum TSH is undetectable and FT4 is significantly elevated. What fetal complication is most directly linked to uncontrolled maternal hyperthyroidism?",
     "options": [
-      "CA-125",
-      "Alpha-fetoprotein (AFP)",
-      "Beta-hCG",
-      "Carcinoembryonic Antigen (CEA)"
-    ],
-    "correct": 1,
-    "explanation": "Yolk sac (endodermal sinus) tumors characteristically produce high levels of Alpha-Fetoprotein (AFP) and present histologically with Schiller-Duval bodies."
-  },
-  {
-    "question": "A 26-year-old G1P0 at 38 weeks gestation presents in active labor. On pelvic examination, the fetal sacrum is felt in the left anterior quadrant of the maternal pelvis. What is the presentation and position?",
-    "options": [
-      "Frank breech, Left Sacrum Anterior (LSA)",
-      "Complete breech, Right Sacrum Posterior (RSP)",
-      "Vertex presentation, Left Occiput Anterior (LOA)",
-      "Shoulder presentation, Left Acromion Anterior (LAA)"
+      "Fetal growth restriction (IUGR), preterm birth, and intrauterine fetal death",
+      "Fetal neural tube defects",
+      "Fetal renal agenesis",
+      "Macrosomia and polyhydramnios"
     ],
     "correct": 0,
-    "explanation": "In breech presentations, the sacrum is the denominator. Feeling the sacrum in the left anterior quadrant corresponds to Left Sacrum Anterior (LSA)."
+    "explanation": "Uncontrolled maternal hyperthyroidism is associated with increased risks of preeclampsia, heart failure, thyroid storm, as well as fetal growth restriction (IUGR), prematurity, and fetal demise."
   },
   {
-    "question": "Which complication is most specifically associated with long-term, unmonitored use of Tamoxifen in postmenopausal women with breast cancer?",
+    "question": "Which maternal position optimizes venous return and cardiac output during labor and delivery for a patient with structural cardiac disease?",
     "options": [
-      "Cervical intraepithelial neoplasia (CIN)",
-      "Endometrial hyperplasia and Endometrial Carcinoma",
-      "Ovarian mucinous cystadenocarcinoma",
-      "Vaginal clear cell adenocarcinoma"
+      "Strict supine position",
+      "Left lateral recumbent position",
+      "Trendelenburg position",
+      "Prone position"
     ],
     "correct": 1,
-    "explanation": "Tamoxifen acts as an estrogen receptor antagonist in breast tissue, but exhibits agonist (estrogenic) activity on the endometrium, increasing the risk of endometrial hyperplasia and adenocarcinoma."
+    "explanation": "The left lateral position relieves inferior vena cava (IVC) compression by the gravid uterus, improving venous return, cardiac output, and uteroplacental perfusion."
   },
   {
-    "question": "A 30-year-old woman at 8 weeks gestation presents with vaginal bleeding and cramping. Pelvic exam reveals an open cervical os with tissue visible at the cervix. Ultrasound shows a gestational sac in the lower uterine segment. What is the classification of this abortion?",
+    "question": "A pregnant patient with pre-existing mechanical heart valves requires parenteral anticoagulation near term. At what gestational age is Low-Molecular-Weight Heparin (LMWH) typically converted to continuous IV Unfractionated Heparin (UFH) prior to planned labor?",
     "options": [
-      "Threatened abortion",
-      "Inevitable abortion",
-      "Incomplete abortion",
-      "Missed abortion"
+      "20 weeks gestation",
+      "28 weeks gestation",
+      "36 weeks gestation (or 24-36 hours prior to elective delivery)",
+      "At the onset of second-stage labor"
     ],
     "correct": 2,
-    "explanation": "An open cervical os with partial expulsion of products of conception defines an incomplete abortion. If the os is open but no tissue has passed yet, it is an inevitable abortion."
+    "explanation": "LMWH is converted to IV Unfractionated Heparin (UFH) at around 36 weeks (or prior to planned delivery) because UFH has a shorter half-life and can be rapidly reversed with Protamine Sulfate if acute delivery or neuraxial anesthesia is required."
   },
   {
-    "question": "Which nerve is at highest risk of compression injury leading to foot drop (loss of dorsiflexion) when a patient is kept in the exaggerated lithotomy position for an extended duration during surgery?",
+    "question": "Which physical exam finding is considered PATHOLOGICAL rather than physiological in a pregnant woman?",
     "options": [
-      "Femoral nerve",
-      "Obturator nerve",
-      "Common Peroneal (Fibular) nerve",
-      "Sciatic nerve"
+      "Grade II/VI soft systolic ejection murmur along the left sternal border",
+      "Diastolic murmur heard at the apex",
+      "Mild bilateral pedal edema",
+      "Distension of neck veins in late pregnancy"
+    ],
+    "correct": 1,
+    "explanation": "Systolic murmurs (due to hyperhypervolemia and hyperdynamic circulation) are common and usually benign in pregnancy. However, any DIASTOLIC murmur is considered pathological and requires immediate echocardiographic evaluation."
+  },
+  {
+    "question": "A 25-year-old G1P0 at 16 weeks gestation with pre-existing primary hypothyroidism presents for routine follow-up. Her TSH is 6.2 mIU/L (trimester-specific goal < 2.5–3.0 mIU/L). What management step is indicated?",
+    "options": [
+      "Increase Levothyroxine dose by approximately 25-30%",
+      "Decrease Levothyroxine dose",
+      "Discontinue Levothyroxine and start Methimazole",
+      "Maintain current dose and recheck TSH in 6 months"
+    ],
+    "correct": 0,
+    "explanation": "Levothyroxine requirements increase by 25–50% during pregnancy due to increased TBG and placental metabolism. TSH should be monitored every 4 weeks in early pregnancy and the dosage increased promptly when TSH exceeds trimester target limits."
+  },
+  {
+    "question": "Which specific congenital heart disease in the fetus is strongly associated with maternal systemic lupus erythematosus (SLE) and positive anti-SSA/Ro or anti-SSB/La autoantibodies?",
+    "options": [
+      "Coarctation of the Aorta",
+      "Congenital Complete Heart Block (Atrioventricular Block)",
+      "Tetralogy of Fallot",
+      "Truncus Arteriosus"
+    ],
+    "correct": 1,
+    "explanation": "Maternal anti-SSA/Ro and anti-SSB/La IgG antibodies cross the placenta and damage the developing fetal cardiac conduction system (AV node), resulting in irreversible congenital complete heart block."
+  },
+  {
+    "question": "A 35-year-old G2P1 at 38 weeks gestation with Class II NYHA heart disease enters second-stage labor. What delivery strategy minimizes maternal hemodynamic stress?",
+    "options": [
+      "Immediate emergency C-section under general anesthesia",
+      "Assisted second stage using operative vaginal delivery (vacuum or forceps) to avoid prolonged pushing",
+      "Encouraging prolonged, aggressive Valsalva pushing without anesthesia",
+      "Induction with high-dose boluses of Oxytocin"
+    ],
+    "correct": 1,
+    "explanation": "Assisted vaginal delivery with forceps or vacuum shortens the second stage of labor and eliminates repetitive Valsalva maneuvers, which significantly impair venous return and cardiac stability."
+  },
+  {
+    "question": "A 28-year-old woman is diagnosed with Subclinical Hypothyroidism during her first trimester (elevated TSH, normal FT4). Anti-TPO antibodies are positive. Why is Levothyroxine treatment recommended?",
+    "options": [
+      "To reduce the risk of maternal pregnancy loss (miscarriage) and preterm delivery",
+      "To prevent congenital heart defects in the fetus",
+      "To prevent maternal gestational diabetes",
+      "Subclinical hypothyroidism never requires treatment in pregnancy"
+    ],
+    "correct": 0,
+    "explanation": "In pregnant women with subclinical hypothyroidism who are Anti-TPO positive, Levothyroxine replacement reduces the risk of adverse pregnancy outcomes, including miscarriage and preterm birth."
+  },  {
+    "question": "A 32-year-old G1P0 at 22 weeks gestation presents with acute dyspnea, tachycardia, and a high-pitched diastolic rumble with a presystolic accentuation at the apex. What is the underlying valvular etiology?",
+    "options": [
+      "Rheumatic Mitral Stenosis",
+      "Aortic Regurgitation",
+      "Tricuspid Insufficiency",
+      "Pulmonic Stenosis"
+    ],
+    "correct": 0,
+    "explanation": "Rheumatic heart disease remains the predominant cause of mitral stenosis worldwide. The classic auscultatory finding is a low-pitched mid-diastolic rumble with presystolic accentuation heard best at the apex."
+  },
+  {
+    "question": "Which specific mechanism accounts for the increase in risk of arterial thromboembolism in pregnant patients with underlying cardiac arrhythmias such as Atrial Fibrillation?",
+    "options": [
+      "Hypercoagulable state of pregnancy combined with stasis of blood in a dilated left atrium",
+      "Increased hepatic degradation of antithrombin III by progesterone",
+      "Decreased platelet count leading to abnormal aggregation",
+      "Direct destruction of vascular endothelial lining by high estrogen"
+    ],
+    "correct": 0,
+    "explanation": "Pregnancy is inherently a hypercoagulable state (increased factors VII, VIII, X, fibrinogen). When combined with left atrial enlargement and blood stasis in atrial fibrillation, the risk of mural thrombus formation and systemic embolization escalates dramatically."
+  },
+  {
+    "question": "A 29-year-old woman G2P1 at 14 weeks gestation has a thyroid fine-needle aspiration (FNA) confirming Papillary Thyroid Carcinoma. She has no local compression or nodal metastasis. What is the standard management strategy during pregnancy?",
+    "options": [
+      "Immediate total thyroidectomy during the first trimester",
+      "Radioactive iodine ablation at 20 weeks gestation",
+      "Monitoring with ultrasound and delaying definitive surgical resection until postpartum",
+      "Immediate termination of pregnancy followed by chemotherapy"
     ],
     "correct": 2,
-    "explanation": "The common peroneal nerve wraps around the fibular head. Compression of this region against lithotomy stirrups can cause nerve palsy resulting in foot drop and loss of sensation over the dorsum of the foot."
+    "explanation": "Differentiated thyroid cancers (such as Papillary Thyroid Carcinoma) generally progress slowly. In the absence of rapid growth or overt aggressive/metastatic features, definitive surgery can safely be deferred to the immediate postpartum period without compromising long-term survival."
   },
   {
-    "question": "A 24-year-old nulligravida presents with primary amenorrhea, normal tall stature, well-developed breasts, but sparse pubic and axillary hair. Pelvic ultrasound reveals a short, blind-ending vagina and absence of uterus and ovaries. Karyotype is 46,XY. What is the diagnosis?",
+    "question": "What is the primary hemodynamic goal during labor management in a patient with severe hypertrophic obstructive cardiomyopathy (HOCM)?",
     "options": [
-      "Müllerian Agenesis (Mayer-Rokitansky-Küster-Hauser syndrome)",
-      "Complete Androgen Insensitivity Syndrome (CAIS)",
-      "5-alpha Reductase Deficiency",
-      "Turner Syndrome (45,X)"
-    ],
-    "correct": 1,
-    "explanation": "Complete Androgen Insensitivity Syndrome (46,XY) presents with female external phenotype, normal breast development (via aromatization of testosterone), minimal body hair, and absent internal female reproductive organs due to functional Anti-Müllerian Hormone."
-  },
-  {
-    "question": "What is the primary anatomical support structure preventing apical uterine prolapse?",
-    "options": [
-      "Round ligaments",
-      "Uterosacral and Cardinal ligament complex",
-      "Ischiocavernosus muscle",
-      "Broad ligaments"
-    ],
-    "correct": 1,
-    "explanation": "The uterosacral-cardinal ligament complex forms Level I support according to the Lancey classification, holding the cervix and upper vagina anchored to the pelvic walls."
-  },
-  {
-    "question": "A 35-year-old G4P3 at 34 weeks gestation with a history of two prior Cesarean deliveries presents with painless, bright red vaginal bleeding. What is the mandatory initial diagnostic investigation?",
-    "options": [
-      "Digital pelvic examination",
-      "Transabdominal / Transvaginal Ultrasound",
-      "Speculum examination with pap smear",
-      "Amniocentesis"
-    ],
-    "correct": 1,
-    "explanation": "Painless third-trimester bleeding strongly suggests Placenta Previa. Digital pelvic exam is strictly contraindicated until ultrasound confirms placental position to prevent massive hemorrhage."
-  },
-  {
-    "question": "Which phase of human oogenesis is an oocyte suspended in from fetal life until the preovulatory LH surge?",
-    "options": [
-      "Leptotene stage of Meiosis I",
-      "Dictyotene (Diplotene) stage of Prophase I",
-      "Metaphase II of Meiosis II",
-      "Anaphase I of Meiosis I"
-    ],
-    "correct": 1,
-    "explanation": "Primary oocytes remain arrested in the dictyotene (diplotene) stage of prophase I from fetal development until ovulation, when the LH surge triggers completion of Meiosis I."
-  },
-  {
-    "question": "A 29-year-old G1P0 at 10 weeks gestation presents with persistent severe nausea, hyperemesis, and minor vaginal spotting. On exam, uterine size corresponds to 16 weeks. Serum beta-hCG is 250,000 mIU/mL. Ultrasound shows a 'snowstorm' pattern with no fetal pole. What is the initial treatment of choice?",
-    "options": [
-      "Systemic Methotrexate injection",
-      "Suction Curettage",
-      "Hysterectomy",
-      "Expectant management with weekly monitoring"
-    ],
-    "correct": 1,
-    "explanation": "Complete hydatidiform mole requires prompt removal via suction curettage to clear trophoblastic tissue and reduce the risk of persistent gestational trophoblastic neoplasia."
-  },
-  {
-    "question": "Which ultrasound marker measured between 11+0 and 13+6 weeks gestation is used to screen for Trisomy 21 (Down Syndrome)?",
-    "options": [
-      "Biparietal Diameter (BPD)",
-      "Nuchal Translucency (NT)",
-      "Abdominal Circumference (AC)",
-      "Femur Length (FL)"
-    ],
-    "correct": 1,
-    "explanation": "Increased fetal Nuchal Translucency (NT) thickness measured in the first trimester is a classic soft ultrasound marker for Trisomy 21 and other chromosomal abnormalities."
-  },
-  {
-    "question": "A 38-year-old woman G5P4 at 40 weeks gestation experiences rapid labor. Following delivery of a 4.2 kg infant, she develops severe postpartum hemorrhage. Uterine palpation reveals a soft, boggy, relaxed uterus above the umbilicus. What is the first-line medication?",
-    "options": [
-      "Methylergonovine",
-      "Oxytocin (IV infusion)",
-      "Misoprostol",
-      "Carboprost (PGF2-alpha)"
-    ],
-    "correct": 1,
-    "explanation": "Uterine atony is the most common cause of PPH. Concentrated IV Oxytocin infusion combined with bimanual uterine massage is the primary first-line medical intervention."
-  },
-  {
-    "question": "Which tumor marker is characteristically monitored following the evacuation of a molar pregnancy to evaluate for transformation into Choriocarcinoma?",
-    "options": [
-      "Serum CA-125",
-      "Quantitative Serum beta-hCG",
-      "Carcinoembryonic Antigen (CEA)",
-      "Inhibin B"
-    ],
-    "correct": 1,
-    "explanation": "Serial quantitative serum beta-hCG levels must be monitored weekly post-evacuation until undetectable to rule out Gestational Trophoblastic Neoplasia (Choriocarcinoma)."
-  },
-  {
-    "question": "A 31-year-old woman G2P1 at 28 weeks gestation is evaluated after an Rh-negative blood type screen. Her antibody screen (Indirect Coombs Test) is negative. What is the correct timing and dose of Anti-D Immune Globulin prophylaxis?",
-    "options": [
-      "No prophylaxis needed since she is antibody negative",
-      "Administer 300 mcg Anti-D at 28 weeks gestation and within 72 hours of delivery if infant is Rh-positive",
-      "Administer Anti-D only immediately after delivery regardless of fetal blood group",
-      "Administer single dose at 12 weeks gestation"
-    ],
-    "correct": 1,
-    "explanation": "Standard Rh prophylaxis for non-sensitized Rh-negative mothers involves giving 300 mcg of Anti-D immunoglobulin at 28 weeks gestation, followed by a second dose within 72 hours post-partum if the newborn is Rh-positive."
-  },
-  {
-    "question": "Which strain of Human Papillomavirus (HPV) is most frequently isolated in cases of Invasive Cervical Squamous Cell Carcinoma worldwide?",
-    "options": [
-      "HPV Types 6 and 11",
-      "HPV Types 16 and 18",
-      "HPV Types 31 and 33",
-      "HPV Types 45 and 52"
-    ],
-    "correct": 1,
-    "explanation": "High-risk HPV types 16 and 18 account for approximately 70% of all cervical cancer cases globally, with HPV 16 being the single most oncogenic subtype."
-  },
-  {
-    "question": "A 27-year-old G1P0 at 35 weeks gestation presents with persistent generalized pruritus, predominantly on the palms of her hands and soles of her feet, worsening at night. There is no skin rash. Laboratory testing shows elevated serum total bile acids (45 micromol/L). What is the drug of choice?",
-    "options": [
-      "Ursodeoxycholic Acid (UDCA)",
-      "Chlorpheniramine",
-      "Prednisone",
-      "Dexamethasone"
+      "Maintaining adequate intravascular volume and avoiding hypovolemia or vasodilators",
+      "Aggressive diuresis to lower left ventricular end-diastolic volume",
+      "Administering high-dose sublingual nitroglycerin during contractions",
+      "Inducing tachycardia to speed up ventricular ejection"
     ],
     "correct": 0,
-    "explanation": "Ursodeoxycholic acid (UDCA) improves bile flow, reduces serum bile acid concentrations, and relieves maternal pruritus in Intrahepatic Cholestasis of Pregnancy (ICP)."
+    "explanation": "In HOCM, left ventricular outflow tract obstruction worsens with decreased preload, decreased systemic vascular resistance, or hypercontractility/tachycardia. Maintaining fluid volume and avoiding systemic vasodilators or acute hypovolemia are vital to maintain cardiac output."
   },
   {
-    "question": "During a vaginal delivery, after delivery of the fetal head, gentle downward traction fails to deliver the anterior shoulder. The anterior shoulder is impacted behind the maternal pubic symphysis. What is the initial physical maneuver to attempt?",
+    "question": "Which lab measurement provides the most accurate assessment of maternal thyroid status during pregnancy, bypassing the confounding effect of elevated Thyroid-Binding Globulin (TBG)?",
     "options": [
-      "Zavanelli maneuver",
-      "McRoberts maneuver combined with suprapubic pressure",
-      "Fundal pressure",
-      "Internal podalic version"
-    ],
-    "correct": 1,
-    "explanation": "The McRoberts maneuver (hyperflexion of maternal hips onto abdomen) combined with suprapubic pressure is the first-line intervention for Shoulder Dystocia. Fundal pressure is strictly contraindicated."
-  },
-  {
-    "question": "A 45-year-old woman presents with heavy, prolonged menstrual periods and worsening pelvic pain. Pelvic MRI reveals a uniformly enlarged, globular uterus with a thickened junctional zone (>12 mm) on T2-weighted images. What is the diagnosis?",
-    "options": [
-      "Uterine Leiomyoma (Fibroids)",
-      "Adenomyosis",
-      "Endometrial Hyperplasia",
-      "Pelvic Inflammatory Disease"
-    ],
-    "correct": 1,
-    "explanation": "Adenomyosis occurs when endometrial glands and stroma invade the myometrium, causing a symmetrically enlarged ('globular') uterus and junctional zone expansion >12 mm on MRI."
-  },
-  {
-    "question": "Which maternal condition is absolute contraindication to the use of Ergot alkaloids (Methylergonovine / Ergometrine) during postpartum hemorrhage management?",
-    "options": [
-      "Bronchial Asthma",
-      "Hypertension / Preeclampsia",
-      "Type 1 Diabetes Mellitus",
-      "Hypothyroidism"
-    ],
-    "correct": 1,
-    "explanation": "Ergot derivatives induce systemic vasoconstriction and are strictly contraindicated in women with hypertension, preeclampsia, or ischemic heart disease."
-  },
-  {
-    "question": "A 26-year-old G2P1 at 30 weeks gestation presents with labor contractions. Cervical exam shows 3 cm dilation and 80% effacement. To reduce the risk of Neonatal Respiratory Distress Syndrome (RDS), which medication should be administered immediately?",
-    "options": [
-      "Tocolytic Indomethacin only",
-      "Intravenous Magnesium Sulfate only",
-      "Antenatal Corticosteroids (e.g., Betamethasone or Dexamethasone)",
-      "Ampicillin IV"
+      "Total T4 level",
+      "Total T3 level",
+      "Free T4 (FT4) measured by equilibrium dialysis or immunoassay",
+      "Thyroid-Binding Globulin concentration"
     ],
     "correct": 2,
-    "explanation": "Antenatal betamethasone or dexamethasone promotes fetal lung maturation by stimulating surfactant production in premature infants between 24 and 34 weeks gestation."
+    "explanation": "Because high estrogen levels elevate serum TBG and raise Total T4/T3 levels, assessment of thyroid function in pregnancy relies on Free T4 (FT4) alongside TSH to reflect true metabolic status."
   },
   {
-    "question": "Which histologic feature is characteristic of Brenner Tumor of the ovary?",
+    "question": "A 31-year-old G1P0 at 28 weeks gestation presents with persistent hypertension (BP 155/98 mmHg). She has a history of mild asthma. Which antihypertensive medication should be avoided due to the potential risk of inducing bronchospasm?",
     "options": [
-      "Nests of transitional epithelial cells ('coffee-bean' nuclei) within dense fibrous stroma",
-      "Pseudomucin-filled goblet cells",
-      "Clear cells with abundant glycogen",
-      "Malignant syncytiotrophoblastic cells"
+      "Methyldopa",
+      "Labetalol",
+      "Nifedipine",
+      "Hydralazine"
+    ],
+    "correct": 1,
+    "explanation": "Labetalol is a combined alpha- and non-selective beta-blocker. Non-selective beta-blockade can trigger bronchospasm in patients with underlying reactive airway disease/asthma, making alternative agents like Nifedipine preferred."
+  },
+  {
+    "question": "A newborn born to a mother with poorly controlled Graves' disease presents with tachycardia, irritability, exophthalmos, and poor weight gain at 3 days of life. What is the pathogenesis of this neonatal condition?",
+    "options": [
+      "Transplacental transfer of maternal TSH receptor stimulating antibodies (TRAb)",
+      "Direct transplacental passage of maternal Methimazole",
+      "Endogenous fetal genetic mutation in the TSH receptor",
+      "Placental transfer of high levels of maternal thyroid-binding globulin"
     ],
     "correct": 0,
-    "explanation": "Brenner tumors are epithelial ovarian tumors characterized by nests of transitional-type cells (resembling urothelium) with nuclear grooves ('coffee-bean' appearance)."
+    "explanation": "Maternal IgG anti-TSH receptor antibodies (TRAb) readily cross the placenta. In neonates, these circulating antibodies stimulate the infant's thyroid, causing transient neonatal thyrotoxicosis until the maternal antibodies degrade over several weeks."
   },
   {
-    "question": "A 23-year-old woman presents with a 3-day history of lower abdominal pain, purulent cervical discharge, and deep dyspareunia. Cervical motion tenderness ('chandelier sign') is positive on bimanual exam. What is the most common polymicrobial etiology?",
+    "question": "What is the key difference between Gestational Transient Thyrotoxicosis (GTT) and true Graves' Disease in early pregnancy?",
     "options": [
-      "Neisseria gonorrhoeae and Chlamydia trachomatis",
-      "Treponema pallidum and Trichomonas vaginalis",
-      "Escherichia coli and Klebsiella pneumoniae",
-      "Group B Streptococcus and Mycoplasma"
+      "GTT is associated with positive TRAb antibodies and exophthalmos",
+      "GTT is typically self-limiting, negative for TRAb antibodies, lacks goiter/ophthalmopathy, and resolves by 18 weeks",
+      "GTT requires lifelong Levothyroxine replacement",
+      "Graves' disease only occurs in the third trimester"
+    ],
+    "correct": 1,
+    "explanation": "Gestational Transient Thyrotoxicosis is mediated by hCG cross-reactivity, lacks thyroid autoantibodies (TRAb negative), presents without diffuse goiter or exophthalmos, and resolves spontaneously as hCG levels decline."
+  },
+  {
+    "question": "A 34-year-old G3P2 at 35 weeks gestation presents with severe shortness of breath and an echo revealing aortic root dilatation of 4.8 cm due to Marfan Syndrome. What is the recommended delivery planning strategy?",
+    "options": [
+      "Routine unmonitored home spontaneous vaginal delivery",
+      "Elective Cesarean delivery with strict blood pressure control to reduce risk of aortic dissection",
+      "Vaginal delivery with heavy ergonomics pushing",
+      "Immediate administration of oxytocin bolus at 35 weeks"
+    ],
+    "correct": 1,
+    "explanation": "Aortic root dilation > 4.0–4.5 cm in Marfan Syndrome severely increases the risk of catastrophic aortic dissection or rupture during hemodynamic spikes of labor, making elective Cesarean delivery with tight hemodynamic control the standard recommendation."
+  },
+  {
+    "question": "Which cardiac antibiotic prophylaxis recommendation is currently endorsed by the American Heart Association (AHA) and ACOG for uncomplicated vaginal or Cesarean delivery in patients with native valvular lesions?",
+    "options": [
+      "Routine IV Ampicillin and Gentamicin for all laboring patients",
+      "Prophylactic antibiotics are NOT routinely recommended solely to prevent infective endocarditis during delivery",
+      "Oral Amoxicillin post-delivery for 14 days",
+      "IV Vancomycin continuous infusion for 48 hours"
+    ],
+    "correct": 1,
+    "explanation": "Current AHA and ACOG guidelines state that routine antibiotic prophylaxis to prevent Infective Endocarditis is not recommended for normal vaginal or Cesarean deliveries unless an active gastrointestinal or genitourinary infection is present, or in select highest-risk cardiac structural conditions."
+  },
+  {
+    "question": "A 27-year-old woman 4 weeks postpartum after an uneventful delivery presents with sudden severe chest pain, dyspnea, and ST-segment elevations on ECG. Emergency cardiac catheterization reveals a non-atherosclerotic dissection flap in the left anterior descending artery. What is the diagnosis?",
+    "options": [
+      "Spontaneous Coronary Artery Dissection (SCAD)",
+      "Acute Pericarditis",
+      "Takotsubo Cardiomyopathy",
+      "Aortic Arch Aneurysm"
     ],
     "correct": 0,
-    "explanation": "Pelvic Inflammatory Disease (PID) is predominantly an ascending polymicrobial infection caused by *Neisseria gonorrhoeae* and *Chlamydia trachomatis*."
+    "explanation": "Spontaneous Coronary Artery Dissection (SCAD) is an underdiagnosed, high-yield cause of acute coronary syndrome (ACS) in pregnancy and the postpartum period, driven by hormonal vascular wall weakening and hemodynamic shearing forces."
   },
   {
-    "question": "What is the key physiological action of Human Chorionic Gonadotropin (hCG) during early pregnancy?",
+    "question": "Which maternal antithyroid medication side effect is considered a life-threatening medical emergency requiring immediate drug discontinuation and complete blood count (CBC) check?",
     "options": [
-      "Maintains the corpus luteum to preserve progesterone production until placental takeover",
-      "Stimulates fetal thyroid gland maturation",
-      "Directly induces maternal insulin resistance",
-      "Suppresses fetal adrenal gland corticosteroid synthesis"
+      "Mild transient skin rash",
+      "Agranulocytosis (neutrophil count < 500/mcL)",
+      "Mild nausea",
+      "Asymptomatic transient elevation of liver enzymes"
+    ],
+    "correct": 1,
+    "explanation": "Agranulocytosis is a rare but life-threatening idiosyncratic reaction to thionamides (PTU/Methimazole). Patients presenting with fever or severe sore throat must stop the drug immediately and undergo urgent CBC testing."
+  },
+  {
+    "question": "What happens to the physiological requirement of Levothyroxine dosage in a hypothyroid patient immediately AFTER delivery of the placenta?",
+    "options": [
+      "Levothyroxine dose should be increased by another 50%",
+      "Levothyroxine dose should be reduced back to pre-pregnancy maintenance baseline",
+      "Levothyroxine should be discontinued permanently",
+      "Levothyroxine should be switched to Methimazole"
+    ],
+    "correct": 1,
+    "explanation": "Placental delivery removes high levels of estrogen and placental deiodinase activity. As serum TBG levels fall toward baseline postpartum, Levothyroxine requirements rapidly decrease back to pre-pregnancy dosing."
+  },
+  {
+    "question": "A 30-year-old G1P0 at 30 weeks gestation presents with persistent sinus tachycardia (115 bpm), systolic hypertension, fine tremor, and a diffuse non-tender goiter. TSH is < 0.01 mIU/L and FT4 is elevated. What is the most common cause of hyperthyroidism in pregnancy?",
+    "options": [
+      "Graves' Disease",
+      "Toxic Adenoma",
+      "Subacute Granulomatous Thyroiditis",
+      "Iatrogenic Levothyroxine Toxicity"
     ],
     "correct": 0,
-    "explanation": "hCG acts on LH receptors of the corpus luteum, maintaining its structural integrity and progesterone secretion through the first 8-10 weeks of gestation until syncytiotrophoblastic progesterone synthesis is established."
+    "explanation": "Graves' disease (an autoimmune condition mediated by TSH-receptor antibodies) accounts for over 85–90% of cases of true pathological hyperthyroidism during pregnancy."
   },
   {
-    "question": "A 30-year-old woman presents for evaluation of primary infertility. Hysterosalpingography (HSG) shows bilateral fallopian tube occlusion at the fimbrial ends. What is the most definitive management step to achieve pregnancy?",
+    "question": "Which specific risk to the fetus is associated with the administration of Propylthiouracil (PTU) during the SECOND and THIRD trimesters of pregnancy?",
     "options": [
-      "Ovulation induction with Clomiphene Citrate",
-      "Intrauterine Insemination (IUI)",
-      "In Vitro Fertilization (IVF)",
-      "Laparoscopic tubal flushing with saline"
-    ],
-    "correct": 2,
-    "explanation": "Bilateral tubal obstruction bypasses natural sperm-egg transport. In Vitro Fertilization (IVF) is the definitive treatment choice for tubal factor infertility."
-  },
-  {
-    "question": "Which fetal cardiac structure allows oxygenated blood from the inferior vena cava to bypass the uninflated fetal lungs by shunting directly from the right atrium to the left atrium?",
-    "options": [
-      "Ductus Venosus",
-      "Foramen Ovale",
-      "Ductus Arteriosus",
-      "Umbilical Vein"
-    ],
-    "correct": 1,
-    "explanation": "The Foramen Ovale is an anatomical shunt in the interatrial septum that allows oxygenated blood from the IVC to flow directly from the right atrium to the left atrium."
-  },
-  {
-    "question": "A 52-year-old postmenopausal woman presents with postmenopausal bleeding. Transvaginal ultrasound shows an endometrial thickness of 11 mm. What is the next most appropriate diagnostic step?",
-    "options": [
-      "Reassure and repeat ultrasound in 6 months",
-      "Endometrial Biopsy (Pipelle sampling) or D&C",
-      "Perform immediate total hysterectomy",
-      "Start oral cyclical progestins for 3 months"
-    ],
-    "correct": 1,
-    "explanation": "Postmenopausal bleeding with an endometrial thickness > 4-5 mm requires tissue sampling via endometrial biopsy or D&C to rule out endometrial carcinoma."
-  },
-   {
-    "question": "A 28-year-old G2P1 at 32 weeks gestation presents with acute right upper quadrant pain, nausea, and persistent fever. Physical exam reveals right costovertebral angle tenderness. Urinalysis shows pyuria and WBC casts. What is the most likely diagnosis?",
-    "options": [
-      "Acute Cholecystitis",
-      "Acute Pyelonephritis",
-      "Acute Appendicitis",
-      "Urolithiasis"
-    ],
-    "correct": 1,
-    "explanation": "Acute pyelonephritis in pregnancy typically presents with fever, flank/RUQ pain, costovertebral angle tenderness, and pyuria with WBC casts. It requires prompt IV antibiotic therapy."
-  },
-  {
-    "question": "Which muscle forms the primary component of the pelvic diaphragm (pelvic floor)?",
-    "options": [
-      "Piriformis muscle",
-      "Obturator internus muscle",
-      "Levator ani muscle",
-      "Gluteus maximus muscle"
-    ],
-    "correct": 2,
-    "explanation": "The pelvic diaphragm is predominantly composed of the levator ani muscle complex (puborectalis, pubococcygeus, and iliococcygeus) along with the coccygeus muscle."
-  },
-  {
-    "question": "A 19-year-old woman presents with severe dysmenorrhea, menorrhagia, and pelvic pain. Laparoscopy demonstrates 'powder-burn' peritoneal lesions and adhesions in the pouch of Douglas. What is the pathogenetic mechanism explaining this condition?",
-    "options": [
-      "Lymphatic metastasis of endometrial stromal cells",
-      "Retrograde menstruation with seeding of endometrial tissue into the peritoneal cavity",
-      "Müllerian metaplasia of coelomic epithelium",
-      "Direct hematogenous dissemination of endomyometrial tissue"
-    ],
-    "correct": 1,
-    "explanation": "Sampson's theory of retrograde menstruation is the most widely accepted mechanism for Endometriosis, where viable endometrial cells flow backward through fallopian tubes into the peritoneal cavity."
-  },
-  {
-    "question": "What is the primary hormonal surge responsible for inducing final oocyte maturation and ovulation during the normal menstrual cycle?",
-    "options": [
-      "Follicle-Stimulating Hormone (FSH) peak",
-      "Luteinizing Hormone (LH) surge",
-      "Progesterone surge",
-      "Human Chorionic Gonadotropin (hCG) peak"
-    ],
-    "correct": 1,
-    "explanation": "A high, sustained level of estradiol triggers a positive feedback loop on the anterior pituitary, resulting in a massive LH surge that causes follicular rupture and ovulation within 24–36 hours."
-  },
-  {
-    "question": "A 33-year-old G1P0 at 39 weeks gestation undergoes labor induction. CTG reveals recurrent late decelerations with absent baseline variability. What is the immediate definitive obstetric intervention?",
-    "options": [
-      "Increase Oxytocin infusion rate",
-      "Emergency STAT Cesarean Section",
-      "Perform instrumental vacuum delivery at station -1",
-      "Continue monitoring for another 2 hours"
-    ],
-    "correct": 1,
-    "explanation": "Recurrent late decelerations with loss of baseline variability indicate severe fetal hypoxia and uteroplacental insufficiency, mandating immediate emergency delivery via Cesarean section."
-  },
-  {
-    "question": "Which screening test is recommended for all pregnant women between 35 and 37 weeks gestation to prevent neonatal sepsis?",
-    "options": [
-      "Vaginorectal swab for Group B Streptococcus (GBS)",
-      "Urine culture for Chlamydia trachomatis",
-      "Serum screening for Toxoplasmosis",
-      "Cervical cytology for HPV"
+      "Severe maternal and fetal hepatotoxicity",
+      "Fetal limb reduction defects",
+      "Aplasia cutis congenita",
+      "Neural tube defects"
     ],
     "correct": 0,
-    "explanation": "Universal screening for Group B Streptococcus (GBS) via a lower vaginal and rectal swab at 35–37 weeks determines the need for intrapartum IV antibiotic prophylaxis."
+    "explanation": "While PTU is preferred in the 1st trimester due to lower teratogenic risk, it carries a boxed warning for severe black-box hepatotoxicity. Therefore, patients are typically transitioned to Methimazole at the start of the 2nd trimester."
   },
   {
-    "question": "A 48-year-old woman presents with hot flashes, night sweats, mood lability, and irregular menstrual cycles. Serum FSH level is 42 mIU/mL. What is the underlying endocrine mechanism?",
+    "question": "A 26-year-old G1P0 at 38 weeks gestation with a history of congenital Long QT Syndrome enters labor. Which class of medications routinely used in obstetrics should be avoided or used with extreme caution due to QT-prolonging effects?",
     "options": [
-      "Elevated inhibin production by granulosa cells",
-      "Depletion of ovarian follicles resulting in decreased estrogen and loss of negative feedback on FSH",
-      "Hyperprolactinemia suppressing gonadotropin release",
-      "Primary pituitary adenoma secreting excess gonadotropins"
-    ],
-    "correct": 1,
-    "explanation": "Menopause/perimenopause is marked by age-related depletion of functional ovarian follicles, leading to decreased estrogen/inhibin production and a secondary compensatory elevation in pituitary FSH."
-  },
-  {
-    "question": "What is the first-line surgical option for a young patient with a symptomatic, benign uterine fibroid (leiomyoma) who strongly desires future fertility?",
-    "options": [
-      "Total Abdominal Hysterectomy",
-      "Myomectomy",
-      "Uterine Artery Embolization (UAE)",
-      "Endometrial Ablation"
-    ],
-    "correct": 1,
-    "explanation": "Myomectomy removes leiomyomas while preserving the uterus and reproductive capability, making it the surgical procedure of choice for women desiring future pregnancy."
-  },
-  {
-    "question": "A 21-year-old woman presents with sudden onset left lower quadrant pain and nausea. Transvaginal ultrasound demonstrates an enlarged, edematous left ovary with diminished arterial and venous flow on Doppler. What is the diagnosis?",
-    "options": [
-      "Ruptured Corpus Luteum Cyst",
-      "Ovarian Torsion",
-      "Acute Salpingitis",
-      "Ectopic Pregnancy"
-    ],
-    "correct": 1,
-    "explanation": "Ovarian torsion occurs when the ovary twists on its vascular pedicle, compromising venous and arterial blood supply, leading to acute pelvic pain and reduced/absent flow on Doppler."
-  },
-  {
-    "question": "Which physiological cardiovascular alteration occurs normally during a healthy pregnancy?",
-    "options": [
-      "Decreased total blood volume",
-      "Increased systemic vascular resistance (SVR)",
-      "Increased cardiac output by 30-50%",
-      "Decreased heart rate"
-    ],
-    "correct": 2,
-    "explanation": "Normal maternal adaptions include a 30-50% increase in cardiac output, increased stroke volume and heart rate, plasma volume expansion, and a net decrease in systemic vascular resistance."
-  },
-  {
-    "question": "A 27-year-old G2P1 at 20 weeks gestation is diagnosed with intra-uterine fetal death. Which coagulation parameter must be closely monitored due to the risk of Disseminated Intravascular Coagulation (DIC) if delivery is delayed?",
-    "options": [
-      "Serum Fibrinogen level",
-      "Prothrombin Time (PT) only",
-      "Platelet count only",
-      "Serum Ferritin"
-    ],
-    "correct": 0,
-    "explanation": "Prolonged retention of a dead fetus (>3-4 weeks) releases thromboplastin-like substances into maternal circulation, consuming clotting factors and dropping serum fibrinogen levels below 150 mg/dL, triggering DIC."
-  },
-  {
-    "question": "Which ovarian mass is a benign germ cell tumor containing mature tissue from all three germ layers (ectoderm, mesoderm, endoderm)?",
-    "options": [
-      "Dysgerminoma",
-      "Mature Cystic Teratoma (Dermoid Cyst)",
-      "Serous Cystadenoma",
-      "Granulosa Cell Tumor"
-    ],
-    "correct": 1,
-    "explanation": "Mature cystic teratomas (dermoid cysts) are benign germ cell tumors derived from ectoderm (hair, skin, teeth), mesoderm (fat, cartilage), and endoderm (glandular tissue)."
-  },
-  {
-    "question": "A 30-year-old G1P0 at 37 weeks gestation presents with blood pressure of 150/95 mmHg on two occasions 4 hours apart and 2+ proteinuria. She has no headache, visual changes, or right upper quadrant pain. What is the diagnosis?",
-    "options": [
-      "Gestational Hypertension",
-      "Preeclampsia without severe features",
-      "Preeclampsia with severe features",
-      "Chronic Hypertension"
-    ],
-    "correct": 1,
-    "explanation": "Preeclampsia without severe features is defined as new-onset hypertension (SBP ≥140 or DBP ≥90) after 20 weeks gestation accompanied by proteinuria (≥0.3 g/24h or ≥1+ dipstick), without end-organ damage."
-  },
-  {
-    "question": "What is the recommended prophylactic antibiotic regimen for a patient undergoing elective Cesarean Section?",
-    "options": [
-      "Single dose IV Cefazolin within 60 minutes prior to surgical incision",
-      "Oral Amoxicillin for 5 days postoperatively",
-      "IV Vancomycin plus Gentamicin after cord clamping",
-      "No antibiotics needed if strict aseptic technique is maintained"
-    ],
-    "correct": 0,
-    "explanation": "A single preoperative prophylactic dose of a first-generation cephalosporin (e.g., IV Cefazolin) administered prior to skin incision significantly reduces post-Cesarean surgical site infections."
-  },
-  {
-    "question": "A 22-year-old woman presents with hirsutism, acne, irregular oligomenorrheic cycles, and obesity. Ultrasound reveals bilateral enlarged ovaries with multiple peripherally arranged follicles ('string of pearls'). What is the primary endocrine disturbance?",
-    "options": [
-      "Hyperprolactinemia",
-      "Insulin resistance leading to hyperinsulinemia and ovarian hyperandrogenism",
-      "Primary adrenal insufficiency",
-      "Increased progesterone secretion"
-    ],
-    "correct": 1,
-    "explanation": "Polycystic Ovary Syndrome (PCOS) is fundamentally driven by insulin resistance, which stimulates ovarian androgen production by theca cells and alters LH/FSH balance."
-  },
-  {
-    "question": "Which maternal infection during the first trimester of pregnancy carries the highest risk of causing congenital cataracts, sensorineural deafness, and patent ductus arteriosus in the newborn?",
-    "options": [
-      "Cytomegalovirus (CMV)",
-      "Rubella Virus",
-      "Toxoplasma gondii",
-      "Herpes Simplex Virus (HSV)"
-    ],
-    "correct": 1,
-    "explanation": "Congenital Rubella Syndrome presents with the classic triad of sensorineural hearing loss, ocular defects (cataracts), and cardiac malformations (patent ductus arteriosus)."
-  },
-  {
-    "question": "A 36-year-old woman presents with postcoital bleeding. Speculum examination demonstrates an exophytic, friable lesion on the posterior lip of the cervix. What is the immediate next step in evaluation?",
-    "options": [
-      "Repeat Pap smear in 6 months",
-      "Direct punch biopsy of the cervical lesion",
-      "Pelvic MRI",
-      "Empiric oral antibiotics for cervicitis"
-    ],
-    "correct": 1,
-    "explanation": "Any visible, gross, or suspicious cervical lesion must undergo direct punch biopsy regardless of prior cytology results to establish a definitive histological diagnosis."
-  },
-  {
-    "question": "Which medication is used for cervical ripening prior to labor induction in a patient with an unfavorable cervix and NO history of prior uterine surgery?",
-    "options": [
-      "Misoprostol (Prostaglandin E1 analogue)",
-      "High-dose Oxytocin",
-      "Methotrexate",
-      "Terbutaline"
-    ],
-    "correct": 0,
-    "explanation": "Prostaglandin analogues like Misoprostol (PGE1) or Dinoprostone (PGE2) soften and efface an unripened cervix before oxytocin administration. Misoprostol is contraindicated in women with prior C-sections."
-  },
-  {
-    "question": "What is the primary definitive treatment for gestational trophoblastic disease presenting as a Complete Hydatidiform Mole in a woman who desires future childbearing?",
-    "options": [
-      "Combination systemic chemotherapy",
-      "Suction Curettage with routine follow-up monitoring",
-      "Total Abdominal Hysterectomy",
-      "Methotrexate single-dose protocol"
-    ],
-    "correct": 1,
-    "explanation": "Suction curettage is the standard treatment to evacuate a complete hydatidiform mole while preserving fertility, followed by serial beta-hCG monitoring."
-  },
-  {
-    "question": "A 26-year-old G1P0 at 28 weeks gestation presents in active labor. What is the target gestational age window during which Intravenous Magnesium Sulfate is administered specifically for fetal neuroprotection?",
-    "options": [
-      "Between 24 and 32 weeks gestation",
-      "Between 34 and 37 weeks gestation",
-      "After 37 weeks gestation",
-      "At any gestational age up to 40 weeks"
-    ],
-    "correct": 0,
-    "explanation": "Intravenous Magnesium Sulfate administered prior to imminent preterm birth (<32 weeks gestation) significantly reduces the risk and severity of cerebral palsy in premature infants."
-  },
-  {
-    "question": "Which vessel supplies arterial blood directly to the uterine fundus and anastomoses with the uterine artery?",
-    "options": [
-      "Internal pudendal artery",
-      "Ovarian artery",
-      "Inferior epigastric artery",
-      "Obturator artery"
-    ],
-    "correct": 1,
-    "explanation": "The ovarian artery arises directly from the abdominal aorta and courses through the infundibulopelvic ligament, supplying the ovary and sending an anastomotic branch to the uterine fundus."
-  },
-  {
-    "question": "A 31-year-old G3P2 at 39 weeks gestation undergoes a normal spontaneous vaginal delivery. After delivery of the placenta, firm traction on the umbilical cord during incomplete placental separation leads to a mass protruding through the vagina and severe maternal collapse. What is the primary diagnosis?",
-    "options": [
-      "Acute Uterine Inversion",
-      "Uterine Rupture",
-      "Cervical Laceration",
-      "Placenta Accreta"
-    ],
-    "correct": 0,
-    "explanation": "Acute uterine inversion occurs when fundal traction on an unseparated placenta turns the uterus inside out, presenting with a vaginal mass, hemorrhage, and neurogenic shock."
-  },
-  {
-    "question": "Which malignant ovarian tumor is composed of primitive germ cells, occurs predominantly in young females, and is histologically analogous to seminoma in males?",
-    "options": [
-      "Yolk Sac Tumor",
-      "Dysgerminoma",
-      "Choriocarcinoma",
-      "Embryonal Carcinoma"
-    ],
-    "correct": 1,
-    "explanation": "Dysgerminoma is the most common malignant germ cell tumor of the ovary, occurring mostly in adolescents/young adults, and is identical histologically to testicular seminoma."
-  },
-  {
-    "question": "A 29-year-old woman G1P0 at 34 weeks gestation presents after a screening oral glucose tolerance test (OGTT) confirms Gestational Diabetes. What is the initial line of management?",
-    "options": [
-      "Immediate subcutaneous Insulin therapy",
-      "Dietary modification and exercise protocol",
-      "Oral Metformin therapy",
-      "Elective Cesarean delivery at 36 weeks"
-    ],
-    "correct": 1,
-    "explanation": "First-line management for Gestational Diabetes Mellitus is medical nutrition therapy and moderate exercise. Insulin or oral hypoglycemics are added only if target glucose levels are not met."
-  },
-  {
-    "question": "Which structure forms the lateral boundary of the femoral ring, an anatomical site where femoral hernias occur more commonly in females?",
-    "options": [
-      "Lacunar ligament",
-      "Femoral vein",
-      "Inguinal ligament",
-      "Pectineal ligament"
-    ],
-    "correct": 1,
-    "explanation": "The femoral ring is bounded anteriorly by the inguinal ligament, medially by the lacunar ligament, posteriorly by the pectineal ligament, and laterally by the femoral vein."
-  },
-    {
-    "question": "A 25-year-old G1P0 at 36 weeks gestation presents with severe persistent generalized headache, blurred vision, and epigastric tenderness. Blood pressure is 170/110 mmHg. What is the drug of choice to prevent maternal eclamptic seizures?",
-    "options": [
-      "Phenytoin",
-      "Magnesium Sulfate",
-      "Diazepam",
+      "Ondansetron (5-HT3 receptor antagonist)",
+      "Oxytocin",
+      "Penicillin G",
       "Labetalol"
     ],
-    "correct": 1,
-    "explanation": "Intravenous Magnesium Sulfate is the first-line anticonvulsant of choice for seizure prophylaxis in preeclampsia with severe features and for managing eclamptic fits."
-  },
-  {
-    "question": "Which muscle is incised during a standard mediolateral episiotomy?",
-    "options": [
-      "Ischiocavernosus muscle",
-      "Bulbospongiosus (Bulbocavernosus) muscle",
-      "External anal sphincter",
-      "Levator ani muscle"
-    ],
-    "correct": 1,
-    "explanation": "A mediolateral episiotomy cuts through the vaginal mucosa, perineal skin, transverse perineal muscle, and the bulbospongiosus muscle, while intentionally sparing the external anal sphincter."
-  },
-  {
-    "question": "A 32-year-old woman presents with secondary amenorrhea of 8 months duration following an emergency suction curettage for severe postpartum hemorrhage. HORMONE levels (FSH, LH, Estradiol) are within normal limits. Estrogen-progestin challenge fails to produce withdrawal bleeding. What is the most likely diagnosis?",
-    "options": [
-      "Sheehan Syndrome",
-      "Asherman Syndrome (Intrauterine Adhesions)",
-      "Polycystic Ovary Syndrome",
-      "Premature Ovarian Insufficiency"
-    ],
-    "correct": 1,
-    "explanation": "Asherman syndrome occurs due to destruction and scarring (synechiae) of the basal layer of the endometrium following vigorous curettage. Normal hormonal levels paired with a negative progestin/estrogen withdrawal bleeding test confirm end-organ unresponsiveness."
-  },
-  {
-    "question": "What is the physiological trigger responsible for initiating the onset of maternal milk synthesis (lactogenesis stage II) immediately following childbirth?",
-    "options": [
-      "Sharp rise in serum Oxytocin levels",
-      "Abrupt drop in maternal Progesterone levels following placental delivery",
-      "Sustained elevation of Human Placental Lactogen (hPL)",
-      "Surge in luteinizing hormone (LH)"
-    ],
-    "correct": 1,
-    "explanation": "While prolactin remains elevated throughout pregnancy, high levels of placental progesterone inhibit lactogenesis. Delivery of the placenta causes a precipitate drop in progesterone, unblocking prolactin receptors and triggering copious milk production."
-  },
-  {
-    "question": "A 22-year-old nulligravida presents with cyclical dysmenorrhea, deep dyspareunia, and painful defecation (dyschezia) during menstruation. Pelvic exam reveals uterosacral nodularity. What is the definitive gold-standard diagnostic procedure?",
-    "options": [
-      "Transvaginal Pelvic Ultrasound",
-      "Diagnostic Laparoscopy with histopathological biopsy",
-      "Serum CA-125 measurement",
-      "Pelvic Computed Tomography (CT)"
-    ],
-    "correct": 1,
-    "explanation": "Diagnostic laparoscopy with direct visualization and histological evaluation of excised lesions remains the definitive gold standard for diagnosing Endometriosis."
-  },
-  {
-    "question": "Which pelvic type according to the Caldwell-Moloy classification is characterized by a heart-shaped pelvic inlet, prominent ischial spines, narrowed subpubic arch, and is associated with persistent occiput posterior presentation?",
-    "options": [
-      "Gynecoid pelvis",
-      "Android pelvis",
-      "Anthropoid pelvis",
-      "Platypelloid pelvis"
-    ],
-    "correct": 1,
-    "explanation": "The android pelvis resembles the typical male pelvis with a heart-shaped brim, narrow anterior segment, and convergent side walls, predisposing to deep transverse arrest and persistent occiput posterior positions."
-  },
-  {
-    "question": "A 34-year-old G3P2 at 38 weeks gestation develops severe continuous abdominal pain and dark vaginal bleeding. On palpation, the uterus is hypertonic and tender ('woody-hard'). CTG demonstrates fetal bradycardia. What is the diagnosis?",
-    "options": [
-      "Placenta Previa",
-      "Abruptio Placentae",
-      "Uterine Rupture",
-      "Vasa Previa"
-    ],
-    "correct": 1,
-    "explanation": "Placental abruption (premature separation of placenta) classically presents with painful vaginal bleeding, uterine hypertonia/tenderness, and fetal distress due to acute retroplacental hemorrhage."
-  },
-  {
-    "question": "Which congenital uterine anomaly results from complete failure of fusion of the paired Müllerian (paramesonephric) ducts during embryonic development?",
-    "options": [
-      "Septate Uterus",
-      "Uterus Didelphys",
-      "Bicornuate Uterus",
-      "Unicornuate Uterus"
-    ],
-    "correct": 1,
-    "explanation": "Uterus didelphys results from total non-fusion of both Müllerian ducts, producing two distinct uterine cavities, two cervices, and often a longitudinal vaginal septum."
-  },
-  {
-    "question": "A 27-year-old G1P0 at 16 weeks gestation undergoes second-trimester triple/quadruple maternal serum screening. Results reveal an abnormally elevated level of maternal serum Alpha-Fetoprotein (MSAFP). What condition is most strongly associated with this finding?",
-    "options": [
-      "Trisomy 21 (Down Syndrome)",
-      "Neural Tube Defects (e.g., Anencephaly, Spina Bifida)",
-      "Trisomy 18 (Edwards Syndrome)",
-      "Hydatidiform Mole"
-    ],
-    "correct": 1,
-    "explanation": "Elevated MSAFP (>2.5 MOM) is characteristically associated with open neural tube defects (spina bifida, anencephaly), ventral wall defects (omphalocele, gastroschisis), or multiple gestations."
-  },
-  {
-    "question": "Which histological subtype of Vulvar Intraepithelial Neoplasia (VIN) is unassociated with high-risk HPV infection and typically arises on a background of Lichen Sclerosus in elderly women?",
-    "options": [
-      "Usual-type VIN (Warty/Basaloid)",
-      "Differentiated VIN (dVIN)",
-      "Clear cell adenocarcinoma",
-      "Paget disease of the vulva"
-    ],
-    "correct": 1,
-    "explanation": "Differentiated VIN (dVIN) is HPV-negative, develops primarily in postmenopausal women with longstanding Lichen Sclerosus, and carries a higher risk of rapid progression to invasive squamous cell carcinoma."
-  },
-  {
-    "question": "A 30-year-old G2P1 at 39 weeks gestation undergoes spontaneous vaginal delivery. Following delivery of the newborn, what is the single most effective intervention within the active management of the third stage of labor (AMTSL) to prevent postpartum hemorrhage?",
-    "options": [
-      "Immediate administration of a prophylactic uterotonic agent (e.g., Oxytocin)",
-      "Early umbilical cord clamping",
-      "Routine manual exploration of the uterine cavity",
-      "Uterine packing with gauze"
-    ],
     "correct": 0,
-    "explanation": "Administration of a uterotonic agent (specifically Oxytocin 10 IU IM/IV) immediately following birth of the infant is the most critical component of AMTSL to ensure prompt uterine contraction and prevent PPH."
+    "explanation": "Ondansetron is known to prolong the QTc interval and can precipitate Torsades de Pointes, particularly in patients with pre-existing Long QT Syndrome or electrolyte imbalances."
   },
   {
-    "question": "Which cell structure in the ovary is the primary source of circulating Estrogens during the follicular phase of the menstrual cycle, operating under the 'Two-cell, Two-gonadotropin' hypothesis?",
+    "question": "In a pregnant patient presenting with acute pulmonary edema secondary to peripartum cardiomyopathy, which medication is safe to use for preload reduction?",
     "options": [
-      "Theca interna cells converting cholesterol to androgens via FSH stimulation",
-      "Granulosa cells aromatizing theca-derived androgens into estrogens under LH influence",
-      "Granulosa cells aromatizing theca-derived androgens into estrogens under FSH influence",
-      "Luteal cells producing estrone directly without gonadotropin stimulation"
-    ],
-    "correct": 2,
-    "explanation": "According to the two-cell hypothesis, LH stimulates theca cells to synthesize androgens (androstenedione), which diffuse into granulosa cells where FSH stimulates the aromatase enzyme to convert them into estrogens (estradiol)."
-  },
-  {
-    "question": "A 23-year-old woman presents with severe vulvar pruritus and profuse frothy, yellowish-green vaginal discharge with a foul odor. Physical exam reveals punctate red hemorrhages on the cervix ('strawberry cervix'). What is the recommended treatment?",
-    "options": [
-      "Oral Fluconazole single dose",
-      "Oral Metronidazole for both the patient and her sexual partner",
-      "Topical Clindamycin cream",
-      "Intramuscular Ceftriaxone single dose"
-    ],
-    "correct": 1,
-    "explanation": "Trichomoniasis (caused by *Trichomonas vaginalis*) presents with frothy green discharge and strawberry cervix. Concurrent oral Metronidazole treatment for both the patient and sex partner is mandatory to prevent reinfection."
-  },
-  {
-    "question": "What is the primary mechanism of action of the Copper T380A Intrauterine Device (IUD) for contraception?",
-    "options": [
-      "Suppression of ovulation via systemic gonadotropin inhibition",
-      "Induction of a sterile local inflammatory response that is toxic to sperm and ova",
-      "Thickening of cervical mucus to block sperm passage",
-      "Direct lysis of the corpus luteum"
-    ],
-    "correct": 1,
-    "explanation": "Copper ions released from the IUD induce a local inflammatory foreign-body reaction within the endometrium and fallopian tubes, creating a cytotoxic environment that impairs sperm motility, viability, and fertilization."
-  },
-  {
-    "question": "A 29-year-old G1P0 at 38 weeks gestation is in second-stage labor. The fetal head is deeply engaged, station is +3, position is Direct Occiput Anterior, but maternal exhaustion prevents further pushing. Which condition is a prerequisite before applying low obstetric forceps?",
-    "options": [
-      "Intact amniotic membranes",
-      "Complete cervical dilation (10 cm)",
-      "Unengaged fetal head",
-      "Breech presentation"
-    ],
-    "correct": 1,
-    "explanation": "Prerequisites for operative vaginal delivery (forceps or vacuum) include full cervical dilation (10 cm), ruptured membranes, engaged head, precise knowledge of position, empty bladder, and adequate pelvis."
-  },
-  {
-    "question": "Which tumor marker is characteristically elevated in non-gestational or gestational ovarian Choriocarcinoma?",
-    "options": [
-      "CA-125",
-      "Human Chorionic Gonadotropin (beta-hCG)",
-      "Alpha-Fetoprotein (AFP)",
-      "Inhibin A"
-    ],
-    "correct": 1,
-    "explanation": "Choriocarcinomas consist of malignant syncytiotrophoblasts and cytotrophoblasts, secreting massive quantities of beta-hCG into maternal serum."
-  },
-  {
-    "question": "A 31-year-old G1P0 at 12 weeks gestation presents for her first prenatal visit. Blood pressure is 150/95 mmHg. Urinalysis shows no protein. She has no prior history of high blood pressure. At 24 weeks, her BP remains 148/92 mmHg without proteinuria. What is the diagnosis?",
-    "options": [
-      "Gestational Hypertension",
-      "Chronic Hypertension",
-      "Preeclampsia",
-      "Transient hypertension of pregnancy"
-    ],
-    "correct": 1,
-    "explanation": "Hypertension present before pregnancy or identified before 20 weeks gestation is classified as Chronic Hypertension."
-  },
-  {
-    "question": "Which enzyme deficiency is the most common cause of Congenital Adrenal Hyperplasia (CAH), leading to virilization/ambiguous genitalia in newborn 46,XX females due to excess androgen production?",
-    "options": [
-      "17-alpha Hydroxylase deficiency",
-      "21-Hydroxylase deficiency",
-      "11-beta Hydroxylase deficiency",
-      "Aromatase deficiency"
-    ],
-    "correct": 1,
-    "explanation": "21-hydroxylase deficiency accounts for over 90% of CAH cases. Impaired cortisol synthesis leads to uninhibited ACTH secretion, diverting steroid precursors into the adrenal androgen pathway."
-  },
-  {
-    "question": "A 40-year-old woman G4P4 presents with heavy menstrual bleeding. Bimanual exam reveals an irregularly enlarged, firm, non-tender uterus. Pelvic ultrasound shows multiple well-circumscribed, hypoechoic uterine masses with acoustic shadowing. What is the diagnosis?",
-    "options": [
-      "Endometrial Polyp",
-      "Uterine Leiomyoma (Fibroid)",
-      "Uterine Sarcoma",
-      "Adenomyosis"
-    ],
-    "correct": 1,
-    "explanation": "Uterine leiomyomas (fibroids) are benign smooth muscle tumors that present ultrasonographically as well-circumscribed, hypoechoic concentric masses with acoustic shadowing."
-  },
-  {
-    "question": "What is the definitive medical treatment for a hemodynamically stable patient with an unruptured tubal ectopic pregnancy, an ectopic mass size < 3.5 cm, and no fetal cardiac activity?",
-    "options": [
-      "Systemic Methotrexate",
-      "Intravenous Ampicillin",
-      "Oral Mifepristone only",
-      "Subcutaneous Heparin"
-    ],
-    "correct": 0,
-    "explanation": "Single-dose or multi-dose parenteral Methotrexate (a folic acid antagonist) is the standard medical treatment for unruptured ectopic pregnancy in stable patients meeting strict criteria."
-  },
-  {
-    "question": "Which nerve provides sensory innervation to the anterior third of the vulva and mons pubis?",
-    "options": [
-      "Pudendal nerve",
-      "Ilioinguinal nerve",
-      "Posterior cutaneous nerve of thigh",
-      "Genitofemoral nerve (femoral branch)"
-    ],
-    "correct": 1,
-    "explanation": "The ilioinguinal nerve supplies sensation to the skin over the mons pubis and anterior labia majora, whereas the pudendal nerve supplies the posterior two-thirds of the perineum."
-  },
-  {
-    "question": "A 26-year-old G2P1 at 30 weeks gestation presents with sudden painless, profuse bright red vaginal bleeding. Fetal heart tracing is reassuring. What management path is indicated if maternal and fetal statuses remain stable?",
-    "options": [
-      "Immediate emergency C-section",
-      "Expectant conservative management in hospital with bed rest and observation",
-      "Induction of labor with intravenous Oxytocin",
-      "Immediate digital cervical examination to check dilation"
-    ],
-    "correct": 1,
-    "explanation": "In stable Placenta Previa prior to 37 weeks gestation, conservative expectant management (hospitalization, monitoring, steroids for lung maturity) is indicated to gain fetal maturity."
-  },
-  {
-    "question": "Which malignant stromal tumor of the ovary typically occurs in postmenopausal women, secretes estrogen, and pathologically exhibits Call-Exner bodies (small fluid-filled spaces surrounding central nuclei)?",
-    "options": [
-      "Sertoli-Leydig Cell Tumor",
-      "Granulosa Cell Tumor",
-      "Fibroma",
-      "Brenner Tumor"
-    ],
-    "correct": 1,
-    "explanation": "Granulosa cell tumors are sex cord-stromal tumors that secrete estrogen (causing postmenopausal bleeding/endometrial hyperplasia) and characteristically feature Call-Exner bodies on histology."
-  },
-  {
-    "question": "What is the recommended first-line pharmacological treatment for anovulatory infertility in women diagnosed with Polycystic Ovary Syndrome (PCOS)?",
-    "options": [
-      "Clomiphene Citrate or Letrozole",
-      "Human Chorionic Gonadotropin (hCG) alone",
-      "Combined Oral Contraceptive Pills",
+      "Intravenous Furosemide",
+      "Enalapril IV",
+      "Losartan",
       "Spironolactone"
     ],
     "correct": 0,
-    "explanation": "Letrozole (an aromatase inhibitor) or Clomiphene Citrate (a SERM) are first-line agents for ovulation induction in women with PCOS seeking pregnancy."
+    "explanation": "Loop diuretics (like IV Furosemide) can be used cautiously in pregnancy to reduce pulmonary congestion in heart failure. ACE inhibitors, ARBs, and Aldosterone antagonists (Spironolactone) are contraindicated due to fetal toxicity."
   },
   {
-    "question": "A 33-year-old G2P1 at 41 weeks gestation is evaluated for prolonged pregnancy. Ultrasound reveals an Amniotic Fluid Index (AFI) of 3 cm. What is the clinical interpretation and recommended management?",
+    "question": "What is the targeted TSH level during the FIRST trimester of pregnancy according to standard thyroid guidelines?",
     "options": [
-      "Polyhydramnios; discharge home with routine follow-up",
-      "Oligohydramnios; plan for prompt labor induction or delivery",
-      "Normal amniotic fluid volume; re-evaluate in 2 weeks",
-      "Severe fetal hydrops; perform immediate intrauterine transfusion"
+      "TSH < 2.5 mIU/L (or lower limit of trimester-specific reference range)",
+      "TSH 5.0 to 10.0 mIU/L",
+      "TSH < 0.01 mIU/L",
+      "TSH 10.0 to 15.0 mIU/L"
     ],
-    "correct": 1,
-    "explanation": "An AFI < 5 cm defines Oligohydramnios. In a post-term or term pregnancy (≥41 weeks), oligohydramnios indicates placental insufficiency and mandates labor induction."
+    "correct": 0,
+    "explanation": "Thyroid guidelines recommend maintaining maternal TSH within trimester-specific ranges, typically aiming for < 2.5 mIU/L in the first trimester (or using population- and trimester-specific reference cutoffs)."
+  },
+  {
+    "question": "A 33-year-old G2P1 at 36 weeks gestation with mild mitral regurgitation is undergoing labor. Echocardiogram shows normal ejection fraction and normal pulmonary pressures. What is the preferred mode of delivery?",
+    "options": [
+      "Spontaneous or assisted Vaginal Delivery",
+      "Elective Cesarean section under general anesthesia",
+      "Vaginal delivery with strict fluid restriction to 10 mL/hr",
+      "Emergency C-section under spinal anesthesia"
+    ],
+    "correct": 0,
+    "explanation": "Regurgitant valvular lesions (mitral or aortic regurgitation) are generally well tolerated during pregnancy because reduced systemic vascular resistance (SVR) promotes forward flow. Spontaneous vaginal delivery is preferred."
+  },
+  {
+    "question": "Which clinical feature distinguishes Thyroid Storm from severe uncomplicated Preeclampsia with hyperreflexia?",
+    "options": [
+      "Presence of marked fever/hyperthermia, severe agitation/psychosis, and pronounced goiter",
+      "Presence of elevated blood pressure",
+      "Presence of lower extremity edema",
+      "Elevated urine protein"
+    ],
+    "correct": 0,
+    "explanation": "While both conditions cause tachycardia and hypertension, Thyroid Storm is characterized by high fever (hyperpyrexia), extreme central nervous system alterations (delirium, psychosis), and elevated thyroid hormones."
+  },
+  {
+    "question": "What physiological change occurs in the pulmonary vasculature during pregnancy that explains why patients with pre-existing Pulmonary Arterial Hypertension (PAH) experience severe hemodynamic decompensation?",
+    "options": [
+      "Inability of fixed, diseased pulmonary vessels to accommodate the 30-50% increase in blood volume and cardiac output",
+      "Sudden mass constriction of pulmonary arteries caused by systemic progesterone",
+      "Rapid reduction in right ventricular stroke volume",
+      "Severe drop in maternal hemoglobin levels"
+    ],
+    "correct": 0,
+    "explanation": "Patients with fixed pulmonary vascular disease cannot adapt to pregnancy's 30–50% plasma volume expansion and cardiac output demands, leading to acute right heart failure, ischemia, and high risk of maternal death."
+  },
+  {
+    "question": "A 28-year-old G1P0 at 18 weeks gestation presents with a single 1.5 cm firm, non-tender thyroid nodule. TSH is normal. Ultrasound shows a solid hypoechoic nodule with microcalcifications. What is the next best diagnostic step?",
+    "options": [
+      "Ultrasound-guided Fine-Needle Aspiration (FNA) biopsy",
+      "Radioactive iodine diagnostic scan",
+      "Empiric total thyroidectomy",
+      "Observation with repeat exam 6 months postpartum"
+    ],
+    "correct": 0,
+    "explanation": "Fine-needle aspiration (FNA) biopsy is safe and diagnostic during pregnancy for suspicious thyroid nodules (hypoechoic, microcalcifications, solid) and carries zero risk to the fetus."
+  },
+  {
+    "question": "Which maternal cardiac condition carries a high risk of aortic dissection or rupture during pregnancy, especially in the third trimester?",
+    "options": [
+      "Coarctation of the Aorta",
+      "Small muscular Ventricular Septal Defect",
+      "Mild Pulmonic Stenosis",
+      "Patent Ductus Arteriosus"
+    ],
+    "correct": 0,
+    "explanation": "Unrepaired or repaired Coarctation of the Aorta is associated with cystic medial necrosis of the aortic wall and hypertension, significantly increasing the risk of aortic dissection or rupture during hyperhemodynamic states of pregnancy."
+  },
+  {
+    "question": "A 32-year-old G1P0 at 16 weeks gestation is found to have an elevated TSH of 7.2 mIU/L with a low Free T4. She has a positive test for Anti-Thyroid Peroxidase (Anti-TPO) antibodies. What is the most common cause of hypothyroidism in pregnant women?",
+    "options": [
+      "Hashimoto's Thyroiditis (Chronic Autoimmune Thyroiditis)",
+      "Iatrogenic post-surgical resection",
+      "Subacute granulomatous thyroiditis",
+      "Sheehan syndrome"
+    ],
+    "correct": 0,
+    "explanation": "Hashimoto's Thyroiditis (autoimmune thyroid destruction characterized by anti-TPO and anti-thyroglobulin antibodies) is the primary cause of hypothyroidism in pregnant populations worldwide."
+  },
+  {
+    "question": "Which drug is used during acute cardiac arrest resuscitation in pregnancy, applying standard ACLS protocols with what critical physical modification?",
+    "options": [
+      "Standard ACLS drugs (Epinephrine, Amiodarone) with manual Left Uterine Displacement (LUD) to relieve IVC compression",
+      "Half-dose Epinephrine without positioning modifications",
+      "Atropine only, avoiding Epinephrine entirely",
+      "Defibrillation is strictly contraindicated in pregnancy"
+    ],
+    "correct": 0,
+    "explanation": "Advanced Cardiac Life Support (ACLS) medication protocols and defibrillation energy levels are identical in pregnancy. The critical physical modification is continuous manual Left Uterine Displacement (LUD) to relieve aortocaval compression."
+  },  {
+    "question": "A 34-year-old G2P1 at 30 weeks gestation presents with persistent palpitations, weight loss despite increased appetite, heat intolerance, and a fine tremor. Thyroid panel shows TSH < 0.01 mIU/L and FT4 3.8 ng/dL (elevated). She is started on Propylthiouracil (PTU). What is the primary cellular mechanism of action of PTU?",
+    "options": [
+      "Inhibits thyroid peroxidase (TPO) to block organification/coupling AND inhibits peripheral conversion of T4 to T3",
+      "Directly destroys thyroid follicular cells via beta-particle emission",
+      "Competitively blocks TSH receptors on the thyroid follicular membrane",
+      "Increases renal excretion of circulating T4 and T3"
+    ],
+    "correct": 0,
+    "explanation": "Propylthiouracil (PTU) acts dual-fold: it inhibits Thyroid Peroxidase (TPO) in the thyroid gland (blocking organification and coupling) and also inhibits peripheral 5'-deiodinase, preventing peripheral conversion of T4 to active T3."
+  },
+  {
+    "question": "Which maternal structural heart lesion carries the LEAST hemodynamic risk during normal pregnancy and delivery?",
+    "options": [
+      "Small, asymptomatic Atrial Septal Defect (ASD)",
+      "Severe Aortic Stenosis",
+      "Coarctation of the Aorta with residual hypertension",
+      "Peripartum Cardiomyopathy with persistent EF < 30%"
+    ],
+    "correct": 0,
+    "explanation": "Small, uncorrected Atrial Septal Defects (ASD) without pulmonary hypertension are generally extremely well tolerated in pregnancy because low systemic vascular resistance limits left-to-right shunting."
+  },
+  {
+    "question": "A 29-year-old G1P0 at 12 weeks gestation with known mechanical mitral valve replacement is maintained on low-dose Warfarin (3 mg/day). What is the recommended strategy according to current ACC/AHA guidelines regarding Warfarin continuation in the first trimester?",
+    "options": [
+      "If daily Warfarin dose is ≤ 5 mg and patient is fully informed, continuing Warfarin through the first trimester is an acceptable option with low teratogenic risk",
+      "Warfarin must be stopped immediately in all pregnant women regardless of dose",
+      "Switch immediately to oral Apixaban for the entire duration of pregnancy",
+      "Discontinue all anticoagulation until 36 weeks gestation"
+    ],
+    "correct": 0,
+    "explanation": "ACC/AHA guidelines state that if a patient with a mechanical heart valve requires a low dose of Warfarin (≤ 5 mg daily), continuing Warfarin in the first trimester can be considered after thorough counseling, as the embryopathy risk is significantly lower (< 3%) compared to higher doses."
+  },
+  {
+    "question": "A 31-year-old G1P0 at 26 weeks gestation presents with severe hypertension (BP 168/112 mmHg) and is diagnosed with preeclampsia with severe features. What is the target blood pressure range when administering acute IV Labetalol or IV Hydralazine?",
+    "options": [
+      "Systolic 140–150 mmHg and Diastolic 90–100 mmHg",
+      "Systolic < 90 mmHg and Diastolic < 60 mmHg",
+      "Systolic 110–120 mmHg and Diastolic 70–80 mmHg",
+      "Systolic 160–170 mmHg and Diastolic 105–115 mmHg"
+    ],
+    "correct": 0,
+    "explanation": "The goal of acute antihypertensive therapy in severe preeclampsia is to safely lower blood pressure to Systolic 140–150 mmHg and Diastolic 90–100 mmHg to prevent maternal cerebrovascular accidents without causing sudden placental hypoperfusion."
+  },
+  {
+    "question": "Which clinical feature is characteristic of Graves' Ophthalmopathy (exophthalmos, periorbital edema) that helps distinguish it from other causes of thyrotoxicosis?",
+    "options": [
+      "Autoantibody-mediated inflammation and glycosaminoglycan accumulation in extraocular muscles and retro-orbital tissue",
+      "Direct toxic accumulation of circulating T4 within the lens",
+      "Increased intracranial pressure secondary to high systemic vascular resistance",
+      "Ischemic atrophy of the optic nerve head"
+    ],
+    "correct": 0,
+    "explanation": "Graves' orbitopathy is caused by TSH-receptor autoantibodies cross-reacting with receptors on retro-orbital fibroblasts, leading to T-cell infiltration, inflammation, and glycosaminoglycan deposition."
+  },
+  {
+    "question": "A 33-year-old G2P1 at 32 weeks gestation with acute dyspnea is diagnosed with decompensated heart failure due to Dilated Cardiomyopathy. Which class of heart failure medications is strictly CONTRAINDICATED in pregnancy due to fetal renal dysgenesis?",
+    "options": [
+      "Angiotensin-Converting Enzyme (ACE) Inhibitors",
+      "Beta-1 selective blockers (e.g., Metoprolol succinate)",
+      "Loop diuretics (e.g., Furosemide)",
+      "Hydralazine and Nitrates"
+    ],
+    "correct": 0,
+    "explanation": "ACE inhibitors (e.g., Enalapril, Captopril) and ARBs are fetotoxic in the 2nd and 3rd trimesters, leading to fetal renal failure, oligohydramnios, pulmonary hypoplasia, and skull hypoplasia."
+  },
+  {
+    "question": "What is the primary effect of high hCG levels on the maternal thyroid gland during the first 10–12 weeks of normal pregnancy?",
+    "options": [
+      "hCG weakly stimulates TSH receptors, causing a transient increase in Free T4 and a physiological suppression of serum TSH",
+      "hCG directly inhibits TPO enzyme, causing mild subclinical hypothyroidism",
+      "hCG destroys thyroid-binding globulin, causing low total T4 levels",
+      "hCG stimulates calcitonin secretion from parafollicular cells"
+    ],
+    "correct": 0,
+    "explanation": "Because hCG shares structural homology (identical alpha-subunit) with TSH, peak hCG concentrations in early pregnancy mildly stimulate the TSH receptor, causing a transient peak in FT4 and partial suppression of serum TSH."
+  },
+  {
+    "question": "A 28-year-old G1P0 at 38 weeks gestation with a history of repaired Tetralogy of Fallot is in active labor. Which physiological change during the immediate postpartum period poses the highest risk for sudden pulmonary congestion or acute heart failure?",
+    "options": [
+      "Autotransfusion of ~500 mL of blood from the contracting uterus into maternal circulation following placental delivery",
+      "Rapid shift of fluid from maternal circulation into fetal tissues",
+      "Acute drop in venous return due to IVC relief",
+      "Sudden elevation of human placental lactogen"
+    ],
+    "correct": 0,
+    "explanation": "Immediately after placental delivery, uterine involution autotransfuses 300–500 mL of blood into the systemic venous circulation, accompanied by relief of IVC compression. This acute intravascular volume surge can trigger pulmonary edema in compromised hearts."
+  },
+  {
+    "question": "A 26-year-old woman at 10 weeks gestation presents with overt Hypothyroidism (TSH 12.0 mIU/L). She is started on daily Levothyroxine. How frequently should maternal serum TSH levels be rechecked during the first half of pregnancy?",
+    "options": [
+      "Every 4 weeks",
+      "Every 12 weeks",
+      "Once at 36 weeks gestation",
+      "Only in the postpartum period"
+    ],
+    "correct": 0,
+    "explanation": "Because thyroid hormone requirements change rapidly in early pregnancy, TSH levels should be monitored every 4 weeks until mid-gestation (and at least once per trimester thereafter) to adjust Levothyroxine dosing."
+  },
+  {
+    "question": "Which maternal heart lesion is classified under WHO Risk Category IV (where pregnancy is strictly contraindicated due to extremely high risk of maternal mortality or severe morbidity)?",
+    "options": [
+      "Pulmonary Arterial Hypertension (PAH) of any cause",
+      "Mild Pulmonary Valve Stenosis",
+      "Repaired Atrial Septal Defect without residual pulmonary hypertension",
+      "Uncomplicated Mitral Valve Prolapse"
+    ],
+    "correct": 0,
+    "explanation": "WHO Category IV conditions—including Pulmonary Arterial Hypertension (PAH), severe symptomatic aortic stenosis, severe coarctation, and severe left ventricular dysfunction (EF < 30%)—carry a maternal mortality up to 30–50%, making pregnancy contraindicated."
+  },
+  {
+    "question": "A 30-year-old G2P1 at 34 weeks gestation with severe preeclampsia is being started on IV Magnesium Sulfate for seizure prophylaxis. What is the mechanism by which Magnesium Sulfate acts as a neuroprotective agent?",
+    "options": [
+      "Competitive blockade of N-methyl-D-aspartate (NMDA) receptors in the central nervous system and vascular dilation",
+      "Direct inhibition of thyroid hormone release from follicular cells",
+      "Stimulation of central alpha-2 adrenergic receptors",
+      "Irreversible blockade of cardiac fast voltage-gated sodium channels"
+    ],
+    "correct": 0,
+    "explanation": "Magnesium Sulfate prevents eclamptic seizures by blocking NMDA receptors in the brain, raising the seizure threshold, and inducing cerebral vasodilation to reduce ischemia."
+  },
+  {
+    "question": "Which fetal risk is specifically increased in mothers taking Methimazole (MMI) during the first 6 to 10 weeks of organogenesis?",
+    "options": [
+      "Embryopathy including Aplasia Cutis Congenita and Choanal/Esophageal Atresia",
+      "Congenital Complete Heart Block",
+      "Neural Tube Defects",
+      "Phocomelia and limb loss"
+    ],
+    "correct": 0,
+    "explanation": "Methimazole exposure during early organogenesis (1st trimester) is associated with Methimazole Embryopathy: aplasia cutis congenita (scalp skin defects), choanal atresia, and esophageal atresia."
+  },
+  {
+    "question": "A 35-year-old G3P2 at 28 weeks gestation presents with persistent sinus tachycardia, dyspnea, and an apical diastolic rumble. Echocardiogram shows severe Mitral Stenosis with a mitral valve area (MVA) of 0.9 cm². Medical therapy with beta-blockers fails to relieve pulmonary edema. What interventional procedure is preferred if conservative medical therapy fails during pregnancy?",
+    "options": [
+      "Percutaneous Mitral Balloon Commissurotomy (PMBC)",
+      "Open mechanical valve replacement with cardiopulmonary bypass",
+      "Immediate C-section delivery at 28 weeks",
+      "Aortic valve TAVR procedure"
+    ],
+    "correct": 0,
+    "explanation": "If medical management (rate control, diuresis) fails in severe symptomatic mitral stenosis during pregnancy, Percutaneous Mitral Balloon Commissurotomy (PMBC) is the procedure of choice, performed with abdominal abdominal shielding."
+  },
+  {
+    "question": "What is the impact of overt maternal Hypothyroidism on pregnancy outcomes if left uncorrected?",
+    "options": [
+      "Increased incidence of spontaneous abortion, gestational hypertension, low birth weight, and placental abruption",
+      "Increased incidence of fetal macrosomia and polyhydramnios",
+      "Decreased risk of preterm labor",
+      "Protection against neonatal respiratory distress syndrome"
+    ],
+    "correct": 0,
+    "explanation": "Untreated overt hypothyroidism is strongly associated with adverse outcomes including spontaneous miscarriage, preeclampsia/gestational hypertension, placental abruption, low birth weight, and neurodevelopmental deficits."
+  },
+  {
+    "question": "A 27-year-old G1P0 at 16 weeks gestation with a history of rheumatic heart disease presents for evaluation. Which physiological hemodynamic adjustment of pregnancy is most likely to precipitate heart failure in patients with restrictive valvular lesions?",
+    "options": [
+      "Expansion of total intravascular volume by 40–50% combined with physiological tachycardia",
+      "Decrease in systemic cardiac output",
+      "Increase in systemic vascular resistance (SVR)",
+      "Decrease in maternal resting heart rate"
+    ],
+    "correct": 0,
+    "explanation": "The 40–50% plasma volume expansion coupled with physiological tachycardia shortens diastolic filling time, causing sharp pressure rises behind stenotic valves (e.g., mitral stenosis) and precipitating pulmonary edema."
+  },
+  {
+    "question": "Which autoantibody is specifically tested to confirm the diagnosis of Graves' Disease in a pregnant patient presenting with hyperthyroidism?",
+    "options": [
+      "Thyroid-Stimulating Hormone Receptor Antibodies (TRAb / TSI)",
+      "Anti-Glutamic Acid Decarboxylase (Anti-GAD) antibodies",
+      "Anti-Smooth Muscle Antibodies (ASMA)",
+      "Rheumatoid Factor (RF)"
+    ],
+    "correct": 0,
+    "explanation": "Thyroid-Stimulating Immunoglobulins (TSI) or TSH Receptor Antibodies (TRAb) confirm Graves' disease and help assess the risk of transplacental antibody transfer causing fetal/neonatal hyperthyroidism."
+  },
+  {
+    "question": "A 32-year-old woman G1P0 at 36 weeks gestation with known Mitral Valve Prolapse (MVP) and mild mitral regurgitation asks about delivery options. She is asymptomatic with normal EF. What is the standard obstetric management?",
+    "options": [
+      "Spontaneous vaginal delivery with routine monitoring and no routine antibiotic prophylaxis",
+      "Mandatory Cesarean section under general anesthesia",
+      "Prophylactic IV Vancomycin before spontaneous labor",
+      "Induction of labor at 36 weeks with continuous IV Heparin"
+    ],
+    "correct": 0,
+    "explanation": "Uncomplicated Mitral Valve Prolapse is a low-risk condition in pregnancy. Spontaneous vaginal delivery is recommended, and routine antibiotic prophylaxis for endocarditis is not indicated."
+  },
+  {
+    "question": "What is the therapeutic target range for serum Magnesium level when administering IV Magnesium Sulfate for preeclampsia seizure prophylaxis?",
+    "options": [
+      "4.0 to 7.0 mEq/L (4.8 to 8.4 mg/dL)",
+      "1.0 to 2.0 mEq/L (1.2 to 2.4 mg/dL)",
+      "10.0 to 12.0 mEq/L (12.0 to 14.4 mg/dL)",
+      "> 15.0 mEq/L (> 18.0 mg/dL)"
+    ],
+    "correct": 0,
+    "explanation": "The therapeutic anticonvulsant range for serum magnesium is 4.0–7.0 mEq/L (4.8–8.4 mg/dL). Loss of deep tendon reflexes occurs around 7–10 mEq/L, and respiratory arrest occurs above 12 mEq/L."
+  },
+  {
+    "question": "A 28-year-old G1P0 at 14 weeks gestation with Graves' disease is taking Propylthiouracil (PTU). Her physician plans to transition her to Methimazole (MMI) for the remainder of her pregnancy. Why is this transition made at the start of the SECOND trimester?",
+    "options": [
+      "To avoid PTU-induced maternal severe hepatotoxicity during extended use, while avoiding MMI embryopathy during early organogenesis",
+      "Because Methimazole is ineffective in the first trimester",
+      "Because PTU causes fetal heart block in the second trimester",
+      "Because Methimazole increases placental weight"
+    ],
+    "correct": 0,
+    "explanation": "PTU is preferred in the 1st trimester due to MMI organogenesis teratogenicity. Once organogenesis is complete (2nd trimester onward), switching to MMI minimizes the risk of severe PTU-induced maternal fulminant hepatic necrosis."
+  },
+  {
+    "question": "Which maternal position should be strictly avoided in late pregnancy and labor for a patient with cardiac disease due to profound reduction in cardiac preload?",
+    "options": [
+      "Supine position",
+      "Left lateral recumbent position",
+      "Sitting upright position",
+      "Semi-Fowler's position"
+    ],
+    "correct": 0,
+    "explanation": "The supine position causes the heavy gravid uterus to compress the Inferior Vena Cava (IVC), significantly decreasing venous return (preload), stroke volume, and cardiac output."
+  },
+  {
+    "question": "A 30-year-old G1P0 at 20 weeks gestation is diagnosed with Subclinical Hypothyroidism (elevated TSH, normal Free T4). She is Anti-TPO negative. According to ATA guidelines, when is Levothyroxine replacement STRONGLY recommended?",
+    "options": [
+      "When serum TSH is greater than 10.0 mIU/L",
+      "When serum TSH is between 2.5 and 4.0 mIU/L with negative antibodies",
+      "Levothyroxine is never indicated if Free T4 is normal",
+      "Only if the patient develops a visible multinodular goiter"
+    ],
+    "correct": 0,
+    "explanation": "Levothyroxine is strongly recommended for subclinical hypothyroidism in pregnancy if TSH is > 10.0 mIU/L (regardless of TPO status) or if TSH is > upper limit of normal with positive Anti-TPO antibodies."
+  },
+  {
+    "question": "Which fetal echocardiographic finding at 20–24 weeks gestation is characteristic of congenital complete heart block associated with maternal Anti-SSA/Ro autoantibodies?",
+    "options": [
+      "Sustained fetal bradycardia (heart rate < 100 bpm) with dissociation between atrial and ventricular contractions",
+      "Fetal supraventricular tachycardia with heart rate > 220 bpm",
+      "Coarctation of the aortic arch with post-stenotic dilation",
+      "Ventricular septal defect with overriding aorta"
+    ],
+    "correct": 0,
+    "explanation": "Transplacental anti-SSA/Ro antibodies cause inflammatory destruction and fibrosis of the fetal AV node, presenting as fixed fetal complete heart block with severe sustained bradycardia (< 100 bpm)."
+  },
+  {
+    "question": "A 33-year-old woman 2 months postpartum presents with palpitations, nervous tremor, and heat intolerance. Labs confirm hyperthyroidism with undetectable TSH and elevated FT4. Thyroid radioactive iodine uptake (RAIU) scan (performed while taking precautions) shows widespread LOW uptake. What is the diagnosis?",
+    "options": [
+      "Postpartum Thyroiditis (Thyrotoxic Phase)",
+      "Graves' Disease flare",
+      "Toxic Multinodular Goiter",
+      "TSH-secreting pituitary adenoma"
+    ],
+    "correct": 0,
+    "explanation": "Postpartum Thyroiditis involves destructive release of preformed hormone, resulting in low radioisotope uptake. In contrast, Graves' disease involves active hormone synthesis and yields high, diffuse uptake."
+  },
+  {
+    "question": "What is the primary hemodynamic mechanism by which epidural analgesia provides therapeutic benefit during labor in a patient with severe Mitral Regurgitation?",
+    "options": [
+      "Reduces Systemic Vascular Resistance (afterload), which decreases regurgitant volume and improves forward cardiac output",
+      "Increases systemic arterial blood pressure sharply to fill coronary arteries",
+      "Directly increases myocardial contractility like an inotropic agent",
+      "Induces rapid maternal tachycardia to shorten diastole"
+    ],
+    "correct": 0,
+    "explanation": "Epidural analgesia produces mild systemic vasodilation (reducing SVR/afterload). In regurgitant lesions like mitral or aortic regurgitation, lower afterload reduces backflow across the incompetent valve, promoting forward flow."
+  },
+  {
+    "question": "A 28-year-old G1P0 at 36 weeks gestation with preeclampsia presents with acute severe right upper quadrant (RUQ) pain, elevated liver enzymes, and low platelets (HELLP syndrome). Ultrasound of the liver demonstrates a subcapsular hematoma. What is the most dangerous cardiac/vascular complication of liver subcapsular hematoma rupture?",
+    "options": [
+      "Exsanguinating intraperitoneal hemorrhage and acute hypovolemic cardiovascular collapse",
+      "Acute aortic stenosis",
+      "Sudden pulmonary embolism",
+      "Left ventricular hypertrophy"
+    ],
+    "correct": 0,
+    "explanation": "Rupture of a hepatic subcapsular hematoma in HELLP syndrome is a life-threatening catastrophe leading to massive intraperitoneal hemorrhage, rapid hypovolemic shock, and cardiovascular collapse."
+  },  {
+    "question": "A 31-year-old G2P1 at 28 weeks gestation presents with persistent fatigue, cold intolerance, constipation, and a firm, non-tender diffuse goiter. TSH is 9.8 mIU/L and FT4 is low. Anti-TPO antibodies are strongly positive. What is the primary histological feature of Hashimoto's Thyroiditis?",
+    "options": [
+      "Extensive lymphocytic infiltration with germinal centers, Hurthle cell metaplasia, and follicular destruction",
+      "Non-caseating granulomas with multinucleated giant cells",
+      "Pseudopapillary hyperplasia with scalloped colloid and tall columnar epithelium",
+      "Dense fibrous tissue replacing normal thyroid parenchyma and extending into surrounding soft tissue"
+    ],
+    "correct": 0,
+    "explanation": "Hashimoto's (chronic lymphocytic) thyroiditis is characterized histologically by dense lymphocytic infiltrates with germinal center formation, Hurthle (oxyphilic) cell change, and progressive destruction of thyroid follicles."
+  },
+  {
+    "question": "Which maternal valvular heart disease is MOST prone to sudden pulmonary edema during second-stage labor due to increased cardiac output and tachycardia?",
+    "options": [
+      "Mitral Stenosis",
+      "Aortic Regurgitation",
+      "Mitral Regurgitation",
+      "Pulmonary Valve Regurgitation"
+    ],
+    "correct": 0,
+    "explanation": "Mitral Stenosis is fixed-flow restricted. Increases in heart rate (which reduce diastolic filling time across the narrowed mitral orifice) combined with increased venous return during labor sharply increase left atrial pressure, leading to acute pulmonary edema."
+  },
+  {
+    "question": "A 29-year-old G1P0 at 16 weeks gestation is found to have a serum TSH of 0.05 mIU/L and a normal Free T4. She has no hyperthyroid symptoms, no goiter, and no ophthalmopathy. What is the appropriate initial management?",
+    "options": [
+      "Reassurance and recheck TSH and Free T4 in 4–6 weeks without starting antithyroid medications",
+      "Immediate initiation of Propylthiouracil (PTU)",
+      "Immediate total thyroidectomy",
+      "Radioactive iodine diagnostic uptake scan"
+    ],
+    "correct": 0,
+    "explanation": "Subclinical hyperthyroidism (suppressed TSH with normal FT4/FT3) in early pregnancy is often physiological (due to hCG stimulation) and benign. In the absence of clinical symptoms or autoantibodies, conservative monitoring is recommended."
+  },
+  {
+    "question": "A 34-year-old G3P2 at 34 weeks gestation with severe preeclampsia is receiving continuous IV Magnesium Sulfate. On routine nursing check, her respiratory rate is 8 breaths/min, deep tendon reflexes are absent, and she appears lethargic. What immediate antidote should be administered?",
+    "options": [
+      "1 gram IV Calcium Gluconate (10 mL of 10% solution) slowly over 2–5 minutes",
+      "IV Naloxone 0.4 mg",
+      "IV Protamine Sulfate 50 mg",
+      "IV Flumazenil 0.2 mg"
+    ],
+    "correct": 0,
+    "explanation": "Intravenous Calcium Gluconate (1 gram of 10% solution IV) is the specific antagonist for Magnesium Sulfate toxicity, antagonizing magnesium's neuromuscular junction blockade."
+  },
+  {
+    "question": "Which specific congenital heart defect in the fetus carries the highest rate of recurrence in future pregnancies if a mother has already given birth to one child with the same condition?",
+    "options": [
+      "Left-sided obstructive lesions (e.g., Hypoplastic Left Heart Syndrome, Coarctation of the Aorta)",
+      "Small isolated ventricular septal defect",
+      "Patent ductus arteriosus",
+      "Pulmonic stenosis"
+    ],
+    "correct": 0,
+    "explanation": "Left-sided cardiac obstructive lesions (such as hypoplastic left heart syndrome, aortic coarctation, and severe aortic stenosis) carry a higher familial recurrence risk (up to 8–12%) compared to simple septal defects."
+  },
+  {
+    "question": "A 27-year-old G1P0 at 10 weeks gestation presents with severe nausea, hyperemesis, and a 6 kg weight loss. TSH is undetectable (<0.01 mIU/L) and FT4 is mildly elevated. TSH receptor antibody (TRAb) test is negative. What is the standard management of Gestational Transient Thyrotoxicosis (GTT)?",
+    "options": [
+      "Supportive care with IV rehydration, antiemetics, and electrolyte correction; antithyroid drugs are NOT indicated",
+      "High-dose Methimazole for 6 months",
+      "Subtotal thyroidectomy in the second trimester",
+      "Lifelong Levothyroxine replacement"
+    ],
+    "correct": 0,
+    "explanation": "Gestational Transient Thyrotoxicosis (GTT) is self-limiting and caused by hCG stimulation. Management is supportive (fluid replacement and antiemetics). Antithyroid drugs (PTU/MMI) are not indicated because there is no autonomous thyroid synthesis."
+  },
+  {
+    "question": "Which mechanism explains why pregnant patients with peripartum cardiomyopathy (PPCM) are at particularly high risk for thromboembolic events (e.g., deep vein thrombosis, pulmonary embolism, stroke)?",
+    "options": [
+      "Synergistic combination of pregnancy-induced hypercoagulability and profound ventricular stasis from reduced ejection fraction",
+      "High circulating levels of thyroxine accelerating clot formation",
+      "Direct inactivation of Protein C and Protein S by placental lactogen",
+      "Hypertension-induced endothelial cell denudation in all peripheral veins"
+    ],
+    "correct": 0,
+    "explanation": "PPCM combines the baseline hypercoagulable state of pregnancy (elevated clotting factors) with severe left ventricular dysfunction and stasis of blood within dilated cardiac chambers, dramatically elevating thromboembolic risk."
+  },
+  {
+    "question": "A 30-year-old G2P1 at 36 weeks gestation with known mechanical prosthetic heart valve presents in active labor. At what time point prior to planned neuraxial anesthesia (epidural) should therapeutic Low-Molecular-Weight Heparin (LMWH) be held to reduce spinal hematoma risk?",
+    "options": [
+      "At least 24 hours prior to neuraxial block placement",
+      "2 hours prior to block placement",
+      "6 hours prior to block placement",
+      "LMWH does not need to be held"
+    ],
+    "correct": 0,
+    "explanation": "Guidelines recommend holding therapeutic-dose LMWH for at least 24 hours prior to neuraxial catheter insertion or removal to minimize the risk of spinal/epidural hematoma and permanent neurological injury."
+  },
+  {
+    "question": "Which classic physical sign on thyroid examination is pathognomonic for toxic multinodular goiter or solitary toxic adenoma rather than Graves' disease?",
+    "options": [
+      "Presence of discrete palpable nodule(s) with suppressed uptake in non-nodular tissue on scan, without infiltrating orbitopathy",
+      "Diffuse uniform painless goiter with continuous vascular bruit",
+      "Bilateral proptosis and pretibial myxedema",
+      "Positive thyroid-stimulating immunoglobulins (TSI)"
+    ],
+    "correct": 0,
+    "explanation": "Toxic multinodular goiter presents with discrete nodular enlargement on exam without the extrathyroidal autoimmune manifestations of Graves' disease (such as exophthalmos or pretibial myxedema)."
+  },
+  {
+    "question": "A 33-year-old G1P0 at 30 weeks gestation with severe preeclampsia develops sudden central retrosternal chest pain and dyspnea. Troponin I is elevated. Echocardiogram shows stress-induced transient left ventricular apical ballooning with basal hyperkinesis. What is the diagnosis?",
+    "options": [
+      "Takotsubo Cardiomyopathy (Stress-Induced Cardiomyopathy)",
+      "Acute Pericarditis",
+      "Peripartum Cardiomyopathy",
+      "Rheumatic Mitral Stenosis"
+    ],
+    "correct": 0,
+    "explanation": "Takotsubo Cardiomyopathy is triggered by intense physical or emotional stress (catecholamine surge), causing classic apical ballooning and transient systolic dysfunction without obstructive coronary artery disease."
+  },
+  {
+    "question": "What is the recommended timing for adjusting Levothyroxine dosing in a patient with pre-existing primary hypothyroidism who discovers she is pregnant?",
+    "options": [
+      "Empirically increase the Levothyroxine dose by 25–30% (e.g., taking two extra doses per week) as soon as pregnancy is confirmed",
+      "Wait until the second trimester ultrasound before changing the dose",
+      "Decrease the dose by 50% to prevent fetal hyperthyroidism",
+      "Discontinue Levothyroxine completely until delivery"
+    ],
+    "correct": 0,
+    "explanation": "Because maternal T4 demand increases early in the first trimester, women with known hypothyroidism should empirically increase their dosage by 25–30% (often accomplished by taking 2 additional daily doses per week) upon a positive pregnancy test, followed by immediate serum TSH testing."
+  },
+  {
+    "question": "Which antiarrhythmic agent used for maternal SVT management can cause fetal hypothyroidism and goiter if used long-term during pregnancy due to its high iodine content?",
+    "options": [
+      "Amiodarone",
+      "Adenosine",
+      "Metoprolol",
+      "Digoxin"
+    ],
+    "correct": 0,
+    "explanation": "Amiodarone is rich in iodine (~37% by weight) and readily crosses the placenta. Prolonged maternal use can lead to fetal hypothyroidism, goiter, and neurodevelopmental delays; thus, it is reserved for refractory maternal arrhythmias."
+  },
+  {
+    "question": "A 28-year-old G1P0 at 22 weeks gestation presents with a large solid thyroid nodule measuring 2.8 cm. FNA biopsy confirms Papillary Thyroid Carcinoma. She expresses deep anxiety about waiting until delivery. If surgical resection MUST be performed during pregnancy, what is the safest gestational window for surgery?",
+    "options": [
+      "Second trimester (between 14 and 24 weeks gestation)",
+      "First trimester (between 4 and 8 weeks gestation)",
+      "Third trimester (between 32 and 36 weeks gestation)",
+      "During active labor"
+    ],
+    "correct": 0,
+    "explanation": "If thyroid surgery is required during pregnancy (e.g., rapidly growing malignant nodule), the second trimester is the safest window because organogenesis is complete and the risk of triggering spontaneous abortion or preterm labor is lowest."
+  },
+  {
+    "question": "Which maternal structural heart defect carries a risk of paradoxical embolization (venous thrombus passing into systemic arterial circulation and causing stroke)?",
+    "options": [
+      "Patent Foramen Ovale (PFO) or Atrial Septal Defect (ASD)",
+      "Severe Aortic Stenosis",
+      "Coarctation of the Aorta",
+      "Mitral Valve Prolapse"
+    ],
+    "correct": 0,
+    "explanation": "A right-to-left shunt or transient pressure reversal across an Atrial Septal Defect (ASD) or Patent Foramen Ovale (PFO) allows deep venous thrombi to bypass the pulmonary filter and enter the systemic circulation, leading to embolic stroke."
+  },
+  {
+    "question": "What is the primary rationale for administering antenatal corticosteroids (e.g., Betamethasone) to a pregnant patient at 30 weeks gestation who has uncontrolled hyperthyroidism and is at high risk for preterm delivery?",
+    "options": [
+      "Promotes fetal pulmonary surfactant synthesis and speeds up lung maturity to reduce Neonatal Respiratory Distress Syndrome (RDS)",
+      "Treats maternal Graves' ophthalmopathy directly",
+      "Permanently cures fetal hyperthyroidism",
+      "Inhibits maternal hepatic clearance of antithyroid medications"
+    ],
+    "correct": 0,
+    "explanation": "Antenatal corticosteroids accelerate type II pneumocyte maturation and surfactant production in the fetal lungs, significantly reducing risks of RDS, intraventricular hemorrhage, and mortality in preterm neonates."
+  },
+  {
+    "question": "A 26-year-old G1P0 at 38 weeks gestation with severe preeclampsia is treated with IV Hydralazine. What is the primary mechanism of action of Hydralazine?",
+    "options": [
+      "Direct relaxation of vascular smooth muscle, primarily arteriolar vasodilation, reducing SVR",
+      "Central alpha-2 receptor agonist activity in the brainstem",
+      "Selective blockade of peripheral beta-1 adrenergic receptors",
+      "Inhibition of voltage-gated cardiac sodium channels"
+    ],
+    "correct": 0,
+    "explanation": "Hydralazine acts as a direct-acting arterial vasodilator, relaxing vascular smooth muscle to decrease systemic vascular resistance (afterload) and lower elevated blood pressure rapidly."
+  },
+  {
+    "question": "In a patient presenting with acute Thyroid Storm during pregnancy, why is an Iodine solution (e.g., Lugol's iodine or SSKI) administered AFTER starting antithyroid drugs (PTU/MMI) rather than before?",
+    "options": [
+      "To prevent the iodine from serving as a substrate for new thyroid hormone synthesis (Wolff-Chaikoff effect enhancement without hormone organification spike)",
+      "Because iodine destroys antithyroid drug molecules in the stomach",
+      "To prevent immediate maternal anaphylaxis",
+      "Because iodine lowers blood glucose levels"
+    ],
+    "correct": 0,
+    "explanation": "Iodine must be given at least 1 hour AFTER thionamide (PTU/MMI) administration. If given first, the iodine can be utilized by the uninhibited thyroid peroxidase enzyme to synthesize and store *more* thyroid hormone, worsening thyrotoxicosis."
+  },
+  {
+    "question": "A 32-year-old G2P1 at 35 weeks gestation presents with acute dyspnea and blood pressure of 175/115 mmHg. Chest X-ray reveals Kerley B lines and pulmonary venous congestion. Which IV antihypertensive agent provides combined alpha- and beta-blockade for rapid control of severe hypertension?",
+    "options": [
+      "IV Labetalol",
+      "IV Methyldopa",
+      "Oral Nifedipine extended-release",
+      "IV Nitroglycerin"
+    ],
+    "correct": 0,
+    "explanation": "Intravenous Labetalol is a combined competitive selective alpha-1 and non-selective beta-adrenergic receptor blocker, rapidly decreasing systemic vascular resistance while preventing reflex tachycardia."
+  },
+  {
+    "question": "Which complication is most closely associated with maternal subclinical hypothyroidism that remains unmanaged throughout the first trimester?",
+    "options": [
+      "Increased risk of early pregnancy loss (miscarriage) and gestational hypertension",
+      "Fetal macrosomia and polyhydramnios",
+      "Increased incidence of congenital cleft palate",
+      "Neonatal hypercalcemia"
+    ],
+    "correct": 0,
+    "explanation": "Subclinical hypothyroidism in early pregnancy is associated with elevated risks of early spontaneous miscarriage, gestational hypertension, preeclampsia, and low birth weight."
+  },
+  {
+    "question": "A 29-year-old G1P0 at 32 weeks gestation with known Marfan syndrome has an aortic root diameter of 3.8 cm (under 4.0 cm). What is the first-line medical therapy maintained throughout pregnancy to reduce aortic shear stress?",
+    "options": [
+      "Beta-blockers (e.g., Metoprolol or Propranolol)",
+      "ACE Inhibitors (e.g., Enalapril)",
+      "Thiazide diuretics",
+      "Exogenous estrogen supplementation"
+    ],
+    "correct": 0,
+    "explanation": "Beta-blockers reduce heart rate and the rate of left ventricular pressure rise (dp/dt), directly decreasing aortic wall shear stress and lowering the risk of aortic dissection in patients with Marfan syndrome."
+  },
+  {
+    "question": "Which post-delivery thyroid disorder is characterized by destruction-induced thyrotoxicosis followed by hypothyroidism within the first year after giving birth, with positive Anti-TPO antibodies?",
+    "options": [
+      "Postpartum Thyroiditis",
+      "Subacute Granulomatous Thyroiditis",
+      "Riedel Thyroiditis",
+      "Graves' Disease"
+    ],
+    "correct": 0,
+    "explanation": "Postpartum Thyroiditis is an autoimmune, destructive thyroiditis affecting up to 10% of postpartum women, classically presenting with early transient hyperthyroidism followed by transient hypothyroidism."
+  },
+  {
+    "question": "What is the key effect of pregnancy-induced hypervolemia on a patient with pre-existing Aortic Regurgitation?",
+    "options": [
+      "Decreased systemic vascular resistance (SVR) and mild physiological tachycardia reduce backward regurgitant flow, making AR relatively well tolerated",
+      "Increased SVR worsens regurgitant volume and causes acute heart failure in early 1st trimester",
+      "AR leads to immediate aortic root rupture in 80% of pregnancies",
+      "Regurgitant lesions require emergency valve replacement at 12 weeks"
+    ],
+    "correct": 0,
+    "explanation": "Aortic regurgitation is generally well tolerated during pregnancy because the physiological reduction in SVR lowers afterload (promoting forward cardiac flow) and physiological tachycardia shortens diastole (reducing regurgitation duration)."
+  },
+  {
+    "question": "A 35-year-old woman at 14 weeks gestation presents for her first visit. She has a history of radioactive iodine ablation for Graves' disease 3 years ago and is currently taking Levothyroxine. Why should TSH receptor antibody (TRAb) levels still be measured in the third trimester?",
+    "options": [
+      "TRAb antibodies remain in maternal serum after ablation and can cross the placenta, causing fetal/neonatal hyperthyroidism even if the mother is euthyroid",
+      "To determine if radioactive iodine is still present in her blood",
+      "To adjust her insulin requirement",
+      "TRAb antibodies cause maternal liver failure"
+    ],
+    "correct": 0,
+    "explanation": "Radioactive iodine ablates the thyroid gland but does not eliminate circulating autoantibodies. Circulating IgG TRAb antibodies can cross the placenta near term, directly stimulating the fetal thyroid gland regardless of maternal thyroid hormone levels."
+  },
+  {
+    "question": "Which physical exam finding during labor suggests early cardiac decompensation in a patient with underlying valvular heart disease?",
+    "options": [
+      "Persistent persistent basal pulmonary rales/crackles that do not clear with coughing, along with progressive dyspnea",
+      "Mild pedal edema in the lower extremities",
+      "Systolic ejection murmur Grade II/VI",
+      "Mild resting heart rate increase of 10 bpm"
+    ],
+    "correct": 0,
+    "explanation": "Bibasilar lung crackles that persist after coughing, accompanied by tachypnea, orthopnea, or a progressive cough, indicate left-sided heart failure and acute pulmonary venous congestion."
+  },
+  {
+    "question": "A 30-year-old woman G1P0 at 38 weeks gestation with a history of Peripartum Cardiomyopathy in this pregnancy delivers a healthy infant. She asks about the safety of future pregnancies. What is the most critical prognostic factor predicting high risk of recurrence and mortality in a subsequent pregnancy?",
+    "options": [
+      "Failure of left ventricular ejection fraction (EF) to fully normalize prior to the next conception",
+      "Maternal age over 30 years",
+      "Infant birth weight",
+      "Multiparity"
+    ],
+    "correct": 0,
+    "explanation": "If left ventricular systolic function (EF) does not fully normalize following peripartum cardiomyopathy, subsequent pregnancy carries a very high risk (~30–50%) of severe recurrent heart failure, cardiac deterioration, and death."
   }
 ]
 
-  
-    
+
+
+
+
+
+
 
