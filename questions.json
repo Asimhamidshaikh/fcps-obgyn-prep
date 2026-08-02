@@ -1,1311 +1,1305 @@
-// Part 1: Questions 1 to 25 (Section 4 - Chapters 4.1 & 4.2)
-const section4Part1Questions = [
+[
   {
-    id: 1,
-    section: "4.1 Fetal Compromise in the Second Stage",
-    question: "Which cardiotocograph (CTG) pattern in the second stage of labour is most indicative of acute fetal hypoxia requiring immediate delivery?",
-    options: [
-      "A. Early decelerations with normal baseline variability",
-      "B. Sustained fetal bradycardia lasting longer than 3 minutes",
-      "C. Variable decelerations with rapid return to baseline",
-      "D. Mild baseline tachycardia (155 bpm) with moderate variability"
+    "id": 1,
+    "section": "4.1 Malpresentations and Malpositions",
+    "question": "What is the most common fetal malposition encountered during labor?",
+    "options": [
+      "A. Occiput Posterior (OP)",
+      "B. Occiput Transverse (OT)",
+      "C. Mentum Anterior",
+      "D. Sacrum Anterior"
     ],
-    answer: "B",
-    explanation: "Sustained fetal bradycardia (>3 minutes) during the second stage indicates severe acute asphyxial risk requiring immediate operative delivery or intervention."
+    "answer": "A",
+    "explanation": "Occiput posterior (OP) is the most common fetal position anomaly encountered at the onset of labor."
   },
   {
-    id: 2,
-    section: "4.1 Fetal Compromise in the Second Stage",
-    question: "What is the recommended threshold for fetal scalp blood sampling (FBS) pH that indicates clear fetal acidemia requiring prompt delivery?",
-    options: [
-      "A. pH > 7.35",
-      "B. pH 7.25 - 7.30",
-      "C. pH 7.21 - 7.24",
-      "D. pH <= 7.20"
+    "id": 2,
+    "section": "4.1 Malpresentations and Malpositions",
+    "question": "Which diameter of the fetal head presents in a persistent Occiput Posterior position?",
+    "options": [
+      "A. Suboccipitobregmatic (9.5 cm)",
+      "B. Occipitofrontal (11.5 cm)",
+      "C. Submentobregmatic (9.5 cm)",
+      "D. Vertico-mental (13.5 cm)"
     ],
-    answer: "D",
-    explanation: "An FBS pH of 7.20 or less reflects significant fetal acidemia necessitating urgent delivery."
+    "answer": "B",
+    "explanation": "In persistent OP position, deflection occurs resulting in the larger occipitofrontal diameter (11.5 cm) presenting to the pelvis."
   },
   {
-    id: 3,
-    section: "4.1 Fetal Compromise in the Second Stage",
-    question: "When evaluating fetal lactate levels during intrapartum monitoring, which value typically signifies pathological fetal hypoxia?",
-    options: [
-      "A. > 4.8 mmol/L",
-      "B. < 2.0 mmol/L",
-      "C. 3.0 to 4.1 mmol/L",
-      "D. 2.2 to 2.8 mmol/L"
+    "id": 3,
+    "section": "4.1 Malpresentations and Malpositions",
+    "question": "What is the incidence of frank breech presentation at term (37+ weeks)?",
+    "options": [
+      "A. 1-2%",
+      "B. 3-4%",
+      "C. 8-10%",
+      "D. 12-15%"
     ],
-    answer: "A",
-    explanation: "Fetal scalp blood lactate levels exceeding 4.8 mmol/L indicate fetal acidosis."
+    "answer": "B",
+    "explanation": "At term, breech presentation occurs in approximately 3% to 4% of singleton pregnancies."
   },
   {
-    id: 4,
-    section: "4.1 Fetal Compromise in the Second Stage",
-    question: "Which action is first-line in intrauterine resuscitation when significant fetal heart rate decelerations occur during active pushing?",
-    options: [
-      "A. Administer high-dose oxytocin",
-      "B. Request immediate general anesthesia",
-      "C. Pause maternal pushing and reposition the mother to the left lateral position",
-      "D. Perform an emergency amniotomy"
+    "id": 4,
+    "section": "4.1 Malpresentations and Malpositions",
+    "question": "According to RCOG guidelines, what is the success rate of External Cephalic Version (ECV)?",
+    "options": [
+      "A. 30%",
+      "B. 50%",
+      "C. 70%",
+      "D. 85%"
     ],
-    answer: "C",
-    explanation: "Maternal repositioning (left lateral) relieves vena caval compression and improves uteroplacental perfusion."
+    "answer": "B",
+    "explanation": "The average success rate for ECV in unselected nulliparous and multiparous women combined is approximately 50%."
   },
   {
-    id: 5,
-    section: "4.1 Fetal Compromise in the Second Stage",
-    question: "What impact does excessive maternal pushing without adequate rest between contractions have on fetal oxygenation?",
-    options: [
-      "A. Enhances placental perfusion due to increased abdominal pressure",
-      "B. Reduces intervillous blood flow, aggravating fetal acidosis",
-      "C. Has no impact on umbilical cord blood gas parameters",
-      "D. Increases fetal base excess significantly"
+    "id": 5,
+    "section": "4.1 Malpresentations and Malpositions",
+    "question": "At what gestational age should External Cephalic Version (ECV) be offered to a nulliparous woman with an uncomplicated breech?",
+    "options": [
+      "A. 34 weeks",
+      "B. 36 weeks",
+      "C. 37 weeks",
+      "D. 39 weeks"
     ],
-    answer: "B",
-    explanation: "Prolonged active Valsalva pushing impairs intervillous blood flow, reducing fetal oxygen supply."
+    "answer": "C",
+    "explanation": "RCOG recommends offering ECV from 37 weeks in nulliparous women (and from 36 weeks in multiparous women)."
   },
   {
-    id: 6,
-    section: "4.1 Fetal Compromise in the Second Stage",
-    question: "A pathological CTG during the second stage is defined by which of the following combined features?",
-    options: [
-      "A. Accelerations present with contractions and normal baseline variability",
-      "B. Baseline rate 120 bpm with moderate variability and no decelerations",
-      "C. Absent variability with recurrent late or prolonged decelerations",
-      "D. Transient early decelerations corresponding exactly with contractions"
+    "id": 6,
+    "section": "4.1 Malpresentations and Malpositions",
+    "question": "Which of the following is an absolute contraindication to External Cephalic Version (ECV)?",
+    "options": [
+      "A. Maternal age > 40",
+      "B. Previous one lower segment Caesarean section",
+      "C. Antepartum hemorrhage within the last 7 days",
+      "D. Mild fetal growth restriction"
     ],
-    answer: "C",
-    explanation: "Absent/reduced baseline variability combined with recurrent late or prolonged decelerations marks a pathological CTG."
+    "answer": "C",
+    "explanation": "Recent antepartum hemorrhage, ruptured membranes, placenta previa, or severe fetal compromise are absolute contraindications to ECV."
   },
   {
-    id: 7,
-    section: "4.1 Fetal Compromise in the Second Stage",
-    question: "What is the primary physiological cause of variable decelerations during pushing in the second stage of labour?",
-    options: [
-      "A. Compression of the maternal aorta",
-      "B. Umbilical cord compression",
-      "C. Fetal head compression causing vagal response",
-      "D. Uterine rupture"
+    "id": 7,
+    "section": "4.1 Malpresentations and Malpositions",
+    "question": "What medication is recommended as a first-line tocolytic agent to improve ECV success rates?",
+    "options": [
+      "A. Sublingual Nitroglycerin",
+      "B. Subcutaneous Terbutaline",
+      "C. Oral Nifedipine",
+      "D. IV Magnesium Sulfate"
     ],
-    answer: "B",
-    explanation: "Variable decelerations stem from umbilical cord compression during fetal descent."
+    "answer": "B",
+    "explanation": "Subcutaneous beta-agonists (such as terbutaline) significantly increase ECV success rates and are standard practice."
   },
   {
-    id: 8,
-    section: "4.1 Fetal Compromise in the Second Stage",
-    question: "How long can the active second stage usually be safely observed in a nulliparous woman with an epidural, provided fetal heart monitoring remains normal?",
-    options: [
-      "A. 1 hour",
-      "B. 3 hours",
-      "C. 5 hours",
-      "D. 30 minutes"
+    "id": 8,
+    "section": "4.1 Malpresentations and Malpositions",
+    "question": "In a face presentation, vaginal delivery is only possible if the fetal position is:",
+    "options": [
+      "A. Mentum Posterior",
+      "B. Mentum Anterior",
+      "C. Mentum Transverse",
+      "D. Sacrum Anterior"
     ],
-    answer: "B",
-    explanation: "Standard guidelines allow up to 3 hours of active second stage in nulliparous women with regional analgesia if CTG is reassuring."
+    "answer": "B",
+    "explanation": "Vaginal delivery in face presentation is impossible in persistent mentum posterior because the fetal neck cannot hyperextend further; mentum anterior allows delivery via flexion."
   },
   {
-    id: 9,
-    section: "4.1 Fetal Compromise in the Second Stage",
-    question: "Which pharmacological agent is indicated for acute uterine hyperstimulation causing intrapartum fetal distress?",
-    options: [
-      "A. Syntocinon",
-      "B. Terbutaline",
-      "C. Ergometrine",
-      "D. Carboprost"
+    "id": 9,
+    "section": "4.1 Malpresentations and Malpositions",
+    "question": "What is the presenting diameter in a brow presentation?",
+    "options": [
+      "A. Suboccipitobregmatic",
+      "B. Submentobregmatic",
+      "C. Mentovertical (13.5 cm)",
+      "D. Suboccipitofrontal"
     ],
-    answer: "B",
-    explanation: "Subcutaneous or intravenous Terbutaline (a beta-mimetic) acts as a tocolytic to relax the uterus during hyperstimulation."
+    "answer": "C",
+    "explanation": "Brow presentation features the mentovertical diameter (13.5 cm), which is the largest presenting diameter of the fetal head."
   },
   {
-    id: 10,
-    section: "4.1 Fetal Compromise in the Second Stage",
-    question: "When performing an Operative Vaginal Delivery (OVD) for fetal distress in the second stage, what prerequisite must be confirmed?",
-    options: [
-      "A. Cervix fully dilated and head engaged at station +2 or lower",
-      "B. Membranes intact to cushion the fetal skull",
-      "C. Cervix 8 cm dilated with vertex at station 0",
-      "D. Fetal lie transverse"
+    "id": 10,
+    "section": "4.1 Malpresentations and Malpositions",
+    "question": "Which maneuver is used to assist delivery of the extended fetal arms in a assisted breech vaginal delivery?",
+    "options": [
+      "A. Mauriceau-Smellie-Veit maneuver",
+      "B. Lovset maneuver",
+      "C. McRoberts maneuver",
+      "D. Burns-Marshall maneuver"
     ],
-    answer: "A",
-    explanation: "Full cervical dilation and an engaged fetal head are mandatory preconditions for safe OVD."
+    "answer": "B",
+    "explanation": "Lovset maneuver involves rotation of the fetal body to deliver extended arms during a breech delivery."
   },
   {
-    id: 11,
-    section: "4.1 Fetal Compromise in the Second Stage",
-    question: "Fetal scalp blood sampling is contraindicated in which of the following maternal conditions?",
-    options: [
-      "A. Maternal blood group O negative",
-      "B. Maternal infection with HIV or Hepatitis C",
-      "C. Maternal gestational diabetes",
-      "D. Previous caesarean section delivery"
+    "id": 11,
+    "section": "4.1 Malpresentations and Malpositions",
+    "question": "The Mauriceau-Smellie-Veit maneuver is designed to deliver which part of the fetus during a breech birth?",
+    "options": [
+      "A. The shoulders",
+      "B. The extended legs",
+      "C. The aftercoming fetal head",
+      "D. The posterior arm"
     ],
-    answer: "B",
-    explanation: "FBS is contraindicated in maternal blood-borne viral infections (HIV, HBV, HCV) due to the risk of vertical transmission."
+    "answer": "C",
+    "explanation": "The Mauriceau-Smellie-Veit technique maintains flexion of the aftercoming head during breech delivery."
   },
   {
-    id: 12,
-    section: "4.1 Fetal Compromise in the Second Stage",
-    question: "A baseline fetal tachycardia is defined as a persistent baseline fetal heart rate greater than:",
-    options: [
-      "A. 140 bpm",
-      "B. 150 bpm",
-      "C. 160 bpm",
-      "D. 180 bpm"
+    "id": 12,
+    "section": "4.1 Malpresentations and Malpositions",
+    "question": "What is the primary risk factor associated with transverse lie in a multiparous woman at term?",
+    "options": [
+      "A. Cord prolapse and uterine rupture",
+      "B. Shoulder dystocia",
+      "C. Postpartum urinary retention",
+      "D. Fetal hyperbilirubinemia"
     ],
-    answer: "C",
-    explanation: "Baseline tachycardia is defined as a baseline heart rate > 160 bpm."
+    "answer": "A",
+    "explanation": "Transverse lie carries a high risk of cord prolapse upon membrane rupture and uterine rupture if labor progresses unmanaged."
   },
   {
-    id: 13,
-    section: "4.1 Fetal Compromise in the Second Stage",
-    question: "What is the clinical significance of a 'sinusoidal' CTG pattern during the second stage?",
-    options: [
-      "A. Fetal sleep state",
-      "B. Severe fetal anemia or hypoxia requiring urgent intervention",
-      "C. Reassuring fetal central nervous system response",
-      "D. Normal response to epidural administration"
+    "id": 13,
+    "section": "4.1 Malpresentations and Malpositions",
+    "question": "Which condition is classified as a complete breech presentation?",
+    "options": [
+      "A. Thighs flexed, knees extended",
+      "B. Thighs flexed, knees flexed",
+      "C. One or both feet presenting below the buttocks",
+      "D. Knees extended, legs crossed"
     ],
-    answer: "B",
-    explanation: "A sinusoidal pattern indicates critical fetal compromise, often associated with severe fetal anemia or terminal hypoxia."
+    "answer": "B",
+    "explanation": "In complete breech, both the fetal hips and knees are flexed."
   },
   {
-    id: 14,
-    section: "4.2 Shoulder Dystocia",
-    question: "What is the primary anatomical definition of shoulder dystocia?",
-    options: [
-      "A. Failure of the fetal head to engage in the pelvic brim",
-      "B. Inability to deliver the anterior fetal shoulder with gentle traction due to impact against the pubic symphysis",
-      "C. Entrapment of the posterior shoulder on the sacral promontory alone",
-      "D. Delayed delivery of the placenta past 30 minutes"
+    "id": 14,
+    "section": "4.1 Malpresentations and Malpositions",
+    "question": "What is the recommended mode of delivery for an unstable lie at 38 weeks in a primigravida?",
+    "options": [
+      "A. Induction of labor with Oxytocin",
+      "B. Elective Caesarean Section",
+      "C. External Cephalic Version followed immediately by ARM and syntocinon",
+      "D. Expectant management until 41 weeks"
     ],
-    answer: "B",
-    explanation: "Shoulder dystocia occurs when the anterior shoulder becomes impacted behind the maternal symphysis pubis."
+    "answer": "B",
+    "explanation": "Persistent unstable lie at term in a primigravida requires elective Caesarean delivery due to high cord prolapse risk."
   },
   {
-    id: 15,
-    section: "4.2 Shoulder Dystocia",
-    question: "Which classical clinical sign indicates the immediate presence of shoulder dystocia following head delivery?",
-    options: [
-      "A. Spalding's sign",
-      "B. Turtle sign (retraction of the fetal head against the perineum)",
-      "C. Hegar's sign",
-      "D. Chadwick's sign"
+    "id": 15,
+    "section": "4.1 Malpresentations and Malpositions",
+    "question": "Which underlying condition is most strongly associated with persistent transverse lie?",
+    "options": [
+      "A. Placenta Previa",
+      "B. Fetal renal agenesis",
+      "C. Gestational diabetes",
+      "D. Preeclampsia"
     ],
-    answer: "B",
-    explanation: "The 'turtle sign' (recoiling of the delivered fetal chin back against the perineum) is the classic diagnostic indicator."
+    "answer": "A",
+    "explanation": "Placenta previa prevents the fetal head from engaging in the lower uterine segment, frequently leading to transverse or oblique lie."
   },
   {
-    id: 16,
-    section: "4.2 Shoulder Dystocia",
-    question: "What is the very first step in managing a diagnosed case of shoulder dystocia?",
-    options: [
-      "A. Apply strong downward traction on the fetal head",
-      "B. Call for immediate help (obstetrician, neonatal team, senior midwife) and stop maternal pushing",
-      "C. Perform a Zavanelli maneuver immediately",
-      "D. Deliver the posterior arm right away"
+    "id": 16,
+    "section": "4.1 Malpresentations and Malpositions",
+    "question": "In compound presentation, what is the most common combination of fetal parts?",
+    "options": [
+      "A. Head and foot",
+      "B. Head and hand/arm",
+      "C. Breech and cord",
+      "D. Face and foot"
     ],
-    answer: "B",
-    explanation: "Calling for senior emergency assistance and instructing the mother to stop pushing are the initial steps."
+    "answer": "B",
+    "explanation": "Compound presentation most frequently involves a hand or arm prolapsed alongside the fetal head."
   },
   {
-    id: 17,
-    section: "4.2 Shoulder Dystocia",
-    question: "Which initial physical maneuver has the highest success rate in resolving shoulder dystocia?",
-    options: [
-      "A. Rubin II maneuver",
-      "B. McRoberts maneuver",
-      "C. Cleidotomy",
-      "D. Symphysiotomy"
+    "id": 17,
+    "section": "4.1 Malpresentations and Malpositions",
+    "question": "What is the principal danger of performing traction on the fetal trunk before full cervical dilation during breech delivery?",
+    "options": [
+      "A. Cervical laceration only",
+      "B. Head entrapment by an incompletely dilated cervix",
+      "C. Uterine inversion",
+      "D. Placental abruption"
     ],
-    answer: "B",
-    explanation: "The McRoberts maneuver (hyperflexing maternal hips) resolves up to 40-50% of shoulder dystocia cases when paired with suprapubic pressure."
+    "answer": "B",
+    "explanation": "Traction on the breech before full dilation can cause the body to slip through an incompletely dilated cervix while trapping the larger fetal head."
   },
   {
-    id: 18,
-    section: "4.2 Shoulder Dystocia",
-    question: "How does the McRoberts maneuver anatomically assist in releasing the impacted anterior shoulder?",
-    options: [
-      "A. Directly fracture the fetal clavicle to narrow shoulder width",
-      "B. Straightens the lumbosacral angle and rotates the symphysis pubis anteriorly",
-      "C. Expands the pelvic outlet diameter by 5 cm",
-      "D. Rotates the fetus 360 degrees inside the pelvis"
+    "id": 18,
+    "section": "4.1 Malpresentations and Malpositions",
+    "question": "Which landmark is used to describe fetal position in a breech presentation?",
+    "options": [
+      "A. Mentum",
+      "B. Sacrum",
+      "C. Frontal bone",
+      "D. Acromion"
     ],
-    answer: "B",
-    explanation: "McRoberts flattens the sacral curve and tilts the pelvis anteriorly relative to the lumbar spine."
+    "answer": "B",
+    "explanation": "The fetal sacrum is the denominator/landmark used to define position in breech presentations (e.g., Sacrum Anterior)."
   },
   {
-    id: 19,
-    section: "4.2 Shoulder Dystocia",
-    question: "Where should suprapubic pressure be applied during management of shoulder dystocia?",
-    options: [
-      "A. Directly over the uterine fundus in a downward direction",
-      "B. Over the posterior aspect of the anterior fetal shoulder in a posterolateral direction",
-      "C. Over the umbilical region laterally",
-      "D. Firmly on the sacral bone"
+    "id": 19,
+    "section": "4.1 Malpresentations and Malpositions",
+    "question": "What ultrasound finding at 36 weeks is an indicator to avoid ECV?",
+    "options": [
+      "A. Anterior placenta",
+      "B. Oligohydramnios (AFI < 5 cm)",
+      "C. Normal Doppler blood flow",
+      "D. Flexed fetal head"
     ],
-    answer: "B",
-    explanation: "Suprapubic pressure acts on the posterior aspect of the anterior shoulder to dislodge it from the pubic symphysis."
+    "answer": "B",
+    "explanation": "Severe oligohydramnios makes ECV technically difficult and unsafe due to lack of liquor cushion."
   },
   {
-    id: 20,
-    section: "4.2 Shoulder Dystocia",
-    question: "Which procedure is explicitly CONTRAINDICATED during shoulder dystocia management due to risk of uterine rupture and severe fetal injury?",
-    options: [
-      "A. Suprapubic pressure",
-      "B. Fundal pressure",
-      "C. Delivery of the posterior arm",
-      "D. Internal rotational maneuvers"
+    "id": 20,
+    "section": "4.1 Malpresentations and Malpositions",
+    "question": "During a planned vaginal breech delivery, what is the recommended management if progress stalls after delivery of the umbilicus?",
+    "options": [
+      "A. Wait up to 30 minutes for spontaneous contraction",
+      "B. Apply immediate fundal pressure",
+      "C. Perform specific breech maneuvers (Lovset / Mauriceau-Smellie-Veit)",
+      "D. Convert to emergency C-section immediately"
     ],
-    answer: "B",
-    explanation: "Fundal pressure increases the impact of the shoulder and is strongly contraindicated due to high risk of complications."
+    "answer": "C",
+    "explanation": "Once the umbilicus is delivered, cord compression occurs; maneuvers should be executed promptly if progress halts."
   },
   {
-    id: 21,
-    section: "4.2 Shoulder Dystocia",
-    question: "What does the Woods' Screw maneuver involve?",
-    options: [
-      "A. Flexing the maternal legs onto her abdomen",
-      "B. Applying downward pressure above the pubic bone",
-      "C. Rotating the posterior shoulder 180 degrees forward to dislodge the anterior shoulder",
-      "D. Pushing the fetal head back into the vagina"
+    "id": 21,
+    "section": "4.2 Shoulder Dystocia",
+    "question": "How is shoulder dystocia defined clinically?",
+    "options": [
+      "A. Delay of > 30 seconds between head and body delivery",
+      "B. Delivery requiring additional obstetric maneuvers when gentle downward traction fails",
+      "C. Inability to deliver the shoulders after 3 routine contractions",
+      "D. Fetal weight exceeding 4.5 kg"
     ],
-    answer: "C",
-    explanation: "Woods' Screw maneuver involves pressure on the anterior surface of the posterior shoulder to rotate it 180 degrees."
+    "answer": "B",
+    "explanation": "RCOG defines shoulder dystocia as a delivery requiring additional obstetric maneuvers to release the shoulders after gentle downward traction has failed."
   },
   {
-    id: 22,
-    section: "4.2 Shoulder Dystocia",
-    question: "What is the primary goal of performing the Rubin II maneuver?",
-    options: [
-      "A. Adduct the anterior shoulder girdle by pushing on the posterior surface of the anterior shoulder",
-      "B. Fracture the humerus intentionally",
-      "C. Flex the fetal legs at the knees",
-      "D. Place the patient on all-fours position"
+    "id": 22,
+    "section": "4.2 Shoulder Dystocia",
+    "question": "What is the primary anatomical cause of shoulder dystocia?",
+    "options": [
+      "A. Impaction of the anterior fetal shoulder behind the maternal pubic symphysis",
+      "B. Compression of the posterior shoulder against the sacral promontory",
+      "C. Flexion of both fetal shoulders across the chest",
+      "D. SpASM of the levator ani muscles"
     ],
-    answer: "A",
-    explanation: "Rubin II applies pressure to the posterior aspect of the anterior shoulder to adduct the shoulders and reduce bisacromial diameter."
+    "answer": "A",
+    "explanation": "Shoulder dystocia occurs when the anterior fetal shoulder impacts against the maternal symphysis pubis."
   },
   {
-    id: 23,
-    section: "4.2 Shoulder Dystocia",
-    question: "Which internal maneuver involves flexing the fetal forearm at the elbow and sweeping the arm across the chest to deliver it?",
-    options: [
+    "id": 23,
+    "section": "4.2 Shoulder Dystocia",
+    "question": "Which internal maneuver involves flexing the fetal forearm at the elbow to sweep it across the fetal chest?",
+    "options": [
       "A. McRoberts maneuver",
       "B. Delivery of the posterior arm",
       "C. Zavanelli maneuver",
       "D. Gaskin maneuver"
     ],
-    answer: "B",
-    explanation: "Sweeping the posterior forearm across the chest enables delivery of the posterior arm, freeing up space in the pelvis."
+    "answer": "B",
+    "explanation": "Sweeping the posterior forearm across the chest enables delivery of the posterior arm, freeing up pelvic space."
   },
   {
-    id: 24,
-    section: "4.2 Shoulder Dystocia",
-    question: "What is the Gaskin maneuver?",
-    options: [
+    "id": 24,
+    "section": "4.2 Shoulder Dystocia",
+    "question": "What is the Gaskin maneuver?",
+    "options": [
       "A. Placing the patient on her hands and knees ('all-fours' position)",
       "B. Pushing the head back into the pelvic cavity for emergency C-section",
       "C. Cutting the symphysis joint cartilage",
       "D. Applying vacuum extraction to the fetal shoulder"
     ],
-    answer: "A",
-    explanation: "The Gaskin maneuver moves the patient onto all fours, altering pelvic geometry to help release the shoulder."
+    "answer": "A",
+    "explanation": "The Gaskin maneuver moves the patient onto all fours, altering pelvic dimensions to dislodge the shoulder."
   },
   {
-    id: 25,
-    section: "4.2 Shoulder Dystocia",
-    question: "What does the Zavanelli maneuver entail as a last resort in unresolved shoulder dystocia?",
-    options: [
+    "id": 25,
+    "section": "4.2 Shoulder Dystocia",
+    "question": "What does the Zavanelli maneuver entail as a last resort in unresolved shoulder dystocia?",
+    "options": [
       "A. Surgical incision of the clavicle",
-      "B. Reversing the cardinal movements to cephalic replace the head back into the vagina followed by emergency Caesarean section",
+      "B. Reversing the cardinal movements to cephalic replace the head back into the vagina for C-section",
       "C. Surgical division of the pubic symphysis",
       "D. Manual traction with twin forceps"
     ],
-    answer: "B",
-    explanation: "The Zavanelli maneuver involves pushing the fetal head back into the birth canal for emergency C-section."
+    "answer": "B",
+    "explanation": "The Zavanelli maneuver involves pushing the fetal head back into the birth canal followed by immediate emergency C-section."
   },
-// Part 2: Questions 26 to 50 (Section 4 - Chapters 4.3 & 4.4)
-const section4Part2Questions = [
   {
-    id: 26,
-    section: "4.3 Instrumental Vaginal Delivery",
-    question: "What is the absolute prerequisite station of the fetal head prior to attempting a mid-cavity instrumental vaginal delivery?",
-    options: [
-      "A. Above the ischial spines (Station -1)",
-      "B. At or below the level of the ischial spines (Station 0 or lower)",
-      "C. High floating unengaged head",
-      "D. Station -2"
+    "id": 26,
+    "section": "4.3 Operative Vaginal Delivery",
+    "question": "Which prerequisite must be satisfied before attempting an operative vaginal delivery?",
+    "options": [
+      "A. Cervix 8 cm dilated",
+      "B. Fetal head at station -2",
+      "C. Cervix fully dilated, membranes ruptured, and head engaged",
+      "D. Intact amniotic sac"
     ],
-    answer: "B",
-    explanation: "For any instrumental vaginal delivery, the fetal head must be engaged—meaning the leading bony point is at or below the ischial spines (Station 0)."
+    "answer": "C",
+    "explanation": "Full cervical dilation, ruptured membranes, engaged head (station 0 or lower), and exact position knowledge are essential requirements."
   },
   {
-    id: 27,
-    section: "4.3 Instrumental Vaginal Delivery",
-    question: "Which type of forceps is specifically designed with a low rotational traction curve for delivering a fetus in an occiput posterior (OP) position?",
-    options: [
-      "A. Wrangham forceps",
-      "B. Kielland's forceps",
-      "C. Simpson's forceps",
-      "D. Neville-Barnes forceps"
+    "id": 27,
+    "section": "4.3 Operative Vaginal Delivery",
+    "question": "Which instrument carries a lower risk of maternal perineal trauma but a higher risk of cephalohematoma?",
+    "options": [
+      "A. Neville-Barnes forceps",
+      "B. Ventouse (vacuum extractor)",
+      "C. Kielland forceps",
+      "D. Wrigley forceps"
     ],
-    answer: "B",
-    explanation: "Kielland's forceps feature a sliding lock and minimal pelvic curve, making them the classic instrument for rotational operative vaginal delivery."
+    "answer": "B",
+    "explanation": "Ventouse reduces maternal soft tissue trauma compared to forceps, but increases risk of subgaleal hematoma and cephalohematoma."
   },
   {
-    id: 28,
-    section: "4.3 Instrumental Vaginal Delivery",
-    question: "Compared to vacuum extractor (ventouse) application, forceps delivery is associated with a higher rate of which maternal complication?",
-    options: [
-      "A. Cephalohematoma",
-      "B. Subgaleal hemorrhage",
-      "C. Third- and fourth-degree perineal tears",
-      "D. Scalp lacerations"
+    "id": 28,
+    "section": "4.3 Operative Vaginal Delivery",
+    "question": "Kielland forceps are specifically designed for which indication?",
+    "options": [
+      "A. Delivery of breech presentation",
+      "B. Rotational delivery for malpositioned fetal head (e.g., OT or OP)",
+      "C. Preterm infants under 32 weeks",
+      "D. Low station outlet extraction only"
     ],
-    answer: "C",
-    explanation: "Forceps deliveries carry a higher risk of severe obstetric anal sphincter injuries (OASIS—3rd and 4th degree tears) compared to vacuum extraction."
+    "answer": "B",
+    "explanation": "Kielland forceps have a minimal pelvic curve and sliding lock, making them uniquely suited for correcting malrotations."
   },
   {
-    id: 29,
-    section: "4.3 Instrumental Vaginal Delivery",
-    question: "Which fetal complication is more frequently linked with vacuum extractor (ventouse) application than with forceps application?",
-    options: [
-      "A. Facial nerve palsy",
-      "B. Cephalohematoma and subgaleal hematoma",
-      "C. Maternal rectal sheath hematoma",
-      "D. Skull fracture"
+    "id": 29,
+    "section": "4.3 Operative Vaginal Delivery",
+    "question": "What is the absolute maximum recommended duration for a ventouse application trial?",
+    "options": [
+      "A. 15 minutes",
+      "B. 30 minutes",
+      "C. 45 minutes",
+      "D. 60 minutes"
     ],
-    answer: "B",
-    explanation: "Vacuum extraction creates traction on the fetal scalp aponeurosis, carrying a higher risk of cephalohematoma and life-threatening subgaleal hemorrhage."
+    "answer": "A",
+    "explanation": "Ventouse procedures should not exceed 15 minutes to minimize severe fetal scalp injuries."
   },
   {
-    id: 30,
-    section: "4.3 Instrumental Vaginal Delivery",
-    question: "What is the correct location for positioning the vacuum cup on the fetal head to ensure maximum traction and flexion?",
-    options: [
-      "A. Directly over the anterior fontanelle",
-      "B. Over the flexion point (3 cm anterior to the posterior fontanelle along the sagittal suture)",
-      "C. Over the brow",
-      "D. Over the subocciput"
+    "id": 30,
+    "section": "4.3 Operative Vaginal Delivery",
+    "question": "A maximum of how many cup pop-offs is considered safe during a ventouse-assisted delivery before abandoning the procedure?",
+    "options": [
+      "A. 1",
+      "B. 2",
+      "C. 4",
+      "D. 5"
     ],
-    answer: "B",
-    explanation: "Placing the cup over the flexion point maintains optimal fetal head flexion during traction, reducing the diameter of the presenting part."
+    "answer": "B",
+    "explanation": "RCOG guidelines advise that if the ventouse cup dislodges ('pops off') 2 times, the trial should be abandoned."
   },
   {
-    id: 31,
-    section: "4.3 Instrumental Vaginal Delivery",
-    question: "At what point should an attempted vacuum extraction be abandoned due to high risk of fetal injury?",
-    options: [
-      "A. After 1 pop-off",
-      "B. After 3 pop-offs or no descent after 3 pulls",
-      "C. After 15 minutes of continuous traction",
-      "D. If the mother complains of pressure"
-    ],
-    answer: "B",
-    explanation: "Standard safety protocols state that vacuum extraction should be abandoned if the cup pops off 3 times or if there is no descent with 3 consecutive contractions."
-  },
-  {
-    id: 32,
-    section: "4.3 Instrumental Vaginal Delivery",
-    question: "Instrumental vaginal delivery is contraindicated in which of the following fetal conditions?",
-    options: [
-      "A. Fetal occiput anterior position",
-      "B. Suspected fetal osteogenesis imperfecta or bleeding disorders",
-      "C. Estimated fetal weight of 3.2 kg",
-      "D. Gestational age of 40 weeks"
-    ],
-    answer: "B",
-    explanation: "Fetal bone demineralization disorders (e.g., osteogenesis imperfecta) and fetal coagulopathies are strict contraindications for instrumental delivery."
-  },
-  {
-    id: 33,
-    section: "4.3 Instrumental Vaginal Delivery",
-    question: "Which soft vacuum cup is generally preferred for straight occiput anterior deliveries to reduce scalp trauma?",
-    options: [
-      "A. Rigid metal cup",
-      "B. Kiwi OmniCup / Silicone cup",
-      "C. Kielland forceps blade",
-      "D. Piper forceps"
-    ],
-    answer: "B",
-    explanation: "Silicone and soft cups (like the Kiwi system) cause less maternal and fetal tissue trauma during uncomplicated occiput anterior extractions."
-  },
-  {
-    id: 34,
-    section: "4.3 Instrumental Vaginal Delivery",
-    question: "Prior to applying forceps, what step must the operator take regarding the maternal bladder?",
-    options: [
-      "A. Fill the bladder with 500 mL saline",
-      "B. Ensure the maternal bladder is fully emptied",
-      "C. Administer intravesical antibiotics",
-      "D. Perform a cystoscopy"
-    ],
-    answer: "B",
-    explanation: "The bladder must be emptied (usually via catheterization) to avoid lower urinary tract trauma and provide maximum pelvic space."
-  },
-  {
-    id: 35,
-    section: "4.3 Instrumental Vaginal Delivery",
-    question: "What mnemonic is widely recommended for remembering the steps and safety checks before starting an operative vaginal delivery?",
-    options: [
-      "A. HELPERR",
-      "B. FORCEPS / ABCDEFGHI",
-      "C. APGAR",
-      "D. REEDA"
-    ],
-    answer: "B",
-    explanation: "Checklists like ABCDEFGHI (Address, Bladder, Cervix full, Determination of position, Equipment, Forewaters ruptured, Gentle traction, Handle, Incision/Episiotomy) guide safety."
-  },
-  {
-    id: 36,
-    section: "4.3 Instrumental Vaginal Delivery",
-    question: "What is the maximum recommended time limit from application of an instrument to completion of delivery?",
-    options: [
-      "A. 15 to 20 minutes",
-      "B. 45 minutes",
-      "C. 60 minutes",
-      "D. 5 minutes"
-    ],
-    answer: "A",
-    explanation: "Tractions should be completed within 15–20 minutes; prolonged instrumental attempts exponentially increase fetal morbidity."
-  },
-  {
-    id: 37,
-    section: "4.3 Instrumental Vaginal Delivery",
-    question: "In trial of instrumental delivery in the operating theatre, what is the immediate plan if delivery fails?",
-    options: [
-      "A. Switch to a different forceps brand",
-      "B. Perform immediate Caesarean section",
-      "C. Wait 30 minutes for further maternal pushing",
-      "D. Perform a symphysiotomy"
-    ],
-    answer: "B",
-    explanation: "A trial of instrumental delivery is conducted in the operating theater so that an immediate C-section can be performed if the attempt fails."
-  },
-  {
-    id: 38,
-    section: "4.4 Breech",
-    question: "What is the most common subtype of breech presentation at term?",
-    options: [
-      "A. Footling breech",
-      "B. Frank (extended) breech",
-      "C. Complete (flexed) breech",
-      "D. Knee presentation"
-    ],
-    answer: "B",
-    explanation: "Frank breech (hips flexed, knees extended) accounts for approximately 65–70% of breech presentations at term."
-  },
-  {
-    id: 39,
-    section: "4.4 Breech",
-    question: "At what gestational age is External Cephalic Version (ECV) typically offered to a nulliparous woman presenting with an uncomplicated breech?",
-    options: [
+    "id": 31,
+    "section": "4.3 Operative Vaginal Delivery",
+    "question": "Ventouse extraction is contraindicated in infants below what gestational age due to intracranial hemorrhage risk?",
+    "options": [
       "A. 32 weeks",
       "B. 34 weeks",
-      "C. 36 to 37 weeks",
-      "D. 41 weeks"
+      "C. 36 weeks",
+      "D. 37 weeks"
     ],
-    answer: "C",
-    explanation: "ECV is routinely offered from 36 weeks in nulliparous women (and 37 weeks in multiparous women) to reduce the likelihood of breech delivery."
+    "answer": "A",
+    "explanation": "Ventouse is contraindicated in pregnancies < 32 weeks gestation due to high risk of subgaleal and intraventricular hemorrhage."
   },
   {
-    id: 40,
-    section: "4.4 Breech",
-    question: "Which of the following is an absolute contraindication to attempting an External Cephalic Version (ECV)?",
-    options: [
-      "A. Maternal obesity",
-      "B. Antepartum hemorrhage within the last 7 days or placenta previa",
-      "C. Anterior placenta location",
-      "D. Multiparity"
+    "id": 32,
+    "section": "4.3 Operative Vaginal Delivery",
+    "question": "Which station defines a 'Low' forceps delivery?",
+    "options": [
+      "A. Fetal scalp visible at the introitus without separating labia",
+      "B. Fetal head leading point at station +2 cm or more, but not on pelvic floor",
+      "C. Fetal head at station 0",
+      "D. Head above ischial spines"
     ],
-    answer: "B",
-    explanation: "Recent antepartum hemorrhage, placenta previa, and compromised fetal status are absolute contraindications to ECV."
+    "answer": "B",
+    "explanation": "Low forceps delivery requires the leading point of the skull to be at station +2 cm or more, but not resting on the pelvic floor."
   },
   {
-    id: 41,
-    section: "4.4 Breech",
-    question: "During a vaginal breech delivery, what is the cardinal rule regarding traction on the fetal body prior to delivery of the shoulder girdle?",
-    options: [
-      "A. Apply continuous downward traction on the lower limbs",
-      "B. Never apply traction; allow hands-off spontaneous expulsion until the scapulae are visible",
-      "C. Pull firmly as soon as the feet emerge",
-      "D. Perform immediate version manually"
+    "id": 33,
+    "section": "4.3 Operative Vaginal Delivery",
+    "question": "Where should the center of the ventouse cup be placed relative to the fetal skull landmarks?",
+    "options": [
+      "A. Over the anterior fontanelle",
+      "B. Over the flexion point (3 cm anterior to the posterior fontanelle on the sagittal suture)",
+      "C. Directly on the occipital bone",
+      "D. 3 cm posterior to the anterior fontanelle"
     ],
-    answer: "B",
-    explanation: "Traction on the breech causes extension of the fetal arms and head; management must be 'hands off' until the trunk/scapulae deliver spontaneously."
+    "answer": "B",
+    "explanation": "Proper application over the flexion point maintains flexion and minimizes traction force needed."
   },
   {
-    id: 42,
-    section: "4.4 Breech",
-    question: "Which specific forceps are designed with a specialized curve to assist in the controlled delivery of the aftercoming fetal head in a breech delivery?",
-    options: [
+    "id": 34,
+    "section": "4.3 Operative Vaginal Delivery",
+    "question": "Which forcep type is specifically designed for delivery of the aftercoming head in breech presentation?",
+    "options": [
       "A. Piper forceps",
-      "B. Wrigley's forceps",
-      "C. Kielland's forceps",
-      "D. Neville-Barnes forceps"
+      "B. Simpson forceps",
+      "C. Wrigley forceps",
+      "D. Kielland forceps"
     ],
-    answer: "A",
-    explanation: "Piper forceps have a downward curved stem designed to fit around the fetal body to deliver the aftercoming head."
+    "answer": "A",
+    "explanation": "Piper forceps feature long curved blades and downward shank handles designed for the aftercoming head of a breech."
   },
   {
-    id: 43,
-    section: "4.4 Breech",
-    question: "What maneuver is used to deliver extended fetal arms during a vaginal breech delivery?",
-    options: [
-      "A. Lovset maneuver",
-      "B. McRoberts maneuver",
-      "C. Mauriceau-Smellie-Veit maneuver",
-      "D. Zavanelli maneuver"
+    "id": 35,
+    "section": "4.3 Operative Vaginal Delivery",
+    "question": "What is the most severe neonatal complication uniquely associated with vacuum extractor use?",
+    "options": [
+      "A. Facial nerve palsy",
+      "B. Subgaleal hematoma",
+      "C. Clavicular fracture",
+      "D. Erb's palsy"
     ],
-    answer: "A",
-    explanation: "The Lovset maneuver involves rotating the fetal body to bring the posterior arm anteriorly under the pubic arch to release extended arms."
+    "answer": "B",
+    "explanation": "Subgaleal hematoma is a life-threatening neonatal emergency where blood accumulates between the periosteum and epicranial aponeurosis."
   },
   {
-    id: 44,
-    section: "4.4 Breech",
-    question: "What is the primary function of the Mauriceau-Smellie-Veit (MSV) maneuver?",
-    options: [
-      "A. Release of the impacted anterior shoulder",
-      "B. Flexion and controlled delivery of the aftercoming fetal head",
-      "C. Conversion of footling breech to frank breech",
-      "D. Rotation of the fetal pelvis 180 degrees"
+    "id": 36,
+    "section": "4.3 Operative Vaginal Delivery",
+    "question": "Facial nerve palsy in the newborn is most commonly associated with which mode of delivery?",
+    "options": [
+      "A. Ventouse delivery",
+      "B. Forceps delivery",
+      "C. Spontaneous delivery",
+      "D. Elective C-section"
     ],
-    answer: "B",
-    explanation: "The MSV maneuver places fingers on the fetal maxilla/malar bones to maintain head flexion while exerting suprapubic traction for head delivery."
+    "answer": "B",
+    "explanation": "Compression of the facial nerve by a forceps blade as it exits the stylomastoid foramen can cause transient facial nerve palsy."
   },
   {
-    id: 45,
-    section: "4.4 Breech",
-    question: "Which drug is commonly administered to promote uterine relaxation during an External Cephalic Version (ECV)?",
-    options: [
-      "A. Oxytocin",
-      "B. Terbutaline (subcutaneous)",
-      "C. Ergometrine",
-      "D. Misoprostol"
+    "id": 37,
+    "section": "4.3 Operative Vaginal Delivery",
+    "question": "What is mandatory following any operative vaginal delivery to ensure patient safety?",
+    "options": [
+      "A. Immediate CT scan of the pelvis",
+      "B. Careful examination for lower genital tract lacerations and rectal examination to exclude OASIS",
+      "C. Manual removal of placenta in all cases",
+      "D. Administration of high-dose corticosteroids"
     ],
-    answer: "B",
-    explanation: "Subcutaneous Terbutaline (a beta-2 agonist) relaxes uterine smooth muscle to significantly boost ECV success rates."
+    "answer": "B",
+    "explanation": "Systematic examination for perineal/vaginal tears including digital rectal exam is required post-instrumental delivery."
   },
   {
-    id: 46,
-    section: "4.4 Breech",
-    question: "Why is a footling breech presentation generally considered unsafe for trial of vaginal delivery?",
-    options: [
-      "A. High risk of cord prolapse and incomplete cervical dilation leading to head entrapment",
-      "B. High incidence of maternal uterine rupture",
-      "C. Increased likelihood of shoulder dystocia",
-      "D. Footling breeches cannot engage in the pelvis"
+    "id": 38,
+    "section": "4.3 Operative Vaginal Delivery",
+    "question": "What requirement regarding bladder management must be fulfilled prior to operative vaginal delivery?",
+    "options": [
+      "A. Fill bladder with 200 mL saline",
+      "B. Empty the bladder completely (catheterization if necessary)",
+      "C. Place an indwelling catheter for 48 hours beforehand",
+      "D. No action required"
     ],
-    answer: "A",
-    explanation: "Footling presentation allows small feet to slip through an incompletely dilated cervix, predisposing to cord prolapse and subsequent head entrapment."
+    "answer": "B",
+    "explanation": "An empty bladder reduces pelvic obstruction and minimizes maternal bladder trauma."
+  },
+    {
+    "id": 39,
+    "section": "4.3 Operative Vaginal Delivery",
+    "question": "Which statement regarding analgesia for instrumental delivery is correct according to RCOG guidelines?",
+    "options": [
+      "A. Pudendal block is sufficient for all rotational forceps trials",
+      "B. Regional anesthesia (epidural/spinal) is preferred for mid-cavity or trial of instrumental delivery in theatre",
+      "C. Infiltration of local anesthetic is strictly contraindicated",
+      "D. General anesthesia must be administered for all ventouse extractions"
+    ],
+    "answer": "B",
+    "explanation": "Effective regional block (epidural or spinal) is strongly recommended for mid-pelvic or trial deliveries in the operating room."
   },
   {
-    id: 47,
-    section: "4.4 Breech",
-    question: "What major randomized multicenter trial published in 2000 led to a global shift toward planned Caesarean section for term breech presentations?",
-    options: [
-      "A. The Term Breech Trial (Hannah et al.)",
-      "B. The ORACLE Trial",
-      "C. The MIST Trial",
-      "D. The CRASH Trial"
+    "id": 40,
+    "section": "4.3 Operative Vaginal Delivery",
+    "question": "What is the primary sign that a ventouse cup has been misapplied off the flexion point?",
+    "options": [
+      "A. Rapid descent with minimal traction",
+      "B. Increase in fetal deflexion and caput formation",
+      "C. Immediate fetal heart bradycardia",
+      "D. Maternal urinary incontinence"
     ],
-    answer: "A",
-    explanation: "The Term Breech Trial (2000) concluded that planned C-section significantly reduced perinatal mortality and serious neonatal morbidity."
+    "answer": "B",
+    "explanation": "Misapplication off the flexion point induces neck extension, increasing the presenting pelvic diameter."
   },
   {
-    id: 48,
-    section: "4.4 Breech",
-    question: "What maneuver can be used if the fetal back rotates posteriorly ('sunny-side down') during a vaginal breech delivery?",
-    options: [
-      "A. Rotate the fetus immediately so the back is anterior",
-      "B. Perform immediate symphysiotomy",
-      "C. Apply fundal pressure",
-      "D. Allow spontaneous delivery without intervention"
+    "id": 41,
+    "section": "4.4 Cesarean Section",
+    "question": "According to NICE guidelines, what is the target decision-to-delivery time for a Category 1 (immediate threat to life) Caesarean section?",
+    "options": [
+      "A. 15 minutes",
+      "B. 30 minutes",
+      "C. 45 minutes",
+      "D. 60 minutes"
     ],
-    answer: "A",
-    explanation: "If the fetal back rotates posteriorly, the head can become hung up on the pubic symphysis; manual rotation to bring the back anteriorly is required."
+    "answer": "B",
+    "explanation": "Category 1 C-sections should be carried out as quickly as possible, with 30 minutes as the standard benchmark."
   },
   {
-    id: 49,
-    section: "4.4 Breech",
-    question: "In the Burns-Marshall maneuver for breech delivery, what is done once the fetal trunk is delivered?",
-    options: [
-      "A. The fetal feet are held and swung in an arc over the mother's abdomen to encourage head flexion",
-      "B. The fetus is pulled downward toward the floor",
-      "C. Direct forceps are applied to the fetal legs",
-      "D. An emergency episiotomy is avoided at all costs"
+    "id": 42,
+    "section": "4.4 Cesarean Section",
+    "question": "Which surgical incision on the uterus is standard during a routine lower segment Caesarean section (LSCS)?",
+    "options": [
+      "A. Vertical classical incision",
+      "B. Transverse lower segment incision (Monroe Kerr)",
+      "C. J-shaped upper segment incision",
+      "D. Fundal inverted-T incision"
     ],
-    answer: "A",
-    explanation: "The feet are held under subpubic tension and swept in a circular arc over the maternal abdomen to deliver the head naturally."
+    "answer": "B",
+    "explanation": "The transverse lower uterine segment incision is standard due to lower blood loss and reduced risk of rupture in future pregnancies."
   },
   {
-    id: 50,
-    section: "4.4 Breech",
-    question: "What is a major maternal risk factor associated with successful External Cephalic Version?",
-    options: [
-      "A. Rh isoimmunization if Anti-D is not administered to Rh-negative mothers",
-      "B. Immediate uterine rupture in 50% of cases",
-      "C. Permanent urinary incontinence",
-      "D. Sudden placenta accreta"
+    "id": 43,
+    "section": "4.4 Cesarean Section",
+    "question": "What single intervention before skin incision significantly reduces post-caesarean infectious morbidity?",
+    "options": [
+      "A. Vaginal cleansing with povidone-iodine only",
+      "B. Prophylactic broad-spectrum IV antibiotic administration",
+      "C. Oral erythromycin 24 hours prior",
+      "D. Postoperative IV fluids for 3 days"
     ],
-    answer: "A",
-    explanation: "Fetomaternal hemorrhage can occur during ECV manipulations; non-sensitized Rh-negative mothers require Anti-D prophylaxis."
+    "answer": "B",
+    "explanation": "Administering a single dose of broad-spectrum IV antibiotics prior to skin incision dramatically cuts post-op infection rates."
   },
-// Part 3: Questions 51 to 75 (Section 4 - Chapters 4.5 & 4.6)
   {
-    id: 51,
-    section: "4.5 Perineal Trauma for MRCOG",
-    question: "How is a third-degree perineal tear defined according to RCOG guidelines?",
-    options: [
+    "id": 44,
+    "section": "4.4 Cesarean Section",
+    "question": "What is a major indication for performing a Classical (vertical upper segment) Caesarean section?",
+    "options": [
+      "A. Breech presentation at 39 weeks",
+      "B. Anterior placenta previa without accreta",
+      "C. Extremely premature fetus (< 28 weeks) with undeveloped lower uterine segment",
+      "D. Maternal request"
+    ],
+    "answer": "C",
+    "explanation": "A classical incision is indicated when the lower segment is narrow/undeveloped in extreme prematurity, or in impacted transverse lie."
+  },
+  {
+    "id": 45,
+    "section": "4.4 Cesarean Section",
+    "question": "What is the primary long-term uterine risk following a classical Caesarean section in subsequent pregnancies?",
+    "options": [
+      "A. Uterine rupture before or during labor (4-9% risk)",
+      "B. Cervical incompetence",
+      "C. Endometriosis of the scar",
+      "D. Asherman syndrome"
+    ],
+    "answer": "A",
+    "explanation": "Classical C-section scars carry a high rate of rupture (up to 9%) in future pregnancies, requiring elective delivery prior to labor onset."
+  },
+  {
+    "id": 46,
+    "section": "4.4 Cesarean Section",
+    "question": "Which anatomical structure is most vulnerable to accidental transection during lower segment uterine incision extended laterally?",
+    "options": [
+      "A. Uterine artery and vein",
+      "B. Inferior epigastric artery",
+      "C. Ureter",
+      "D. Ovarian ligament"
+    ],
+    "answer": "A",
+    "explanation": "Lateral extensions of the lower segment incision risk lacerating the main uterine vessels, causing severe hemorrhage."
+  },
+  {
+    "id": 47,
+    "section": "4.4 Cesarean Section",
+    "question": "What method of placental extraction during C-section is associated with lower blood loss and reduced infection risk?",
+    "options": [
+      "A. Manual removal",
+      "B. Controlled cord traction",
+      "C. Spontaneous expression with fundal pressure",
+      "D. Leaving placenta in situ for 10 minutes"
+    ],
+    "answer": "B",
+    "explanation": "Controlled cord traction for placental delivery reduces infection and hemorrhage rates compared to manual extraction."
+  },
+  {
+    "id": 48,
+    "section": "4.4 Cesarean Section",
+    "question": "NICE guidelines recommend routine thromboprophylaxis after Caesarean section based on risk assessment using:",
+    "options": [
+      "A. Low Molecular Weight Heparin (LMWH)",
+      "B. Aspirin 75 mg",
+      "C. Warfarin",
+      "D. Oral rivaroxaban"
+    ],
+    "answer": "A",
+    "explanation": "Weight-adjusted LMWH combined with compression stockings is standard post-CS venous thromboembolism (VTE) prophylaxis."
+  },
+  {
+    "id": 49,
+    "section": "4.4 Cesarean Section",
+    "question": "What is the recommended approach to peritoneal closure (visceral and parietal) during routine C-section according to NICE?",
+    "options": [
+      "A. Non-closure of both visceral and parietal peritoneum",
+      "B. Double-layer continuous closure of both layers",
+      "C. Closure of parietal peritoneum only",
+      "D. Closure using non-absorbable silk sutures"
+    ],
+    "answer": "A",
+    "explanation": "NICE recommends non-closure of the peritoneum as it reduces operation time, analgesic requirement, and post-op pain."
+  },
+  {
+    "id": 50,
+    "section": "4.4 Cesarean Section",
+    "question": "What anatomical layer must be opened during a Joel-Cohen skin incision for Caesarean section?",
+    "options": [
+      "A. Straight transverse incision through skin, subcutaneous tissue, and rectus sheath, followed by blunt lateral expansion",
+      "B. Curved Pfannenstiel incision with sharp dissection of all layers down to rectus muscle",
+      "C. Midline vertical incision from umbilicus to pubis",
+      "D. Paramedian incision"
+    ],
+    "answer": "A",
+    "explanation": "The Joel-Cohen technique uses a straight transverse skin incision with blunt tissue expansion, resulting in faster entry and less tissue trauma."
+  },
+  {
+    "id": 51,
+    "section": "4.5 Perineal Trauma for MRCOG",
+    "question": "How is a third-degree perineal tear defined according to RCOG guidelines?",
+    "options": [
       "A. Injury to perineal skin and vaginal mucosa only",
       "B. Injury to perineal muscles but not the anal sphincter",
       "C. Partial or complete disruption of the anal sphincter complex (EAS and IAS)",
       "D. Disruption of anal sphincter complex with violation of the rectal mucosa"
     ],
-    answer: "C",
-    explanation: "A third-degree tear involves injury to the anal sphincter complex (external and/or internal anal sphincter) while keeping the anorectal mucosa intact."
+    "answer": "C",
+    "explanation": "A third-degree tear involves injury to the anal sphincter complex (external and/or internal anal sphincter) while keeping the anorectal mucosa intact."
   },
   {
-    id: 52,
-    section: "4.5 Perineal Trauma for MRCOG",
-    question: "A perineal tear involving less than 50% of the external anal sphincter (EAS) thickness is classified as:",
-    options: [
+    "id": 52,
+    "section": "4.5 Perineal Trauma for MRCOG",
+    "question": "A perineal tear involving less than 50% of the external anal sphincter (EAS) thickness is classified as:",
+    "options": [
       "A. Grade 3a",
       "B. Grade 3b",
       "C. Grade 3c",
       "D. Grade 2"
     ],
-    answer: "A",
-    explanation: "Grade 3a represents < 50% thickness of the external anal sphincter torn; Grade 3b is > 50% of EAS torn; Grade 3c includes internal anal sphincter (IAS) tear."
+    "answer": "A",
+    "explanation": "Grade 3a represents < 50% thickness of the external anal sphincter torn; Grade 3b is > 50% of EAS torn; Grade 3c includes internal anal sphincter (IAS) tear."
   },
   {
-    id: 53,
-    section: "4.5 Perineal Trauma for MRCOG",
-    question: "What differentiates a 3c perineal tear from a 3b tear?",
-    options: [
+    "id": 53,
+    "section": "4.5 Perineal Trauma for MRCOG",
+    "question": "What differentiates a 3c perineal tear from a 3b tear?",
+    "options": [
       "A. Extension into the rectal mucosa",
       "B. Involvement of the internal anal sphincter (IAS)",
       "C. Greater than 50% involvement of the external sphincter",
       "D. Bilateral puborectalis muscle detachment"
     ],
-    answer: "B",
-    explanation: "Grade 3c involves tearing of both the external anal sphincter AND the internal anal sphincter (IAS)."
+    "answer": "B",
+    "explanation": "Grade 3c involves tearing of both the external anal sphincter AND the internal anal sphincter (IAS)."
   },
   {
-    id: 54,
-    section: "4.5 Perineal Trauma for MRCOG",
-    question: "A fourth-degree perineal tear involves which anatomical structures?",
-    options: [
+    "id": 54,
+    "section": "4.5 Perineal Trauma for MRCOG",
+    "question": "A fourth-degree perineal tear involves which anatomical structures?",
+    "options": [
       "A. Perineal body skin only",
       "B. External anal sphincter and superficial transverse perineal muscle only",
       "C. Anal sphincter complex plus the anorectal epithelium (rectal mucosa)",
       "D. Urethral meatus and bladder neck"
     ],
-    answer: "C",
-    explanation: "A fourth-degree tear extends through the entire anal sphincter complex and ruptures the underlying anorectal mucosa."
+    "answer": "C",
+    "explanation": "A fourth-degree tear extends through the entire anal sphincter complex and ruptures the underlying anorectal mucosa."
   },
   {
-    id: 55,
-    section: "4.5 Perineal Trauma for MRCOG",
-    question: "Where should the repair of a diagnosed third- or fourth-degree perineal tear be performed?",
-    options: [
+    "id": 55,
+    "section": "4.5 Perineal Trauma for MRCOG",
+    "question": "Where should the repair of a diagnosed third- or fourth-degree perineal tear be performed?",
+    "options": [
       "A. Immediately in the delivery room without regional anesthesia",
       "B. In an operating theatre under regional or general anesthesia with adequate lighting and asepsis",
       "C. At the bedside 24 hours postpartum",
       "D. In the outpatient clinic after 6 weeks"
     ],
-    answer: "B",
-    explanation: "Obstetric anal sphincter injuries (OASIS) must be repaired in an operating theatre with effective anesthesia, proper instruments, and strict surgical illumination."
+    "answer": "B",
+    "explanation": "Obstetric anal sphincter injuries (OASIS) must be repaired in an operating theatre with effective anesthesia, proper instruments, and strict surgical illumination."
   },
   {
-    id: 56,
-    section: "4.5 Perineal Trauma for MRCOG",
-    question: "Which suture technique is recommended for repairing a full-thickness tear of the external anal sphincter (EAS)?",
-    options: [
+    "id": 56,
+    "section": "4.5 Perineal Trauma for MRCOG",
+    "question": "Which suture technique is recommended for repairing a full-thickness tear of the external anal sphincter (EAS)?",
+    "options": [
       "A. Continuous non-absorbable nylon suture",
       "B. Either an end-to-end or overlapping technique using monofilament absorbable sutures (e.g., PDS)",
       "C. Staple closure",
       "D. Simple interrupted silk sutures"
     ],
-    answer: "B",
-    explanation: "Full-thickness EAS tears can be closed using an overlapping or end-to-end technique with monofilament delayed-absorbable sutures like PDS or Vicryl."
+    "answer": "B",
+    "explanation": "Full-thickness EAS tears can be closed using an overlapping or end-to-end technique with monofilament delayed-absorbable sutures like PDS or Vicryl."
   },
   {
-    id: 57,
-    section: "4.5 Perineal Trauma for MRCOG",
-    question: "What mandatory postoperative medication regimen should be prescribed following a 3rd or 4th-degree perineal repair?",
-    options: [
+    "id": 57,
+    "section": "4.5 Perineal Trauma for MRCOG",
+    "question": "What mandatory postoperative medication regimen should be prescribed following a 3rd or 4th-degree perineal repair?",
+    "options": [
       "A. High-dose loperamide to induce constipation for 10 days",
       "B. Broad-spectrum IV/oral antibiotics and stool softeners (laxatives)",
       "C. Anticoagulation only",
       "D. Methotrexate therapy"
     ],
-    answer: "B",
-    explanation: "Prophylactic broad-spectrum antibiotics and daily laxatives (to avoid straining) are mandatory following repair of OASIS."
+    "answer": "B",
+    "explanation": "Prophylactic broad-spectrum antibiotics and daily laxatives (to avoid straining) are mandatory following repair of OASIS."
   },
   {
-    id: 58,
-    section: "4.5 Perineal Trauma for MRCOG",
-    question: "What is the primary objective of performing a mediolateral episiotomy rather than a median episiotomy?",
-    options: [
+    "id": 58,
+    "section": "4.5 Perineal Trauma for MRCOG",
+    "question": "What is the primary objective of performing a mediolateral episiotomy rather than a median episiotomy?",
+    "options": [
       "A. Faster operative repair time",
       "B. Reduced blood loss during second stage",
       "C. Significantly lower risk of extending into a 3rd or 4th-degree tear (OASIS)",
       "D. Elimination of need for local anesthesia"
     ],
-    answer: "C",
-    explanation: "Mediolateral episiotomy directs the surgical cut away from the midline rectovaginal septum, drastically lowering OASIS risk compared to median incision."
+    "answer": "C",
+    "explanation": "Mediolateral episiotomy directs the surgical cut away from the midline rectovaginal septum, drastically lowering OASIS risk compared to median incision."
   },
   {
-    id: 59,
-    section: "4.5 Perineal Trauma for MRCOG",
-    question: "What is the recommended angle of a mediolateral episiotomy relative to the vertical midline when cut at crowning?",
-    options: [
+    "id": 59,
+    "section": "4.5 Perineal Trauma for MRCOG",
+    "question": "What is the recommended angle of a mediolateral episiotomy relative to the vertical midline when cut at crowning?",
+    "options": [
       "A. 15 degrees",
       "B. 60 degrees",
       "C. 90 degrees",
       "D. 5 degrees"
     ],
-    answer: "B",
-    explanation: "RCOG recommends cutting a mediolateral episiotomy at an angle of 60 degrees from the posterior commissure when the perineum is distended/crowning."
+    "answer": "B",
+    "explanation": "RCOG recommends cutting a mediolateral episiotomy at an angle of 60 degrees from the posterior commissure when the perineum is distended/crowning."
   },
   {
-    id: 60,
-    section: "4.5 Perineal Trauma for MRCOG",
-    question: "Which muscle is NOT typically incised during a routine mediolateral episiotomy?",
-    options: [
+    "id": 60,
+    "section": "4.5 Perineal Trauma for MRCOG",
+    "question": "Which muscle is NOT typically incised during a routine mediolateral episiotomy?",
+    "options": [
       "A. Bulbospongiosus muscle",
       "B. Superficial transverse perineal muscle",
       "C. Internal anal sphincter muscle",
       "D. Vaginal epithelium"
     ],
-    answer: "C",
-    explanation: "A mediolateral episiotomy cuts vaginal mucosa, perineal skin, bulbospongiosus, and superficial transverse perineal muscles, but avoids the anal sphincters."
+    "answer": "C",
+    "explanation": "A mediolateral episiotomy cuts vaginal mucosa, perineal skin, bulbospongiosus, and superficial transverse perineal muscles, but avoids the anal sphincters."
   },
   {
-    id: 61,
-    section: "4.5 Perineal Trauma for MRCOG",
-    question: "Which symptom reported at a 6-week follow-up indicates possible failure or breakdown of internal anal sphincter repair?",
-    options: [
+    "id": 61,
+    "section": "4.5 Perineal Trauma for MRCOG",
+    "question": "Which symptom reported at a 6-week follow-up indicates possible failure or breakdown of internal anal sphincter repair?",
+    "options": [
       "A. Fecal urgency and involuntary flatal incontinence",
       "B. Urinary retention",
       "C. Superficial dyspareunia alone",
       "D. Persistent lochia rubra"
     ],
-    answer: "A",
-    explanation: "Damage or poor healing of the internal anal sphincter (IAS) typically manifests as passive fecal leakage or flatal incontinence/urgency."
+    "answer": "A",
+    "explanation": "Damage or poor healing of the internal anal sphincter (IAS) typically manifests as passive fecal leakage or flatal incontinence/urgency."
   },
   {
-    id: 62,
-    section: "4.6 Perinatal Asphyxia",
-    question: "Which umbilical cord arterial blood gas result confirms significant acute intrapartum hypoxic-ischemic acidemia?",
-    options: [
+    "id": 62,
+    "section": "4.6 Perinatal Asphyxia",
+    "question": "Which umbilical cord arterial blood gas result confirms significant acute intrapartum hypoxic-ischemic acidemia?",
+    "options": [
       "A. pH < 7.00 with base deficit >= 12 mmol/L",
       "B. pH 7.22 with base deficit 4 mmol/L",
       "C. pH 7.35 with pCO2 40 mmHg",
       "D. pH 7.18 with base deficit 6 mmol/L"
     ],
-    answer: "A",
-    explanation: "An umbilical artery pH < 7.00 combined with a base deficit of 12 mmol/L or greater defines severe intrapartum metabolic acidemia."
+    "answer": "A",
+    "explanation": "An umbilical artery pH < 7.00 combined with a base deficit of 12 mmol/L or greater defines severe intrapartum metabolic acidemia."
   },
   {
-    id: 63,
-    section: "4.6 Perinatal Asphyxia",
-    question: "What is the primary neurological encephalopathy syndrome resulting from severe intrapartum perinatal asphyxia in term infants?",
-    options: [
+    "id": 63,
+    "section": "4.6 Perinatal Asphyxia",
+    "question": "What is the primary neurological encephalopathy syndrome resulting from severe intrapartum perinatal asphyxia in term infants?",
+    "options": [
       "A. Periventricular leukomalacia (PVL)",
       "B. Hypoxic-Ischemic Encephalopathy (HIE)",
       "C. Intraventricular hemorrhage (IVH)",
       "D. Kernicterus"
     ],
-    answer: "B",
-    explanation: "Hypoxic-Ischemic Encephalopathy (HIE) is the central nervous system manifestation of perinatal asphyxia in term neonates."
+    "answer": "B",
+    "explanation": "Hypoxic-Ischemic Encephalopathy (HIE) is the central nervous system manifestation of perinatal asphyxia in term neonates."
   },
   {
-    id: 64,
-    section: "4.6 Perinatal Asphyxia",
-    question: "Which neuroprotective therapy is standard of care for term newborns diagnosed with moderate-to-severe Hypoxic-Ischemic Encephalopathy (HIE)?",
-    options: [
+    "id": 64,
+    "section": "4.6 Perinatal Asphyxia",
+    "question": "Which neuroprotective therapy is standard of care for term newborns diagnosed with moderate-to-severe Hypoxic-Ischemic Encephalopathy (HIE)?",
+    "options": [
       "A. High-dose intravenous dexamethasone",
       "B. Therapeutic hypothermia (cooling to 33.5°C - 34.5°C for 72 hours)",
       "C. Hyperbaric oxygen therapy",
       "D. Rapid warm exchange transfusion"
     ],
-    answer: "B",
-    explanation: "Therapeutic hypothermia initiated within 6 hours of birth reduces mortality and neurodevelopmental disability in newborns with HIE."
+    "answer": "B",
+    "explanation": "Therapeutic hypothermia initiated within 6 hours of birth reduces mortality and neurodevelopmental disability in newborns with HIE."
   },
   {
-    id: 65,
-    section: "4.6 Perinatal Asphyxia",
-    question: "To be effective, therapeutic hypothermia must be initiated within what critical time window after birth?",
-    options: [
+    "id": 65,
+    "section": "4.6 Perinatal Asphyxia",
+    "question": "To be effective, therapeutic hypothermia must be initiated within what critical time window after birth?",
+    "options": [
       "A. Within 6 hours of birth",
       "B. Within 24 hours of birth",
       "C. Within 48 hours of birth",
       "D. Within 12 to 18 hours"
     ],
-    answer: "A",
-    explanation: "The therapeutic window for whole-body or selective head cooling is within 6 hours post-delivery before secondary energy failure occurs."
+    "answer": "A",
+    "explanation": "The therapeutic window for whole-body or selective head cooling is within 6 hours post-delivery before secondary energy failure occurs."
   },
-  {
-    id: 66,
-    section: "4.6 Perinatal Asphyxia",
-    question: "Which organ system is most frequently affected alongside the brain in multiorgan dysfunction caused by perinatal asphyxia?",
-    options: [
-      "A. Renal system (acute tubular necrosis/oliguria)",
-      "B. Skeletal system",
-      "C. Thyroid gland",
-      "D. Dermatological system"
+   {
+    "id": 66,
+    "section": "4.6 Perinatal Asphyxia",
+    "question": "What is the primary mechanism by which therapeutic hypothermia protects brain tissue during hypoxic-ischemic injury?",
+    "options": [
+      "A. Suppression of cellular metabolism, reduction of excitotoxicity, and inhibition of apoptosis",
+      "B. Direct stimulation of neural axon regeneration",
+      "C. Complete prevention of cerebral hyperperfusion",
+      "D. Acceleration of systemic bilirubin clearance"
     ],
-    answer: "A",
-    explanation: "Renal acute tubular necrosis resulting in oliguria or hematuria occurs in over 50-70% of asphyxiated newborns due to diving-reflex blood redistribution."
+    "answer": "A",
+    "explanation": "Cooling reduces cerebral metabolic rate, limits glutamate accumulation, and suppresses free radical production and secondary apoptosis."
   },
   {
-    id: 67,
-    section: "4.6 Perinatal Asphyxia",
-    question: "What is the key difference between respiratory acidosis and metabolic acidosis on umbilical cord gas analysis?",
-    options: [
-      "A. Respiratory acidosis features an elevated pCO2 with normal base excess; metabolic acidosis features a high base deficit with normal pCO2",
-      "B. Respiratory acidosis always has a normal pH",
-      "C. Metabolic acidosis is characterized solely by high pCO2 > 80 mmHg",
-      "D. There is no clinical distinction"
-    ],
-    answer: "A",
-    explanation: "Respiratory acidosis is driven by elevated pCO2 (carbon dioxide retention), whereas metabolic acidosis reflects cellular lactic acidosis and elevated base deficit."
-  },
-  {
-    id: 68,
-    section: "4.6 Perinatal Asphyxia",
-    question: "In Sarnat staging of Hypoxic-Ischemic Encephalopathy (HIE), what characterizes Stage 1 (Mild) HIE?",
-    options: [
-      "A. Coma, absent reflexes, decerebrate posture, prolonged seizures",
-      "B. Hyperalertness, uninhibited reflexes, sympathetic drive, no seizures",
-      "C. Lethargy, hypotonia, frequent clinical seizures",
-      "D. Flaccid paralysis with autonomic suppression"
-    ],
-    answer: "B",
-    explanation: "Stage 1 (Mild) Sarnat HIE presents with hyperalertness, mydriasis, hyperreflexia, and absence of seizures."
-  },
-  {
-    id: 69,
-    section: "4.6 Perinatal Asphyxia",
-    question: "Seizures in an asphyxiated neonate are most commonly observed in which Sarnat stage of HIE?",
-    options: [
-      "A. Sarnat Stage 1",
-      "B. Sarnat Stage 2 (Moderate)",
-      "C. Sarnat Stage 0",
-      "D. Pre-natal stage"
-    ],
-    answer: "B",
-    explanation: "Sarnat Stage 2 (Moderate) is characterized by lethargy, hypotonia, suppressed primitive reflexes, and common clinical seizures within 24 hours."
-  },
-  {
-    id: 70,
-    section: "4.6 Perinatal Asphyxia",
-    question: "What cardiovascular complication is frequently observed in neonates experiencing severe perinatal asphyxia?",
-    options: [
-      "A. Coarctation of the aorta",
-      "B. Persistent Pulmonary Hypertension of the Newborn (PPHN) and myocardial dysfunction",
-      "C. Tetralogy of Fallot",
-      "D. Ventricular septal defect"
-    ],
-    answer: "B",
-    explanation: "Asphyxia causes transient myocardial ischemia and elevated pulmonary vascular resistance leading to PPHN."
-  },
-  {
-    id: 71,
-    section: "4.6 Perinatal Asphyxia",
-    question: "What biochemical marker in neonatal serum rises significantly within 24–48 hours of tissue ischemia in perinatal asphyxia?",
-    options: [
-      "A. Serum Creatine Kinase BB isoenzyme (CK-BB) and Troponin I",
-      "B. Serum amylase",
-      "C. Alkaline phosphatase",
-      "D. Serum gastrin"
-    ],
-    answer: "A",
-    explanation: "Ischemic brain injury releases CK-BB, while myocardial ischemia elevates Troponin I and CK-MB levels."
-  },
-  {
-    id: 72,
-    section: "4.6 Perinatal Asphyxia",
-    question: "Which neuroimaging technique performed between day 7 and 14 of life is most sensitive for evaluating cerebral injury patterns in HIE?",
-    options: [
-      "A. Skull X-ray",
+    "id": 67,
+    "section": "4.6 Perinatal Asphyxia",
+    "question": "Which neuroimaging modality is most sensitive for evaluating structural brain injury secondary to HIE at 7 to 14 days post-birth?",
+    "options": [
+      "A. Plain skull radiography",
       "B. Magnetic Resonance Imaging (MRI) of the brain",
-      "C. Computed Tomography (CT) without contrast",
-      "D. Positron Emission Tomography (PET)"
+      "C. Non-contrast CT scan of the head",
+      "D. Continuous transcranial Doppler ultrasound alone"
     ],
-    answer: "B",
-    explanation: "Brain MRI (specifically diffusion-weighted sequences) performed at 7-14 days provides the gold standard assessment for deep gray matter/cortical HIE lesions."
+    "answer": "B",
+    "explanation": "Brain MRI performed between 7 and 14 days provides the most accurate prognostic evaluation of basal ganglia and watershed brain injury."
   },
   {
-    id: 73,
-    section: "4.6 Perinatal Asphyxia",
-    question: "What effect does severe intrapartum asphyxia have on the neonatal gastrointestinal tract?",
-    options: [
-      "A. Increased bowel motility and rapid absorption",
-      "B. High risk of Necrotizing Enterocolitis (NEC) due to splanchnic vasoconstriction",
-      "C. Hypertrophic pyloric stenosis",
-      "D. Duodenal atresia"
+    "id": 68,
+    "section": "4.6 Perinatal Asphyxia",
+    "question": "What electrophysiological monitoring tool is recommended in neonatal ICU settings to detect subclinical seizures during therapeutic cooling?",
+    "options": [
+      "A. Amplitude-integrated Electroencephalography (aEEG)",
+      "B. Electromyography (EMG)",
+      "C. Visual Evoked Potentials (VEP)",
+      "D. Continuous ECG rhythm strip"
     ],
-    answer: "B",
-    explanation: "Splanchnic hypoperfusion during fetal asphyxia causes gut mucosal ischemia, predisposing the neonate to NEC."
+    "answer": "A",
+    "explanation": "aEEG allows continuous bedside background brain activity monitoring and identification of silent subclinical seizures in cooled infants."
   },
   {
-    id: 74,
-    section: "4.6 Perinatal Asphyxia",
-    question: "Amplitude-integrated Electroencephalography (aEEG) in the neonatal ICU is primarily used to monitor:",
-    options: [
-      "A. Cerebral background activity and subclinical seizure activity in HIE",
-      "B. Renal blood flow rates",
-      "C. Hepatic enzyme synthesis",
-      "D. Peripheral nerve conduction velocities"
+    "id": 69,
+    "section": "4.6 Perinatal Asphyxia",
+    "question": "Which biochemical biomarker in neonatal CSF/serum within 24 hours of asphyxia strongly correlates with severe neuronal injury?",
+    "options": [
+      "A. Neuron-Specific Enolase (NSE) and S100B",
+      "B. Unconjugated bilirubin",
+      "C. Alkaline phosphatase",
+      "D. C-reactive protein (CRP)"
     ],
-    answer: "A",
-    explanation: "aEEG provides continuous bedside monitoring of cortical brain activity and detects silent electrographic seizures in neonates with HIE."
+    "answer": "A",
+    "explanation": "Neuron-Specific Enolase (NSE) and S100B proteins released into circulation/CSF reflect significant neuronal damage."
   },
   {
-    id: 75,
-    section: "4.6 Perinatal Asphyxia",
-    question: "What APGAR score threshold at 5 minutes is strongly correlated with an increased risk of neurological disability when accompanied by severe cord acidemia?",
-    options: [
-      "A. APGAR score 8 to 10",
-      "B. APGAR score 0 to 3",
-      "C. APGAR score 7",
-      "D. APGAR score 9"
+    "id": 70,
+    "section": "4.6 Perinatal Asphyxia",
+    "question": "During the rewarming phase following 72 hours of therapeutic hypothermia, what is the target maximum rate of temperature increase?",
+    "options": [
+      "A. 0.5°C per hour",
+      "B. 1.5°C per hour",
+      "C. 2.0°C per hour",
+      "D. Rapid rewarming over 30 minutes"
     ],
-    answer: "B",
-    explanation: "An APGAR score of 0–3 lasting beyond 5 minutes reflects profound depression and correlates with increased neurological morbidity when combined with acidemia."
+    "answer": "A",
+    "explanation": "Slow rewarming at a rate not exceeding 0.5°C per hour prevents sudden hypotension, rebound cerebral edema, and seizures."
   },
   {
-    id: 76,
-    section: "4.7 Neonatal Resuscitation",
-    question: "What is the very first step in the standard UK Resuscitation Council algorithm for a newborn who is apnoeic or gasping at birth?",
-    options: [
-      "A. Administer IV epinephrine",
-      "B. Dry the baby, maintain temperature, assess tone and breathing, and open the airway",
-      "C. Perform immediate chest compressions at 3:1 ratio",
-      "D. Apply positive end-expiratory pressure (PEEP) at 15 cmH2O"
+    "id": 71,
+    "section": "5.1 Postpartum Hemorrhage",
+    "question": "Primary Postpartum Hemorrhage (PPH) is defined as blood loss from the genital tract within 24 hours of delivery exceeding:",
+    "options": [
+      "A. 500 mL following vaginal delivery or 1000 mL following C-section",
+      "B. 200 mL regardless of mode of delivery",
+      "C. 1500 mL following vaginal birth",
+      "D. 2500 mL total volume"
     ],
-    answer: "B",
-    explanation: "Initial assessment and stabilization (drying, thermal control, position, and airway assessment) are the mandatory first steps."
+    "answer": "A",
+    "explanation": "Primary PPH is classic for >500 mL after vaginal delivery or >1000 mL after Caesarean section within 24 hours post-delivery."
   },
   {
-    id: 77,
-    section: "4.7 Neonatal Resuscitation",
-    question: "If a term newborn remains apnoeic despite drying and positioning, what is the next primary action?",
-    options: [
-      "A. Give 5 inflation breaths using air (21% O2)",
-      "B. Administer 100% oxygen via non-rebreather mask",
-      "C. Perform endotracheal intubation immediately",
-      "D. Give umbilical vein bolus of normal saline"
+    "id": 72,
+    "section": "5.1 Postpartum Hemorrhage",
+    "question": "What are the classic '4 Ts' representing the causes of postpartum hemorrhage?",
+    "options": [
+      "A. Tone, Tissue, Trauma, Thrombin",
+      "B. Time, Tension, Tear, Temperature",
+      "C. Toxicity, Tachycardia, Tumor, Torsion",
+      "D. Transfusion, Traction, Tamponade, Toxemia"
     ],
-    answer: "A",
-    explanation: "In neonatal resuscitation, the primary problem is lung aeration; giving 5 initial inflation breaths is the core priority."
+    "answer": "A",
+    "explanation": "The 4 Ts summarize major etiologies: Tone (atony - 70%), Tissue (retained placenta), Trauma (lacerations), and Thrombin (coagulopathy)."
   },
   {
-    id: 78,
-    section: "4.7 Neonatal Resuscitation",
-    question: "What is the recommended ratio of chest compressions to inflation breaths during neonatal resuscitation?",
-    options: [
-      "A. 30:2",
-      "B. 15:2",
-      "C. 3:1",
-      "D. 5:1"
+    "id": 73,
+    "section": "5.1 Postpartum Hemorrhage",
+    "question": "What is the single most common cause of primary postpartum hemorrhage?",
+    "options": [
+      "A. Retained placental fragments",
+      "B. Uterine atony",
+      "C. Cervical lacerations",
+      "D. Disseminated Intravascular Coagulation (DIC)"
     ],
-    answer: "C",
-    explanation: "Neonatal CPR follows a strict 3 compressions to 1 ventilation ratio to achieve approximately 90 compressions and 30 breaths per minute."
+    "answer": "B",
+    "explanation": "Uterine atony (failure of uterine myometrial contraction) accounts for approximately 70-80% of all primary PPH cases."
   },
   {
-    id: 79,
-    section: "4.7 Neonatal Resuscitation",
-    question: "At what fetal heart rate threshold should chest compressions be initiated during newborn resuscitation?",
-    options: [
-      "A. Heart rate < 100 bpm despite effective ventilation",
-      "B. Heart rate < 60 bpm despite effective inflation breaths",
-      "C. Heart rate < 80 bpm",
-      "D. Heart rate < 40 bpm"
+    "id": 74,
+    "section": "5.1 Postpartum Hemorrhage",
+    "question": "What is the first-line medical drug recommended by WHO and RCOG for the prevention and treatment of uterine atony during PPH?",
+    "options": [
+      "A. Oxytocin (IV infusion/IM injection)",
+      "B. Oral misoprostol",
+      "C. Carboprost tromethamine (Hemabate)",
+      "D. Ergometrine IV bolus"
     ],
-    answer: "B",
-    explanation: "Chest compressions are indicated when the newborn heart rate remains below 60 bpm after delivering effective inflation/ventilation breaths."
+    "answer": "A",
+    "explanation": "Oxytocin is universally recommended as the standard first-line uterotonic for both prophylaxis and immediate treatment of uterine atony."
   },
   {
-    id: 80,
-    section: "4.7 Neonatal Resuscitation",
-    question: "What starting oxygen concentration is recommended for the resuscitation of term newborns at birth?",
-    options: [
-      "A. 100% oxygen",
-      "B. 21% oxygen (room air)",
-      "C. 50% oxygen",
-      "D. 80% oxygen"
+    "id": 75,
+    "section": "5.1 Postpartum Hemorrhage",
+    "question": "In a patient experiencing uterine atony with severe asthma, which uterotonic agent is strictly contraindicated?",
+    "options": [
+      "A. Oxytocin",
+      "B. Carboprost (15-methyl prostaglandin F2a)",
+      "C. Misoprostol",
+      "D. Ergometrine"
     ],
-    answer: "B",
-    explanation: "Resuscitation of term infants should begin in 21% oxygen (room air); supplementary oxygen is titrated according to target pre-ductal SpO2 parameters."
+    "answer": "B",
+    "explanation": "Carboprost (Hemabate / PGF2a) causes severe bronchospasm and is strictly contraindicated in women with asthma."
   },
   {
-    id: 81,
-    section: "4.7 Neonatal Resuscitation",
-    question: "Where should the pulse oximetry probe be placed on a neonate during initial resuscitation to measure pre-ductal oxygen saturation?",
-    options: [
-      "A. Left wrist/hand",
-      "B. Right wrist or right hand (pre-ductal site)",
-      "C. Left foot",
-      "D. Right foot"
+    "id": 76,
+    "section": "5.1 Postpartum Hemorrhage",
+    "question": "Ergometrine or Syntometrine is contraindicated in women presenting with which condition during delivery?",
+    "options": [
+      "A. Hypertension, pre-eclampsia, or cardiac disease",
+      "B. Diabetes mellitus",
+      "C. Bronchial asthma",
+      "D. Multiple pregnancy"
     ],
-    answer: "B",
-    explanation: "The right wrist/hand reflects blood arising before the ductus arteriosus (pre-ductal), providing accurate central arterial oxygenation measurement."
+    "answer": "A",
+    "explanation": "Ergometrine induces vasoconstriction and severe blood pressure spikes, making it unsafe in hypertension and heart disease."
   },
   {
-    id: 82,
-    section: "4.7 Neonatal Resuscitation",
-    question: "What initial peak inflation pressure (PIP) is typically required to aerate term lungs during initial inflation breaths?",
-    options: [
-      "A. 10 to 15 cmH2O",
-      "B. 30 cmH2O",
-      "C. 50 cmH2O",
-      "D. 5 cmH2O"
+    "id": 77,
+    "section": "5.1 Postpartum Hemorrhage",
+    "question": "According to the WOMAN trial, Tranexamic Acid (TXA) should be administered within what time frame after PPH onset to reduce maternal death?",
+    "options": [
+      "A. Within 3 hours of birth",
+      "B. Between 6 and 12 hours after birth",
+      "C. Only after 24 hours",
+      "D. Prior to fetal delivery"
     ],
-    answer: "B",
-    explanation: "A peak inflation pressure of 30 cmH2O is usually adequate for term infants during the initial 5 inflation breaths."
+    "answer": "A",
+    "explanation": "Intravenous tranexamic acid (1 g) administered within 3 hours of birth significantly reduces bleeding-related maternal mortality."
   },
   {
-    id: 83,
-    section: "4.7 Neonatal Resuscitation",
-    question: "Which route is preferred for rapid intravenous drug and fluid administration during acute neonatal resuscitation?",
-    options: [
-      "A. Peripheral hand vein cutdown",
-      "B. Umbilical Venous Catheterization (UVC)",
-      "C. External jugular vein cannulation",
-      "D. Femoral artery puncture"
+    "id": 78,
+    "section": "5.1 Postpartum Hemorrhage",
+    "question": "What non-surgical mechanical technique is recommended as second-line management for atonic PPH failing first-line uterotonics?",
+    "options": [
+      "A. Intrauterine balloon tamponade (e.g., Bakri balloon)",
+      "B. Uterine artery embolization without analgesia",
+      "C. Hysterectomy",
+      "D. Cold saline vaginal douching"
     ],
-    answer: "B",
-    explanation: "Umbilical venous catheterization provides rapid, reliable direct access to central circulation during delivery room emergencies."
+    "answer": "A",
+    "explanation": "Intrauterine balloon tamponade compresses the endometrial venous plexus from within, stopping hemorrhage in over 80% of refractory atony cases."
   },
   {
-    id: 84,
-    section: "4.7 Neonatal Resuscitation",
-    question: "What dose of intravenous Adrenaline (1:10,000 solution) is recommended in neonatal cardiac arrest algorithms?",
-    options: [
-      "A. 10 to 30 micrograms/kg (0.1 to 0.3 mL/kg)",
-      "B. 1 mg/kg",
-      "C. 5 mL/kg",
-      "D. 0.5 mg/kg"
+    "id": 79,
+    "section": "5.1 Postpartum Hemorrhage",
+    "question": "Which surgical compression suture technique is commonly used to treat intractable atonic PPH while preserving fertility?",
+    "options": [
+      "A. B-Lynch uterine compression suture",
+      "B. Purstring cervical suture",
+      "C. McRobert suture",
+      "D. Pfannenstiel suture"
     ],
-    answer: "A",
-    explanation: "The IV adrenaline dose in neonatal resuscitation is 10–30 micrograms/kg (0.1–0.3 mL/kg of 1:10,000 concentration)."
+    "answer": "A",
+    "explanation": "The B-Lynch suture applies longitudinal compression to the uterine body, effectively compressing bleeding channels."
   },
   {
-    id: 85,
-    section: "4.7 Neonatal Resuscitation",
-    question: "If acute hypovolemic shock (e.g., severe fetal blood loss) is suspected in a depressed neonate, what fluid bolus should be given?",
-    options: [
-      "A. 10 mL/kg of 0.9% Normal Saline or uncrossmatched O-negative packed red blood cells",
-      "B. 50 mL/kg of 10% Dextrose",
-      "C. 20 mL/kg of Albumin",
-      "D. 5 mL/kg of sterile water"
+    "id": 80,
+    "section": "5.1 Postpartum Hemorrhage",
+    "question": "Secondary Postpartum Hemorrhage is defined as excessive vaginal bleeding occurring between:",
+    "options": [
+      "A. 24 hours and 12 weeks postpartum",
+      "B. 1 hour and 12 hours postpartum",
+      "C. 6 weeks and 6 months postpartum",
+      "D. 12 hours and 24 hours postpartum"
     ],
-    answer: "A",
-    explanation: "A bolus of 10 mL/kg isotonic saline or group O Rh-negative blood is recommended for acute intrapartum hypovolemia."
+    "answer": "A",
+    "explanation": "Secondary PPH is defined as abnormal/excessive bleeding from 24 hours up to 12 weeks after birth, commonly due to infection or retained tissues."
   },
   {
-    id: 86,
-    section: "4.7 Neonatal Resuscitation",
-    question: "What single indicator is the most sensitive parameter showing effective lung aeration during resuscitation?",
-    options: [
-      "A. Rapid increase in fetal heart rate",
-      "B. Color change in the extremities",
-      "C. Presence of active limb withdrawal",
-      "D. Pupil constriction"
-    ],
-    answer: "A",
-    explanation: "A prompt rise in heart rate is the primary and most reliable sign of successful lung inflation and oxygenation."
-  },
-  {
-    id: 87,
-    section: "4.7 Neonatal Resuscitation",
-    question: "During inflation breaths, what is the recommended duration for holding each of the 5 initial inflation breaths?",
-    options: [
-      "A. 1 second",
-      "B. 2 to 3 seconds",
-      "C. 5 to 6 seconds",
-      "D. 10 seconds"
-    ],
-    answer: "B",
-    explanation: "Holding initial inflation pressure for 2–3 seconds helps establish functional residual capacity (FRC) in fluid-filled newborn lungs."
-  },
-  {
-    id: 88,
-    section: "4.8 Perinatal Mortality",
-    question: "How is the Perinatal Mortality Rate (PMR) defined statistically?",
-    options: [
-      "A. Number of stillbirths plus early neonatal deaths (first 7 days of life) per 1,000 total births",
-      "B. Number of infant deaths under 1 year of age per 100,000 live births",
-      "C. Number of maternal deaths during pregnancy per 10,000 live births",
-      "D. Total stillbirths occurring between 12 and 20 weeks"
-    ],
-    answer: "A",
-    explanation: "Perinatal mortality combines stillbirths (>= 24 weeks gestation) and early neonatal deaths occurring within the first 7 completed days of life per 1,000 total births."
-  },
-  {
-    id: 89,
-    section: "4.8 Perinatal Mortality",
-    question: "What is the legal gestational age threshold defining a stillbirth in the UK?",
-    options: [
-      "A. 20 completed weeks",
-      "B. 22 completed weeks",
-      "C. 24 completed weeks",
-      "D. 28 completed weeks"
-    ],
-    answer: "C",
-    explanation: "In the UK, a baby born dead after 24 completed weeks of gestation is legally defined as a stillbirth."
-  },
-  {
-    id: 90,
-    section: "4.8 Perinatal Mortality",
-    question: "Early neonatal mortality refers to newborn deaths occurring within what timeframe after birth?",
-    options: [
-      "A. Within the first 24 hours",
-      "B. Within the first 7 completed days of life (0 to 6 days)",
-      "C. Within the first 28 days of life",
-      "D. Within the first 365 days"
-    ],
-    answer: "B",
-    explanation: "Early neonatal mortality accounts for deaths occurring during the first 7 days (0–6 completed days) post-delivery."
-  },
-  {
-    id: 91,
-    section: "4.8 Perinatal Mortality",
-    question: "Late neonatal mortality refers to deaths occurring within what specific time window?",
-    options: [
-      "A. Between 7 and 28 completed days after birth",
-      "B. Between 29 days and 1 year",
-      "C. Between 24 hours and 48 hours",
-      "D. Between 37 and 42 weeks"
-    ],
-    answer: "A",
-    explanation: "Late neonatal mortality spans from day 7 up to day 28 of post-natal life."
-  },
-  {
-    id: 92,
-    section: "4.8 Perinatal Mortality",
-    question: "What classification system is widely used internationally to audit and categorize causes of stillbirth and perinatal death?",
-    options: [
-      "A. Wigglesworth / MBRRACE-UK / WHO ICD-PM classification",
-      "B. Sarnat Staging System",
-      "C. FIGO Staging System",
-      "D. TNM Classification"
-    ],
-    answer: "A",
-    explanation: "The Wigglesworth and MBRRACE-UK / ICD-PM systems standardise cause-of-death reporting for perinatal audits."
-  },
-  {
-    id: 93,
-    section: "4.8 Perinatal Mortality",
-    question: "Which single maternal condition is most strongly associated with antepartum unexplained stillbirth and fetal growth restriction?",
-    options: [
-      "A. Placental insufficiency / placental dysfunction",
-      "B. Mild hyperemesis in first trimester",
-      "C. Maternal myopia",
-      "D. Physiological anemia of pregnancy"
-    ],
-    answer: "A",
-    explanation: "Placental dysfunction (leading to fetal growth restriction and hypoxia) is the leading underlying cause of antepartum stillbirth."
-  },
-  {
-    id: 94,
-    section: "4.8 Perinatal Mortality",
-    question: "What non-invasive examination is strongly recommended to all parents following a stillbirth to investigate underlying causes?",
-    options: [
-      "A. Full post-mortem examination (autopsy) alongside placental histopathology and genetic testing",
-      "B. Routine abdominal ultrasound only",
-      "C. Maternal chest X-ray only",
-      "D. Serum ferritin check"
-    ],
-    answer: "A",
-    explanation: "Comprehensive post-mortem autopsy accompanied by detailed placental histopathology provides diagnostic answers in up to 50–70% of stillbirth cases."
-  },
-  {
-    id: 95,
-    section: "4.8 Perinatal Mortality",
-    question: "Which fetal infection is a classic cause of late intrapartum or antepartum stillbirth associated with hydrops and profound fetal anemia?",
-    options: [
-      "A. Parvovirus B19",
-      "B. Rhinovirus",
-      "C. Rotavirus",
-      "D. Influenza B"
-    ],
-    answer: "A",
-    explanation: "Parvovirus B19 infects erythroid progenitor cells, leading to severe fetal aplastic anemia, non-immune hydrops fetalis, and fetal death."
-  },
-  {
-    id: 96,
-    section: "4.8 Perinatal Mortality",
-    question: "What mandatory audit program in the UK investigates all stillbirths, neonatal deaths, and maternal deaths to improve quality of care?",
-    options: [
-      "A. MBRRACE-UK (Mothers and Babies: Reducing Risk through Audits and Confidential Enquiries)",
-      "B. NICE Clinical Guidelines",
-      "C. GMC Fitness to Practice",
-      "D. RCOG Green-top Advisory Council"
-    ],
-    answer: "A",
-    explanation: "MBRRACE-UK conducts national confidential enquiries and surveillance into maternal and perinatal mortality."
-  },
-  {
-    id: 97,
-    section: "4.8 Perinatal Mortality",
-    question: "What is the primary objective of placental histopathology following a perinatal loss?",
-    options: [
-      "A. To identify evidence of chorioamnionitis, villitis, infarction, fetal thrombotic vasculopathy, or detachment",
-      "B. To check maternal blood group",
-      "C. To determine the baby's future eye color",
-      "D. To measure maternal hormone degradation rates"
-    ],
-    answer: "A",
-    explanation: "Placental histopathology yields crucial diagnostic insights into infection, ischemic changes, or vascular lesions causing death."
-  },
-  {
-    id: 98,
-    section: "4.8 Perinatal Mortality",
-    question: "Which maternal infection contracted through unpasteurized dairy or undercooked meat can cause silent severe chorioamnionitis and stillbirth?",
-    options: [
-      "A. Listeria monocytogenes",
-      "B. Helicobacter pylori",
+    "id": 81,
+    "section": "5.2 Maternal Sepsis",
+    "question": "What is the most frequent bacterial cause of severe maternal sepsis and septic shock postpartum?",
+    "options": [
+      "A. Group A Streptococcus (Streptococcus pyogenes)",
+      "B. Staphylococcus epidermidis",
       "C. Clostridium difficile",
-      "D. Escherichia coli O157"
+      "D. Mycoplasma hominis"
     ],
-    answer: "A",
-    explanation: "Listeriosis causes maternal microabscesses in the placenta, leading to miscarriage, stillbirth, or severe neonatal sepsis."
+    "answer": "A",
+    "explanation": "Group A Streptococcus (GAS) is the most lethal cause of rapidly progressive puerperal sepsis."
   },
   {
-    id: 99,
-    section: "4.8 Perinatal Mortality",
-    question: "The presence of Kleihauer-Betke test positivity in maternal circulation after stillbirth indicates which underlying mechanism?",
-    options: [
-      "A. Massive Fetomaternal Hemorrhage (FMH)",
-      "B. Maternal disseminated intravascular coagulation",
-      "C. Uterine rupture",
-      "D. Amniotic fluid embolism"
+    "id": 82,
+    "section": "5.2 Maternal Sepsis",
+    "question": "According to the 'Sepsis Six' bundle, within what timeframe should intravenous antibiotics be administered upon recognizing maternal sepsis?",
+    "options": [
+      "A. Within 1 hour ('The Golden Hour')",
+      "B. Within 4 hours",
+      "C. Within 6 hours",
+      "D. Within 12 hours"
     ],
-    answer: "A",
-    explanation: "The Kleihauer-Betke test detects fetal hemoglobin in maternal blood, quantifying fetomaternal hemorrhage as a cause of intrauterine demise."
+    "answer": "A",
+    "explanation": "Empiric broad-spectrum intravenous antibiotics must be administered within 1 hour of identifying sepsis or septic shock."
   },
   {
-    id: 100,
-    section: "4.8 Perinatal Mortality",
-    question: "According to global health metrics, what proportion of total infant deaths occurs during the neonatal period (first 28 days)?",
-    options: [
-      "A. Approximately 45% to 50%",
-      "B. Less than 5%",
-      "C. Over 95%",
-      "D. Exactly 10%"
+    "id": 83,
+    "section": "5.2 Maternal Sepsis",
+    "question": "Which diagnostic parameter is included in the 'Sepsis Six' care bundle to evaluate tissue hypoperfusion?",
+    "options": [
+      "A. Blood lactate measurement",
+      "B. Serum amylase level",
+      "C. Urine hCG concentration",
+      "D. Thyroid stimulating hormone"
     ],
-    answer: "A",
-    explanation: "Nearly half (~47%) of all under-5 child deaths and the vast majority of infant deaths occur within the vulnerable first 28 days of life."
+    "answer": "A",
+    "explanation": "The Sepsis Six bundle mandates measuring blood lactate levels to detect cellular anaerobic metabolism and tissue hypoperfusion."
+  },
+  {
+    "id": 84,
+    "section": "5.2 Maternal Sepsis",
+    "question": "What modified physiological scoring system is routinely used in obstetrics to identify early clinical deterioration?",
+    "options": [
+      "A. Obstetric Early Warning Score (MEOWS / NEWS2)",
+      "B. Glasgow Coma Scale",
+      "C. APGAR Score",
+      "D. Bishop Score"
+    ],
+    "answer": "A",
+    "explanation": "Modified Early Obstetric Warning Scores (MEOWS) track vital sign deviations tailored to pregnancy physiology to catch sepsis early."
+  },
+  {
+    "id": 85,
+    "section": "5.2 Maternal Sepsis",
+    "question": "What is the primary empiric intravenous antibiotic combination recommended for severe postpartum endometritis with sepsis?",
+    "options": [
+      "A. IV Piperacillin-tazobactam OR Clindamycin + Gentamicin",
+      "B. Oral Amoxicillin monotherapy",
+      "C. Oral Ciprofloxacin alone",
+      "D. Oral Metronidazole alone"
+    ],
+    "answer": "A",
+    "explanation": "Broad-spectrum coverage for polymicrobial aerobic and anaerobic pelvic pathogens requires regimens such as Clindamycin plus Gentamicin or IV Tazocin."
+  },
+  {
+    "id": 86,
+    "section": "5.3 Venous Thromboembolism",
+    "question": "Why is the risk of Venous Thromboembolism (VTE) increased by 4- to 5-fold during normal pregnancy?",
+    "options": [
+      "A. Hypercoagulable shifts in clotting factors, venous stasis from gravid uterus, and vascular endothelial damage",
+      "B. Increased systemic platelet clearance",
+      "C. Chronic systemic arterial hypotension",
+      "D. Severe iron deficiency anemia"
+    ],
+    "answer": "A",
+    "explanation": "Pregnancy induces all three components of Virchow's triad: elevated procoagulant factors, pelvic venous stasis, and endovascular alterations."
+  },
+  {
+    "id": 87,
+    "section": "5.3 Venous Thromboembolism",
+    "question": "What is the diagnostic imaging investigation of choice for a pregnant woman presenting with suspected Deep Vein Thrombosis (DVT)?",
+    "options": [
+      "A. Compression Duplex Ultrasound of the lower extremity veins",
+      "B. D-dimer assay alone",
+      "C. CT Venography with contrast",
+      "D. Invasive catheter venography"
+    ],
+    "answer": "A",
+    "explanation": "Compression duplex ultrasonography is non-invasive, safe for the fetus, and highly accurate for diagnosing proximal deep vein thrombosis."
+  },
+  {
+    "id": 88,
+    "section": "5.3 Venous Thromboembolism",
+    "question": "Why is D-dimer testing NOT recommended to rule out VTE in pregnant patients?",
+    "options": [
+      "A. D-dimer levels rise physiologically throughout normal pregnancy, leading to high false-positive rates",
+      "B. D-dimer levels fall to zero during pregnancy",
+      "C. D-dimer is toxic to fetal kidneys",
+      "D. D-dimer assays cannot cross-react with pregnant blood samples"
+    ],
+    "answer": "A",
+    "explanation": "Fibrin degradation products naturally increase during normal gestation, making D-dimer non-specific and unreliable for ruling out VTE in pregnancy."
+  },
+  {
+    "id": 89,
+    "section": "5.3 Venous Thromboembolism",
+    "question": "Which diagnostic investigation is preferred to confirm suspected Pulmonary Embolism (PE) in a pregnant patient with a normal chest X-ray?",
+    "options": [
+      "A. Ventilation-Perfusion (V/Q) scan or CT Pulmonary Angiography (CTPA)",
+      "B. Transesophageal echocardiography",
+      "C. Cardiac MRI",
+      "D. Fluoroscopic coronary angiography"
+    ],
+    "answer": "A",
+    "explanation": "Either V/Q scan or CTPA is recommended for diagnosing PE in pregnancy, following a baseline normal maternal chest radiograph."
+  },
+  {
+    "id": 90,
+    "section": "5.3 Venous Thromboembolism",
+    "question": "What is the anticoagulant treatment of choice for acute VTE during pregnancy and the puerperium?",
+    "options": [
+      "A. Low Molecular Weight Heparin (LMWH)",
+      "B. Warfarin",
+      "C. Direct Oral Anticoagulants (Rivaroxaban / Apixaban)",
+      "D. Aspirin 300 mg daily"
+    ],
+    "answer": "A",
+    "explanation": "LMWH does not cross the placenta, is safe for the fetus, and provides effective, predictable anticoagulation throughout pregnancy."
+  },
+  {
+    "id": 91,
+    "section": "5.3 Venous Thromboembolism",
+    "question": "Why is Warfarin contraindicated during the first trimester of pregnancy?",
+    "options": [
+      "A. It causes Warfarin embryopathy (nasal hypoplasia, stippled epiphyses) and fetal hemorrhage",
+      "B. It induces maternal hyperthyroidism",
+      "C. It triggers immediate placenta previa",
+      "D. It causes major neural tube defects"
+    ],
+    "answer": "A",
+    "explanation": "Warfarin readily crosses the placenta and causes severe teratogenic malformations (coumarin embryopathy) between 6 and 9 weeks gestation."
+  },
+  {
+    "id": 92,
+    "section": "5.3 Venous Thromboembolism",
+    "question": "For how long must therapeutic anticoagulation be continued postpartum in a patient treated for acute pregnancy-associated VTE?",
+    "options": [
+      "A. At least 6 weeks postpartum (and a total duration of at least 3 months)",
+      "B. 5 days postpartum",
+      "C. 6 months postpartum only",
+      "D. Stop immediately on the day of delivery"
+    ],
+    "answer": "A",
+    "explanation": "Therapeutic anticoagulation should continue for at least 6 weeks postpartum, ensuring the total treatment duration is at least 3 months."
+  },
+  {
+    "id": 93,
+    "section": "5.4 Postpartum Psychiatric Disorders",
+    "question": "What characterizes 'Postpartum Blues' compared to Postpartum Depression?",
+    "options": [
+      "A. Mild mood lability appearing within 3-5 days postpartum and resolving spontaneously within 10-14 days",
+      "B. Severe psychotic hallucinations requiring immediate involuntary admission",
+      "C. Onset 6 months after delivery lasting over 2 years",
+      "D. Presence of severe suicidal ideation and catatonia"
+    ],
+    "answer": "A",
+    "explanation": "Postpartum blues affects up to 80% of mothers, peaks around day 4-5, is self-limiting, and resolves within two weeks with supportive reassurance."
+  },
+  {
+    "id": 94,
+    "section": "5.4 Postpartum Psychiatric Disorders",
+    "question": "What is the estimated prevalence of Postpartum Depression (PPD) among new mothers?",
+    "options": [
+      "A. 10-15%",
+      "B. 0.1%",
+      "C. 50-60%",
+      "D. 85-90%"
+    ],
+    "answer": "A",
+    "explanation": "Postpartum depression affects approximately 10 to 15 percent of women following childbirth."
+  },
+  {
+    "id": 95,
+    "section": "5.4 Postpartum Psychiatric Disorders",
+    "question": "Which screening tool is widely validated and used globally to screen for Postpartum Depression?",
+    "options": [
+      "A. Edinburgh Postnatal Depression Scale (EPDS)",
+      "B. Beck Anxiety Inventory (BAI)",
+      "C. MMPI-2",
+      "D. CAGE Questionnaire"
+    ],
+    "answer": "A",
+    "explanation": "The EPDS is a 10-item self-report questionnaire designed specifically to screen for postnatal depressive symptoms."
+  },
+  {
+    "id": 96,
+    "section": "5.4 Postpartum Psychiatric Disorders",
+    "question": "What is the incidence of Postpartum Psychosis among delivered women?",
+    "options": [
+      "A. 1 to 2 per 1,000 deliveries (0.1 - 0.2%)",
+      "B. 10 to 20 per 100 deliveries",
+      "C. 5 per 10 deliveries",
+      "D. 1 per 10,000,000 deliveries"
+    ],
+    "answer": "A",
+    "explanation": "Postpartum psychosis is a severe emergency occurring in roughly 1 to 2 per 1,000 childbirths."
+  },
+  {
+    "id": 97,
+    "section": "5.4 Postpartum Psychiatric Disorders",
+    "question": "Postpartum Psychosis is considered a medical emergency primarily due to high risks of:",
+    "options": [
+      "A. Infanticide and maternal suicide",
+      "B. Rapid onset uterine rupture",
+      "C. Secondary postpartum hemorrhage",
+      "D. Deep vein thrombosis"
+    ],
+    "answer": "A",
+    "explanation": "Delusions involving the infant and severe mood collapse carry significant risk of suicide and infanticide, necessitating urgent psychiatric admission."
+  },
+  {
+    "id": 98,
+    "section": "5.4 Postpartum Psychiatric Disorders",
+    "question": "What is the single strongest pre-existing risk factor for developing Postpartum Psychosis?",
+    "options": [
+      "A. Personal or family history of Bipolar Disorder or prior Postpartum Psychosis",
+      "B. Gestational diabetes mellitus",
+      "C. Maternal grand multiparity",
+      "D. Advanced maternal age above 35 years"
+    ],
+    "answer": "A",
+    "explanation": "Women with a history of bipolar disorder or previous puerperal psychosis have up to a 50% risk of recurrence following delivery."
+  },
+  {
+    "id": 99,
+    "section": "5.4 Postpartum Psychiatric Disorders",
+    "question": "What is the standard first-line pharmacological treatment class for moderate-to-severe non-psychotic Postpartum Depression?",
+    "options": [
+      "A. Selective Serotonin Reuptake Inhibitors (SSRIs, e.g., Sertraline)",
+      "B. Benzodiazepines alone",
+      "C. First-generation typical antipsychotics",
+      "D. High-dose systemic corticosteroids"
+    ],
+    "answer": "A",
+    "explanation": "SSRIs like Sertraline are first-line antidepressants due to proven safety and low excretion levels into breast milk."
+  },
+  {
+    "id": 100,
+    "section": "5.4 Postpartum Psychiatric Disorders",
+    "question": "Where should a mother suffering from severe Postpartum Psychosis ideally be admitted for inpatient treatment?",
+    "options": [
+      "A. A specialized joint Mother and Baby Unit (MBU)",
+      "B. A general adult psychiatric ward without the infant",
+      "C. An isolation room on the obstetrics ward",
+      "D. Home isolation with outpatient visits"
+    ],
+    "answer": "A",
+    "explanation": "Mother and Baby Units (MBUs) allow joint admission so the mother receives expert psychiatric care while maintaining bonding with her infant."
   }
-];
-  
+    ]
 
-
-
-
+    
+      
